@@ -1,0 +1,1971 @@
+1:6300101:Arroz (polido, parboilizado, agulha, agulhinha, etc.):99:Não se aplica:135.62:2.50:1.20:27.78:1.55
+2:6300201:Arroz integral:99:Não se aplica:130.95:2.56:1.97:25.56:2.72
+3:6300701:Milho (em grão):1:Cru(a):160.14:3.32:7.18:25.11:4.25
+4:6300701:Milho (em grão):2:Cozido(a):160.14:3.32:7.18:25.11:4.25
+5:6300701:Milho (em grão):3:Grelhado(a)/brasa/churrasco:160.14:3.32:7.18:25.11:4.25
+6:6300701:Milho (em grão):4:Assado(a):160.14:3.32:7.18:25.11:4.25
+7:6300701:Milho (em grão):7:Refogado(a):160.14:3.32:7.18:25.11:4.25
+8:6300701:Milho (em grão):13:Ensopado:160.14:3.32:7.18:25.11:4.25
+9:6300701:Milho (em grão):99:Não se aplica:160.14:3.32:7.18:25.11:4.25
+10:6300706:Canjiquinha de milho em grão:1:Cru(a):79.68:1.24:2.20:13.50:0.67
+11:6300706:Canjiquinha de milho em grão:2:Cozido(a):62.95:1.24:0.31:13.50:0.67
+12:6300706:Canjiquinha de milho em grão:13:Ensopado:79.68:1.24:2.20:13.50:0.67
+13:6300706:Canjiquinha de milho em grão:14:Mingau:62.95:1.24:0.31:13.50:0.67
+14:6300706:Canjiquinha de milho em grão:15:Sopa:31.44:0.95:0.12:7.01:0.71
+15:6300706:Canjiquinha de milho em grão:99:Não se aplica:62.95:1.24:0.31:13.50:0.67
+16:6300707:Xerém de milho:99:Não se aplica:62.95:1.24:0.31:13.50:0.67
+17:6301001:Amendoim (em grão) in natura:99:Não se aplica:567.00:25.80:49.24:16.13:8.50
+18:6301101:Ervilha em grão:99:Não se aplica:109.09:5.36:3.06:15.63:5.50
+19:6301201:Fava (em grão):99:Não se aplica:85.62:4.80:3.17:10.10:3.60
+20:6301204:Mangalô amargo em grão:99:Não se aplica:85.62:4.80:3.17:10.10:3.60
+21:6301603:Feijão-de-corda:99:Não se aplica:121.33:3.17:3.13:20.32:5.00
+22:6301634:Feijão-verde:99:Não se aplica:121.33:3.17:3.13:20.32:5.00
+23:6302001:Semente de linhaça:99:Não se aplica:534.00:18.29:42.16:28.88:27.30
+24:6302602:Andu:99:Não se aplica:97.41:5.84:1.79:15.05:3.78
+25:6302801:Grão de bico:99:Não se aplica:188.48:8.86:5.36:27.42:7.60
+26:6302901:Lentilha:99:Não se aplica:136.28:9.02:2.67:20.13:5.86
+27:6303001:Soja em grão:99:Não se aplica:196.34:16.64:11.61:9.93:6.00
+28:6303102:Feijão (preto, mulatinho, roxo, rosinha, etc.):99:Não se aplica:97.41:5.84:1.79:15.05:3.78
+29:6303501:Quirera não especificada:99:Não se aplica:62.95:1.24:0.31:13.50:0.67
+30:6304034:Feijão-verde orgânico:99:Não se aplica:121.33:3.17:3.13:20.32:5.00
+31:6304101:Feijão orgânico:99:Não se aplica:97.41:5.84:1.79:15.05:3.78
+32:6304201:Pipoca  light:99:Não se aplica:445.94:10.77:17.78:64.85:12.07
+33:6304301:Arroz  orgânico:99:Não se aplica:135.62:2.50:1.20:27.78:1.55
+34:6304401:Arroz integral orgânico:99:Não se aplica:130.95:2.56:1.97:25.56:2.72
+35:6304602:Feijão-de-soja orgânico:99:Não se aplica:196.34:16.64:11.61:9.93:6.00
+36:6304901:Quinoa:99:Não se aplica:135.47:4.37:4.33:19.83:2.16
+37:6400101:Batata-inglesa:1:Cru(a):86.00:1.71:0.10:20.01:2.05
+38:6400101:Batata-inglesa:2:Cozido(a):86.00:1.71:0.10:20.01:2.05
+39:6400101:Batata-inglesa:3:Grelhado(a)/brasa/churrasco:86.00:1.71:0.10:20.01:2.05
+40:6400101:Batata-inglesa:4:Assado(a):86.00:1.71:0.10:20.01:2.05
+41:6400101:Batata-inglesa:5:Frito(a):263.50:2.87:13.64:33.60:3.44
+42:6400101:Batata-inglesa:7:Refogado(a):111.74:1.71:3.01:20.01:2.05
+43:6400101:Batata-inglesa:8:Molho vermelho:73.60:1.63:0.12:17.08:1.94
+44:6400101:Batata-inglesa:9:Molho branco:101.39:2.15:2.57:17.86:1.68
+45:6400101:Batata-inglesa:10:Ao alho e óleo:263.50:2.87:13.64:33.60:3.44
+46:6400101:Batata-inglesa:11:Com manteiga/óleo:111.74:1.71:3.01:20.01:2.05
+47:6400101:Batata-inglesa:13:Ensopado:111.74:1.71:3.01:20.01:2.05
+48:6400101:Batata-inglesa:15:Sopa:31.44:0.95:0.12:7.01:0.71
+49:6400101:Batata-inglesa:99:Não se aplica:86.00:1.71:0.10:20.01:2.05
+50:6400303:Mandioquinha salsa (batata-baroa):2:Cozido(a):76.00:1.37:0.14:17.72:2.50
+51:6400303:Mandioquinha salsa (batata-baroa):7:Refogado(a):91.74:1.37:1.92:17.72:2.50
+52:6400303:Mandioquinha salsa (batata-baroa):13:Ensopado:91.74:1.37:1.92:17.72:2.50
+53:6400303:Mandioquinha salsa (batata-baroa):99:Não se aplica:76.00:1.37:0.14:17.72:2.50
+54:6400304:Cenoura amarela (batata-baroa):99:Não se aplica:76.00:1.37:0.14:17.72:2.50
+55:6400401:Batata-doce:1:Cru(a):76.00:1.37:0.14:17.72:2.50
+56:6400401:Batata-doce:2:Cozido(a):76.00:1.37:0.14:17.72:2.50
+57:6400401:Batata-doce:4:Assado(a):90.00:2.01:0.15:20.71:3.30
+58:6400401:Batata-doce:5:Frito(a):351.28:4.40:12.59:56.88:8.03
+59:6400401:Batata-doce:7:Refogado(a):91.74:1.37:1.92:17.72:2.50
+60:6400401:Batata-doce:13:Ensopado:91.74:1.37:1.92:17.72:2.50
+61:6400401:Batata-doce:99:Não se aplica:76.00:1.37:0.14:17.72:2.50
+62:6400501:Inhame:1:Cru(a):100.00:1.71:0.12:23.40:1.80
+63:6400501:Inhame:2:Cozido(a):100.00:1.71:0.12:23.40:1.80
+64:6400501:Inhame:4:Assado(a):90.00:2.01:0.15:20.71:3.30
+65:6400501:Inhame:5:Frito(a):115.74:1.71:1.90:23.40:1.80
+66:6400501:Inhame:7:Refogado(a):115.74:1.71:1.90:23.40:1.80
+67:6400501:Inhame:13:Ensopado:115.74:1.71:1.90:23.40:1.80
+68:6400501:Inhame:15:Sopa:31.44:0.95:0.12:7.01:0.71
+69:6400508:Quicaré:99:Não se aplica:100.00:1.71:0.12:23.40:1.80
+70:6400601:Mandioca:1:Cru(a):125.00:0.60:0.30:30.10:1.60
+71:6400601:Mandioca:2:Cozido(a):125.00:0.60:0.30:30.10:1.60
+72:6400601:Mandioca:4:Assado(a):125.00:0.60:0.30:30.10:1.60
+73:6400601:Mandioca:5:Frito(a):162.74:0.57:5.26:28.60:1.52
+74:6400601:Mandioca:7:Refogado(a):162.74:0.57:5.26:28.60:1.52
+75:6400601:Mandioca:8:Molho vermelho:104.80:0.74:0.28:25.16:1.58
+76:6400601:Mandioca:11:Com manteiga/óleo:154.60:0.61:4.34:28.60:1.52
+77:6400601:Mandioca:13:Ensopado:162.74:0.57:5.26:28.60:1.52
+78:6400601:Mandioca:15:Sopa:31.44:0.95:0.12:7.01:0.71
+79:6400601:Mandioca:99:Não se aplica:125.00:0.60:0.30:30.10:1.60
+80:6400609:Aipim:2:Cozido(a):125.00:0.60:0.30:30.10:1.60
+81:6400609:Aipim:4:Assado(a):125.00:0.60:0.30:30.10:1.60
+82:6400609:Aipim:5:Frito(a):162.74:0.57:5.26:28.60:1.52
+83:6400609:Aipim:6:Empanado(a)/à milanesa:162.74:0.57:5.26:28.60:1.52
+84:6400609:Aipim:7:Refogado(a):162.74:0.57:5.26:28.60:1.52
+85:6400609:Aipim:8:Molho vermelho:104.80:0.74:0.28:25.16:1.58
+86:6400609:Aipim:11:Com manteiga/óleo:154.60:0.61:4.34:28.60:1.52
+87:6400609:Aipim:13:Ensopado:162.74:0.57:5.26:28.60:1.52
+88:6400609:Aipim:15:Sopa:31.44:0.95:0.12:7.01:0.71
+89:6400609:Aipim:99:Não se aplica:125.00:0.60:0.30:30.10:1.60
+90:6400610:Macaxeira:1:Cru(a):125.00:0.60:0.30:30.10:1.60
+91:6400610:Macaxeira:2:Cozido(a):125.00:0.60:0.30:30.10:1.60
+92:6400610:Macaxeira:4:Assado(a):125.00:0.60:0.30:30.10:1.60
+93:6400610:Macaxeira:5:Frito(a):162.74:0.57:5.26:28.60:1.52
+94:6400701:Cará:2:Cozido(a):100.00:1.71:0.12:23.40:1.80
+95:6400701:Cará:5:Frito(a):115.74:1.71:1.90:23.40:1.80
+96:6400701:Cará:7:Refogado(a):115.74:1.71:1.90:23.40:1.80
+97:6400701:Cará:13:Ensopado:115.74:1.71:1.90:23.40:1.80
+98:6400701:Cará:14:Mingau:100.00:1.71:0.12:23.40:1.80
+99:6400701:Cará:15:Sopa:31.44:0.95:0.12:7.01:0.71
+100:6400713:Inhame caraquento (cará):2:Cozido(a):100.00:1.71:0.12:23.40:1.80
+101:6400802:Batata (não especificada):1:Cru(a):86.00:1.71:0.10:20.01:2.05
+102:6400802:Batata (não especificada):2:Cozido(a):86.00:1.71:0.10:20.01:2.05
+103:6400802:Batata (não especificada):3:Grelhado(a)/brasa/churrasco:86.00:1.71:0.10:20.01:2.05
+104:6400802:Batata (não especificada):4:Assado(a):86.00:1.71:0.10:20.01:2.05
+105:6400802:Batata (não especificada):5:Frito(a):263.50:2.87:13.64:33.60:3.44
+106:6400802:Batata (não especificada):7:Refogado(a):111.74:1.71:3.01:20.01:2.05
+107:6400802:Batata (não especificada):8:Molho vermelho:73.60:1.63:0.12:17.08:1.94
+108:6400802:Batata (não especificada):9:Molho branco:101.39:2.15:2.57:17.86:1.68
+109:6400802:Batata (não especificada):12:Ao vinagrete:111.74:1.71:3.01:20.01:2.05
+110:6400802:Batata (não especificada):13:Ensopado:111.74:1.71:3.01:20.01:2.05
+111:6400802:Batata (não especificada):15:Sopa:31.44:0.95:0.12:7.01:0.71
+112:6400802:Batata (não especificada):99:Não se aplica:86.00:1.71:0.10:20.01:2.05
+113:6400908:Mandioquinha:2:Cozido(a):76.00:1.37:0.14:17.72:2.50
+114:6400908:Mandioquinha:5:Frito(a):116.40:1.30:5.13:16.83:2.38
+115:6400908:Mandioquinha:7:Refogado(a):91.74:1.37:1.92:17.72:2.50
+116:6400908:Mandioquinha:13:Ensopado:91.74:1.37:1.92:17.72:2.50
+117:6401001:Rabanete:1:Cru(a):16.00:0.68:0.10:3.40:1.60
+118:6401001:Rabanete:2:Cozido(a):18.00:0.60:0.10:4.10:1.60
+119:6401001:Rabanete:12:Ao vinagrete:18.00:0.60:0.10:4.10:1.60
+120:6401101:Beterraba:1:Cru(a):43.00:1.61:0.17:9.56:2.80
+121:6401101:Beterraba:2:Cozido(a):44.00:1.68:0.18:9.96:2.00
+122:6401101:Beterraba:7:Refogado(a):67.62:1.68:2.85:9.96:2.00
+123:6401101:Beterraba:12:Ao vinagrete:44.00:1.68:0.18:9.96:2.00
+124:6401101:Beterraba:15:Sopa:31.44:0.95:0.12:7.01:0.71
+125:6401101:Beterraba:99:Não se aplica:43.00:1.61:0.17:9.56:2.80
+126:6401201:Cenoura:1:Cru(a):41.00:0.93:0.24:9.58:2.80
+127:6401201:Cenoura:2:Cozido(a):35.00:0.76:0.18:8.22:3.00
+128:6401201:Cenoura:5:Frito(a):60.47:0.74:3.17:7.97:2.91
+129:6401201:Cenoura:7:Refogado(a):60.47:0.74:3.17:7.97:2.91
+130:6401201:Cenoura:8:Molho vermelho:32.80:0.87:0.18:7.65:2.70
+131:6401201:Cenoura:10:Ao alho e óleo:60.47:0.74:3.17:7.97:2.91
+132:6401201:Cenoura:11:Com manteiga/óleo:56.74:0.79:2.64:8.22:3.00
+133:6401201:Cenoura:12:Ao vinagrete:35.00:0.76:0.18:8.22:3.00
+134:6401201:Cenoura:13:Ensopado:60.47:0.74:3.17:7.97:2.91
+135:6401201:Cenoura:15:Sopa:31.44:0.95:0.12:7.01:0.71
+136:6401201:Cenoura:99:Não se aplica:41.00:0.93:0.24:9.58:2.80
+137:6401301:Nabo:2:Cozido(a):22.00:0.71:0.08:5.06:2.00
+138:6401301:Nabo:7:Refogado(a):47.74:0.71:2.99:5.06:2.00
+139:6401601:Açafrão:1:Cru(a):310.00:11.43:5.85:65.37:3.90
+140:6401801:Batata-inglesa orgânica:5:Frito(a):263.50:2.87:13.64:33.60:3.44
+141:6500101:Creme de arroz:99:Não se aplica:148.32:3.80:3.30:26.07:0.30
+142:6500104:Arrozina:99:Não se aplica:148.32:3.80:3.30:26.07:0.30
+143:6500105:Mucilon:99:Não se aplica:78.24:2.42:3.06:10.46:0.17
+144:6500108:Mingau de arroz:99:Não se aplica:148.32:3.80:3.30:26.07:0.30
+145:6500202:Croquinhos de arroz:99:Não se aplica:387.00:12.94:4.54:77.90:14.50
+146:6500301:Farinha de aveia:99:Não se aplica:384.00:16.00:6.30:67.00:9.80
+147:6500401:Aveia em flocos:99:Não se aplica:384.00:16.00:6.30:67.00:9.80
+148:6500601:Fubá de milho:99:Não se aplica:60.58:1.44:0.20:13.00:0.26
+149:6500603:Farinha de milho:99:Não se aplica:351.00:7.20:1.50:79.10:5.50
+150:6500608:Puba de milho:99:Não se aplica:311.00:4.80:12.40:45.10:0.70
+151:6500609:Puba de fubá:99:Não se aplica:311.00:4.80:12.40:45.10:0.70
+152:6500613:Milho moído:2:Cozido(a):160.14:3.32:7.18:25.11:4.25
+153:6500614:Mingau de milho:99:Não se aplica:78.24:2.42:3.06:10.46:0.17
+154:6500702:Amido de milho:99:Não se aplica:78.24:2.42:3.06:10.46:0.17
+155:6500705:Amido de arroz:99:Não se aplica:148.32:3.80:3.30:26.07:0.30
+156:6500801:Cremogema:99:Não se aplica:78.24:2.42:3.06:10.46:0.17
+157:6500802:Vitamilho:99:Não se aplica:128.30:4.35:0.22:26.42:1.71
+158:6500804:Creme de milho:99:Não se aplica:78.24:2.42:3.06:10.46:0.17
+159:6500902:Sucrilhos de milho:99:Não se aplica:377.00:4.70:0.70:88.80:2.10
+160:6500903:Cereal matinal de milho em flocos:99:Não se aplica:377.00:4.70:0.70:88.80:2.10
+161:6501301:Germe de trigo:99:Não se aplica:360.00:23.15:9.72:51.80:13.20
+162:6501303:Fibra de trigo:99:Não se aplica:216.00:15.55:4.25:64.51:42.80
+163:6501304:Fibra de cereal trigo:99:Não se aplica:216.00:15.55:4.25:64.51:42.80
+164:6501401:Farinha de mandioca:99:Não se aplica:361.00:1.60:0.30:87.90:6.40
+165:6501410:Farinha de copioba:99:Não se aplica:361.00:1.60:0.30:87.90:6.40
+166:6501415:Farinha d'água:99:Não se aplica:361.00:1.60:0.30:87.90:6.40
+167:6501416:Cruera:99:Não se aplica:361.00:1.60:0.30:87.90:6.40
+168:6501502:Goma de mandioca:99:Não se aplica:336.00:2.00:-:82.00:-
+169:6501505:Sagu de mandioca:99:Não se aplica:116.99:4.33:4.10:15.51:0.03
+170:6501510:Farinha de tapioca:99:Não se aplica:331.00:0.50:0.30:81.10:0.60
+171:6501511:Farinha beiju:99:Não se aplica:331.00:0.50:0.30:81.10:0.60
+172:6501515:Sagu de tapioca:99:Não se aplica:116.99:4.33:4.10:15.51:0.03
+173:6501516:Tapioca de goma:99:Não se aplica:336.00:2.00:-:82.00:-
+174:6502001:Farinha láctea:99:Não se aplica:396.67:12.67:6.33:73.33:2.67
+175:6502101:Neston:99:Não se aplica:345.80:12.92:-:70.80:6.25
+176:6502102:Flocos de cereais:99:Não se aplica:365.00:7.20:1.00:83.80:4.10
+177:6502105:Vitaflocos:99:Não se aplica:78.24:2.42:3.06:10.46:0.17
+178:6502403:Mini pizza semipronta:1:Cru(a):252.49:10.17:8.22:33.73:1.75
+179:6502403:Mini pizza semipronta:2:Cozido(a):252.49:10.17:8.22:33.73:1.75
+180:6502403:Mini pizza semipronta:4:Assado(a):252.49:10.17:8.22:33.73:1.75
+181:6502403:Mini pizza semipronta:5:Frito(a):252.49:10.17:8.22:33.73:1.75
+182:6502403:Mini pizza semipronta:99:Não se aplica:252.49:10.17:8.22:33.73:1.75
+183:6502501:Fibra de soja:99:Não se aplica:70.00:12.00:2.00:74.00:73.00
+184:6502603:Minipastel:99:Não se aplica:319.81:10.38:15.68:33.51:1.45
+185:6503401:Macarrão :1:Cru(a):158.00:5.80:0.93:30.86:1.80
+186:6503401:Macarrão :2:Cozido(a):158.00:5.80:0.93:30.86:1.80
+187:6503401:Macarrão :3:Grelhado(a)/brasa/churrasco:158.00:5.80:0.93:30.86:1.80
+188:6503401:Macarrão :4:Assado(a):158.00:5.80:0.93:30.86:1.80
+189:6503401:Macarrão :5:Frito(a):186.68:5.80:4.17:30.86:1.80
+190:6503401:Macarrão :6:Empanado(a)/à milanesa:186.68:5.80:4.17:30.86:1.80
+191:6503401:Macarrão :7:Refogado(a):186.68:5.80:4.17:30.86:1.80
+192:6503401:Macarrão :8:Molho vermelho:103.73:3.50:1.92:18.27:1.46
+193:6503401:Macarrão :9:Molho branco:158.99:5.42:3.23:26.54:1.48
+194:6503401:Macarrão :10:Ao alho e óleo:186.68:5.80:4.17:30.86:1.80
+195:6503401:Macarrão :11:Com manteiga/óleo:182.22:5.83:3.67:30.86:1.80
+196:6503401:Macarrão :12:Ao vinagrete:158.00:5.80:0.93:30.86:1.80
+197:6503401:Macarrão :13:Ensopado:186.68:5.80:4.17:30.86:1.80
+198:6503401:Macarrão :15:Sopa:158.00:5.80:0.93:30.86:1.80
+199:6503401:Macarrão :99:Não se aplica:158.00:5.80:0.93:30.86:1.80
+200:6503501:Purê de batata:99:Não se aplica:115.16:1.81:4.36:17.76:1.78
+201:6503601:Bife vegetal:99:Não se aplica:142.37:18.51:5.32:5.80:0.44
+202:6503603:Carne vegetal:5:Frito(a):142.37:18.51:5.32:5.80:0.44
+203:6503604:Pasta de soja:99:Não se aplica:62.00:6.90:2.70:2.40:0.10
+204:6503605:Carne de soja:99:Não se aplica:142.37:18.51:5.32:5.80:0.44
+205:6503702:Amendoim moído:99:Não se aplica:567.00:25.80:49.24:16.13:8.50
+206:6504101:Granola :99:Não se aplica:388.00:9.50:6.30:73.80:8.50
+207:6504601:Musli:99:Não se aplica:388.00:9.50:6.30:73.80:8.50
+208:6504701:Mix de cereais:99:Não se aplica:388.00:9.50:6.30:73.80:8.50
+209:6504801:Miojo:99:Não se aplica:189.86:5.65:7.18:25.54:1.16
+210:6504802:Macarrão instantâneo:99:Não se aplica:189.86:5.65:7.18:25.54:1.16
+211:6505101:Sustagem:99:Não se aplica:369.15:24.05:0.49:68.02:-
+212:6505601:Proteína de soja:99:Não se aplica:142.37:18.51:5.32:5.80:0.44
+213:6505603:Proteína vegetal:99:Não se aplica:142.37:18.51:5.32:5.80:0.44
+214:6505701:Complemento alimentar de qualquer sabor:99:Não se aplica:369.15:24.05:0.49:68.02:-
+215:6505902:Sucrilhos de milho light:99:Não se aplica:365.00:7.20:1.00:83.80:4.10
+216:6506003:Mini pizza semipronta light:4:Assado(a):255.57:14.60:8.45:29.82:1.74
+217:6506302:Macarrão instantâneo light:15:Sopa:189.86:5.65:7.18:25.54:1.16
+218:6506302:Macarrão instantâneo light:99:Não se aplica:189.86:5.65:7.18:25.54:1.16
+219:6506401:Proteína de soja orgânica:99:Não se aplica:142.37:18.51:5.32:5.80:0.44
+220:6573225:Macarrão com carne:99:Não se aplica:120.59:6.22:2.79:17.42:1.25
+221:6573226:Macarrão com peixe:99:Não se aplica:163.17:14.98:4.13:15.43:0.90
+222:6600101:Coco-da-baía (seco ou verde):99:Não se aplica:354.00:3.33:33.49:15.23:9.00
+223:6600301:Castanha portuguesa:99:Não se aplica:131.00:2.00:1.38:27.76:4.14
+224:6600401:Pinhão:99:Não se aplica:174.37:2.98:0.75:43.92:15.60
+225:6600501:Amêndoa:99:Não se aplica:578.00:21.26:50.64:19.74:11.80
+226:6600601:Avelã:99:Não se aplica:628.00:14.95:60.75:16.70:9.70
+227:6600701:Castanha-do-pará:99:Não se aplica:656.00:14.32:66.43:12.27:7.50
+228:6600801:Castanha de caju:99:Não se aplica:574.00:15.31:46.35:32.69:3.00
+229:6600912:Butiá:99:Não se aplica:105.00:1.90:2.00:22.80:7.40
+230:6601108:Tucumã:99:Não se aplica:474.00:5.50:47.20:6.80:19.20
+231:6601208:Coco de mucajá:99:Não se aplica:404.28:2.08:40.66:13.95:13.44
+232:6601501:Noz (nogueira):99:Não se aplica:654.00:15.23:65.21:13.71:6.70
+233:6601706:Açaí :99:Não se aplica:262.00:3.60:2.00:57.40:5.92
+234:6601707:Juçara:99:Não se aplica:262.00:3.60:2.00:57.40:5.92
+235:6601709:Uaçaí:99:Não se aplica:262.00:3.60:2.00:57.40:5.92
+236:6601712:Jussara:99:Não se aplica:262.00:3.60:2.00:57.40:5.92
+237:6601805:Pupunha:99:Não se aplica:28.00:2.52:0.62:4.62:2.40
+238:6601902:Bacaba:99:Não se aplica:212.00:3.12:19.80:6.60:-
+239:6601904:Bacabuçu:99:Não se aplica:212.00:3.12:19.80:6.60:-
+240:6602001:Castanha-da-índia:99:Não se aplica:656.00:14.32:66.43:12.27:7.50
+241:6602201:Pistache:99:Não se aplica:557.00:20.61:44.44:27.97:10.30
+242:6602301:Buriti :99:Não se aplica:145.00:1.80:8.10:10.20:9.60
+243:6602401:Coco :99:Não se aplica:354.00:3.33:33.49:15.23:9.00
+244:6602601:Patauá :99:Não se aplica:105.00:1.90:2.00:22.80:7.40
+245:6700101:Alface:99:Não se aplica:15.00:1.36:0.15:2.79:1.30
+246:6700201:Bertalha:7:Refogado(a):45.30:2.97:2.78:3.75:2.40
+247:6700301:Chicória:1:Cru(a):17.00:1.25:0.20:3.35:3.10
+248:6700301:Chicória:2:Cozido(a):58.88:1.90:3.89:5.63:2.00
+249:6700301:Chicória:7:Refogado(a):58.88:1.90:3.89:5.63:2.00
+250:6700301:Chicória:12:Ao vinagrete:58.88:1.90:3.89:5.63:2.00
+251:6700304:Escarola:99:Não se aplica:52.88:1.61:3.75:4.31:3.99
+252:6700501:Couve:1:Cru(a):30.00:2.45:0.42:5.69:3.60
+253:6700501:Couve:2:Cozido(a):26.00:2.11:0.36:4.91:2.80
+254:6700501:Couve:5:Frito(a):47.13:2.11:2.75:4.91:2.80
+255:6700501:Couve:7:Refogado(a):47.13:2.11:2.75:4.91:2.80
+256:6700501:Couve:8:Molho vermelho:25.60:1.95:0.32:5.00:2.54
+257:6700501:Couve:10:Ao alho e óleo:47.13:2.11:2.75:4.91:2.80
+258:6700501:Couve:11:Com manteiga/óleo:43.85:2.13:2.38:4.91:2.80
+259:6700501:Couve:12:Ao vinagrete:26.00:2.11:0.36:4.91:2.80
+260:6700501:Couve:13:Ensopado:47.13:2.11:2.75:4.91:2.80
+261:6700501:Couve:14:Mingau:26.00:2.11:0.36:4.91:2.80
+262:6700501:Couve:99:Não se aplica:26.00:2.11:0.36:4.91:2.80
+263:6700601:Couve-flor:1:Cru(a):23.00:1.84:0.45:4.11:2.30
+264:6700601:Couve-flor:2:Cozido(a):23.00:1.84:0.45:4.11:2.30
+265:6700601:Couve-flor:5:Frito(a):55.38:1.84:4.11:4.11:2.30
+266:6700601:Couve-flor:6:Empanado(a)/à milanesa:137.44:4.17:9.21:10.31:2.08
+267:6700601:Couve-flor:7:Refogado(a):55.38:1.84:4.11:4.11:2.30
+268:6700601:Couve-flor:12:Ao vinagrete:23.00:1.84:0.45:4.11:2.30
+269:6700601:Couve-flor:99:Não se aplica:23.00:1.84:0.45:4.11:2.30
+270:6700701:Espinafre:1:Cru(a):23.00:2.97:0.26:3.75:2.40
+271:6700701:Espinafre:2:Cozido(a):23.00:2.97:0.26:3.75:2.40
+272:6700701:Espinafre:7:Refogado(a):45.30:2.97:2.78:3.75:2.40
+273:6700701:Espinafre:12:Ao vinagrete:23.00:2.97:0.26:3.75:2.40
+274:6700701:Espinafre:99:Não se aplica:23.00:2.97:0.26:3.75:2.40
+275:6700801:Mostarda (verdura):1:Cru(a):26.00:2.70:0.20:4.90:3.30
+276:6700801:Mostarda (verdura):2:Cozido(a):15.00:2.26:0.24:2.10:2.00
+277:6700801:Mostarda (verdura):7:Refogado(a):43.68:2.26:3.48:2.10:2.00
+278:6700801:Mostarda (verdura):99:Não se aplica:15.00:2.26:0.24:2.10:2.00
+279:6700901:Repolho:1:Cru(a):25.00:1.28:0.10:5.80:2.24
+280:6700901:Repolho:2:Cozido(a):23.00:1.27:0.06:5.51:1.90
+281:6700901:Repolho:5:Frito(a):49.77:1.27:3.09:5.51:1.90
+282:6700901:Repolho:7:Refogado(a):49.77:1.27:3.09:5.51:1.90
+283:6700901:Repolho:9:Molho branco:23.00:1.27:0.06:5.51:1.90
+284:6700901:Repolho:10:Ao alho e óleo:49.77:1.27:3.09:5.51:1.90
+285:6700901:Repolho:12:Ao vinagrete:23.00:1.27:0.06:5.51:1.90
+286:6700901:Repolho:13:Ensopado:49.77:1.27:3.09:5.51:1.90
+287:6700901:Repolho:15:Sopa:31.44:0.95:0.12:7.01:0.71
+288:6700901:Repolho:99:Não se aplica:23.00:1.27:0.06:5.51:1.90
+289:6701101:Cebolinha:99:Não se aplica:25.00:1.80:0.10:5.65:3.50
+290:6701301:Agrião:1:Cru(a):25.00:2.58:0.66:3.65:1.60
+291:6701301:Agrião:2:Cozido(a):11.00:2.30:0.10:1.29:0.50
+292:6701301:Agrião:12:Ao vinagrete:11.00:2.30:0.10:1.29:0.50
+293:6701301:Agrião:13:Ensopado:35.75:2.33:2.90:1.29:0.50
+294:6701301:Agrião:99:Não se aplica:25.00:2.58:0.66:3.65:1.60
+295:6701401:Taioba:1:Cru(a):34.00:2.90:0.90:5.40:4.50
+296:6701401:Taioba:2:Cozido(a):26.00:2.11:0.36:4.91:2.80
+297:6701401:Taioba:7:Refogado(a):47.13:2.11:2.75:4.91:2.80
+298:6701501:Acelga:1:Cru(a):19.00:1.80:0.20:3.74:1.60
+299:6701501:Acelga:2:Cozido(a):14.00:1.50:0.17:2.41:1.70
+300:6701501:Acelga:7:Refogado(a):47.74:1.50:3.99:2.41:1.70
+301:6701501:Acelga:99:Não se aplica:19.00:1.80:0.20:3.74:1.60
+302:6701505:Beterraba branca (acelga) :2:Cozido(a):14.00:1.50:0.17:2.41:1.70
+303:6701601:Almeirão:1:Cru(a):17.00:1.25:0.20:3.35:3.10
+304:6701601:Almeirão:2:Cozido(a):22.00:1.61:0.26:4.31:3.99
+305:6701601:Almeirão:7:Refogado(a):52.88:1.61:3.75:4.31:3.99
+306:6701601:Almeirão:12:Ao vinagrete:22.00:1.61:0.26:4.31:3.99
+307:6701602:Radite:1:Cru(a):17.00:1.25:0.20:3.35:3.10
+308:6701602:Radite:7:Refogado(a):52.88:1.61:3.75:4.31:3.99
+309:6701602:Radite:12:Ao vinagrete:22.00:1.61:0.26:4.31:3.99
+310:6701704:Brócolis:1:Cru(a):34.00:2.82:0.37:6.64:2.60
+311:6701704:Brócolis:2:Cozido(a):35.00:2.38:0.41:7.18:3.30
+312:6701704:Brócolis:6:Empanado(a)/à milanesa:181.23:4.18:11.48:15.43:2.06
+313:6701704:Brócolis:7:Refogado(a):60.74:2.38:3.32:7.18:3.30
+314:6701704:Brócolis:10:Ao alho e óleo:60.74:2.38:3.32:7.18:3.30
+315:6701704:Brócolis:12:Ao vinagrete:35.00:2.38:0.41:7.18:3.30
+316:6701704:Brócolis:99:Não se aplica:35.00:2.38:0.41:7.18:3.30
+317:6701801:Serralha:1:Cru(a):23.00:2.97:0.26:3.75:2.40
+318:6701801:Serralha:2:Cozido(a):23.00:2.97:0.26:3.75:2.40
+319:6701801:Serralha:7:Refogado(a):45.30:2.97:2.78:3.75:2.40
+320:6701901:Caruru:2:Cozido(a):26.00:2.11:0.36:4.91:2.80
+321:6701906:Cuxá:99:Não se aplica:26.00:2.11:0.36:4.91:2.80
+322:6701907:Vinagreira :99:Não se aplica:26.00:2.11:0.36:4.91:2.80
+323:6701913:Cariru:99:Não se aplica:26.00:2.11:0.36:4.91:2.80
+324:6702001:Rúcula:99:Não se aplica:25.00:2.58:0.66:3.65:1.60
+325:6702105:Jambu:99:Não se aplica:32.00:1.90:0.30:7.20:1.30
+326:6702201:Língua de vaca (verdura):1:Cru(a):30.00:2.45:0.42:5.69:3.60
+327:6702301:Alcachofra:99:Não se aplica:53.00:2.89:0.34:11.95:8.60
+328:6702501:Bredo:99:Não se aplica:26.00:2.11:0.36:4.91:2.80
+329:6702604:Salsão (aipo):7:Refogado(a):18.00:0.83:0.16:4.00:1.60
+330:6702801:Erva-doce:99:Não se aplica:31.00:1.24:0.20:7.29:3.10
+331:6703003:Folha de aipim:1:Cru(a):30.00:2.45:0.42:5.69:3.60
+332:6703004:Folha de macaxeira:2:Cozido(a):26.00:2.11:0.36:4.91:2.80
+333:6703101:Broto de feijão:1:Cru(a):30.00:3.04:0.18:5.94:1.80
+334:6703101:Broto de feijão:2:Cozido(a):53.38:2.03:3.75:4.19:0.80
+335:6703306:Moranga:2:Cozido(a):20.00:0.72:0.07:4.90:1.10
+336:6703306:Moranga:7:Refogado(a):36.39:0.72:1.92:4.90:1.10
+337:6703306:Moranga:13:Ensopado:36.39:0.72:1.92:4.90:1.10
+338:6703306:Moranga:99:Não se aplica:20.00:0.72:0.07:4.90:1.10
+339:6703701:Abobrinha:1:Cru(a):16.00:1.21:0.18:3.35:1.10
+340:6703701:Abobrinha:2:Cozido(a):20.00:0.91:0.31:4.31:1.40
+341:6703701:Abobrinha:3:Grelhado(a)/brasa/churrasco:20.00:0.91:0.31:4.31:1.40
+342:6703701:Abobrinha:4:Assado(a):20.00:0.91:0.31:4.31:1.40
+343:6703701:Abobrinha:5:Frito(a):42.30:0.91:2.83:4.31:1.40
+344:6703701:Abobrinha:6:Empanado(a)/à milanesa:160.71:4.35:8.92:16.01:1.56
+345:6703701:Abobrinha:7:Refogado(a):42.30:0.91:2.83:4.31:1.40
+346:6703701:Abobrinha:13:Ensopado:42.30:0.91:2.83:4.31:1.40
+347:6703805:Jerimum:1:Cru(a):20.00:0.72:0.07:4.90:1.10
+348:6703805:Jerimum:2:Cozido(a):20.00:0.72:0.07:4.90:1.10
+349:6703901:Abóbora:1:Cru(a):20.00:0.72:0.07:4.90:1.10
+350:6703901:Abóbora:2:Cozido(a):20.00:0.72:0.07:4.90:1.10
+351:6703901:Abóbora:4:Assado(a):20.00:0.72:0.07:4.90:1.10
+352:6703901:Abóbora:5:Frito(a):36.39:0.72:1.92:4.90:1.10
+353:6703901:Abóbora:7:Refogado(a):36.39:0.72:1.92:4.90:1.10
+354:6703901:Abóbora:8:Molho vermelho:20.80:0.84:0.09:5.00:1.18
+355:6703901:Abóbora:13:Ensopado:36.39:0.72:1.92:4.90:1.10
+356:6703901:Abóbora:15:Sopa:31.44:0.95:0.12:7.01:0.71
+357:6703901:Abóbora:99:Não se aplica:20.00:0.72:0.07:4.90:1.10
+358:6704001:Pépino:99:Não se aplica:15.00:0.65:0.11:3.63:1.14
+359:6704101:Chuchu:1:Cru(a):24.00:0.62:0.48:5.09:2.80
+360:6704101:Chuchu:2:Cozido(a):24.00:0.62:0.48:5.09:2.80
+361:6704101:Chuchu:4:Assado(a):24.00:0.76:0.42:5.15:2.54
+362:6704101:Chuchu:7:Refogado(a):49.09:0.62:3.32:5.09:2.80
+363:6704101:Chuchu:8:Molho vermelho:24.00:0.76:0.42:5.15:2.54
+364:6704101:Chuchu:10:Ao alho e óleo:49.09:0.62:3.32:5.09:2.80
+365:6704101:Chuchu:12:Ao vinagrete:24.00:0.62:0.48:5.09:2.80
+366:6704101:Chuchu:13:Ensopado:49.09:0.62:3.32:5.09:2.80
+367:6704101:Chuchu:15:Sopa:31.44:0.95:0.12:7.01:0.71
+368:6704201:Jiló:1:Cru(a):22.00:1.87:0.21:4.51:2.50
+369:6704201:Jiló:2:Cozido(a):22.00:1.87:0.21:4.51:2.50
+370:6704201:Jiló:4:Assado(a):22.00:1.87:0.21:4.51:2.50
+371:6704201:Jiló:5:Frito(a):47.09:1.87:3.05:4.51:2.50
+372:6704201:Jiló:7:Refogado(a):47.09:1.87:3.05:4.51:2.50
+373:6704201:Jiló:11:Com manteiga/óleo:43.19:1.90:2.61:4.51:2.50
+374:6704201:Jiló:13:Ensopado:47.09:1.87:3.05:4.51:2.50
+375:6704201:Jiló:99:Não se aplica:22.00:1.87:0.21:4.51:2.50
+376:6704301:Maxixe:1:Cru(a):14.00:1.40:0.10:2.70:2.20
+377:6704301:Maxixe:2:Cozido(a):14.00:0.40:0.20:3.04:1.00
+378:6704301:Maxixe:7:Refogado(a):36.94:0.40:2.80:3.04:1.00
+379:6704301:Maxixe:13:Ensopado:36.94:0.40:2.80:3.04:1.00
+380:6704306:Pepininho (maxixe):2:Cozido(a):14.00:0.40:0.20:3.04:1.00
+381:6704306:Pepininho (maxixe):12:Ao vinagrete:14.00:0.40:0.20:3.04:1.00
+382:6704401:Palmito in natura:1:Cru(a):28.00:2.52:0.62:4.62:2.40
+383:6704401:Palmito in natura:2:Cozido(a):28.00:2.52:0.62:4.62:2.40
+384:6704401:Palmito in natura:7:Refogado(a):28.00:2.52:0.62:4.62:2.40
+385:6704401:Palmito in natura:13:Ensopado:28.00:2.52:0.62:4.62:2.40
+386:6704409:Guariroba (palmito in natura):2:Cozido(a):28.00:2.52:0.62:4.62:2.40
+387:6704409:Guariroba (palmito in natura):7:Refogado(a):28.00:2.52:0.62:4.62:2.40
+388:6704409:Guariroba (palmito in natura):8:Molho vermelho:28.00:2.52:0.62:4.62:2.40
+389:6704410:Gueroba (palmito in natura):2:Cozido(a):28.00:2.52:0.62:4.62:2.40
+390:6704410:Gueroba (palmito in natura):7:Refogado(a):28.00:2.52:0.62:4.62:2.40
+391:6704501:Pimentão:99:Não se aplica:20.00:0.86:0.17:4.64:1.70
+392:6705001:Quiabo:1:Cru(a):22.00:1.87:0.21:4.51:2.50
+393:6705001:Quiabo :2:Cozido(a):22.00:1.87:0.21:4.51:2.50
+394:6705001:Quiabo :5:Frito(a):47.09:1.87:3.05:4.51:2.50
+395:6705001:Quiabo :6:Empanado(a)/à milanesa:47.09:1.87:3.05:4.51:2.50
+396:6705001:Quiabo :7:Refogado(a):47.09:1.87:3.05:4.51:2.50
+397:6705001:Quiabo :13:Ensopado:47.09:1.87:3.05:4.51:2.50
+398:6705001:Quiabo :99:Não se aplica:22.00:1.87:0.21:4.51:2.50
+399:6705101:Tomate:99:Não se aplica:18.00:0.88:0.20:3.92:1.20
+400:6705201:Vagem:1:Cru(a):35.00:1.89:0.28:7.88:3.20
+401:6705201:Vagem:2:Cozido(a):35.00:1.89:0.28:7.88:3.20
+402:6705201:Vagem:7:Refogado(a):67.12:1.89:3.91:7.88:3.20
+403:6705201:Vagem:11:Com manteiga/óleo:67.12:1.89:3.91:7.88:3.20
+404:6705201:Vagem:13:Ensopado:67.12:1.89:3.91:7.88:3.20
+405:6705201:Vagem:99:Não se aplica:35.00:1.89:0.28:7.88:3.20
+406:6705301:Cogumelo in natura:99:Não se aplica:28.00:2.17:0.47:5.29:2.20
+407:6705401:Berinjela:1:Cru(a):32.90:0.78:0.22:8.21:2.35
+408:6705401:Berinjela:2:Cozido(a):35.00:0.83:0.23:8.73:2.50
+409:6705401:Berinjela:4:Assado(a):35.00:0.83:0.23:8.73:2.50
+410:6705401:Berinjela:5:Frito(a):75.55:0.83:4.82:8.73:2.50
+411:6705401:Berinjela:6:Empanado(a)/à milanesa:164.87:3.69:10.18:15.86:2.71
+412:6705401:Berinjela:7:Refogado(a):75.55:0.83:4.82:8.73:2.50
+413:6705401:Berinjela :12:Ao vinagrete:35.00:0.83:0.23:8.73:2.50
+414:6705401:Berinjela:13:Ensopado:75.55:0.83:4.82:8.73:2.50
+415:6705401:Berinjela:99:Não se aplica:35.00:0.83:0.23:8.73:2.50
+416:6705501:Ervilha em vagem:2:Cozido(a):67.09:3.27:3.07:7.05:2.80
+417:6705501:Ervilha em vagem:7:Refogado(a):67.09:3.27:3.07:7.05:2.80
+418:6705701:Cebola:1:Cru(a):40.00:1.10:0.10:9.34:1.93
+419:6705701:Cebola:2:Cozido(a):44.00:1.36:0.19:10.15:1.40
+420:6705701:Cebola:3:Grelhado(a)/brasa/churrasco:44.00:1.36:0.19:10.15:1.40
+421:6705701:Cebola:4:Assado(a):44.00:1.36:0.19:10.15:1.40
+422:6705701:Cebola:5:Frito(a):63.12:1.36:2.35:10.15:1.40
+423:6705701:Cebola:7:Refogado(a):63.12:1.36:2.35:10.15:1.40
+424:6705701:Cebola:8:Molho vermelho:40.00:1.35:0.19:9.20:1.42
+425:6705701:Cebola:11:Com manteiga/óleo:60.15:1.38:2.02:10.15:1.40
+426:6705701:Cebola:12:Ao vinagrete:40.00:1.10:0.10:9.34:1.93
+427:6705701:Cebola:99:Não se aplica:40.00:1.10:0.10:9.34:1.93
+428:6705801:Catalonha:7:Refogado(a):42.94:1.88:2.68:4.13:2.10
+429:6706101:Jardineira (seleta):99:Não se aplica:47.00:2.53:0.26:9.06:2.80
+430:6706102:Seleta (jardineira):99:Não se aplica:47.00:2.53:0.26:9.06:2.80
+431:6706201:Alho:99:Não se aplica:149.00:6.36:0.50:33.06:2.10
+432:6706301:Alho-poró:99:Não se aplica:54.48:0.81:2.86:7.62:1.00
+433:6707301:Broto de alfafa:99:Não se aplica:23.00:3.99:0.69:2.10:1.90
+434:6707801:Alface orgânica:99:Não se aplica:15.00:1.36:0.15:2.79:1.30
+435:6707901:Tomate orgânico:99:Não se aplica:18.00:0.88:0.20:3.92:1.20
+436:6708001:Pimentão orgânico:99:Não se aplica:20.00:0.86:0.17:4.64:1.70
+437:6709701:Orégano:99:Não se aplica:306.00:11.00:10.25:64.43:42.80
+438:6801017:Pacová:99:Não se aplica:78.00:1.20:0.10:20.30:2.00
+439:6801101:Banana (ouro, prata, d´água, da terra, etc.):1:Cru(a):89.00:1.09:0.33:22.84:2.60
+440:6801101:Banana (ouro, prata, d´água, da terra, etc.):2:Cozido(a):89.00:1.09:0.33:22.84:2.60
+441:6801101:Banana (ouro, prata, d´água, da terra, etc.):4:Assado(a):89.00:1.09:0.33:22.84:2.60
+442:6801101:Banana (ouro, prata, d´água, da terra, etc.):5:Frito(a):213.11:1.22:13.25:25.47:2.90
+443:6801101:Banana (ouro, prata, d´água, da terra, etc.):6:Empanado(a)/à milanesa:213.11:1.22:13.25:25.47:2.90
+444:6801101:Banana (ouro, prata, d´água, da terra, etc.):11:Com manteiga/óleo:195.41:1.33:11.25:25.48:2.90
+445:6801101:Banana (ouro, prata, d´água, da terra, etc.):13:Ensopado:89.00:1.09:0.33:22.84:2.60
+446:6801101:Banana (ouro, prata, d´água, da terra, etc.):14:Mingau:112.04:2.29:1.72:23.18:1.54
+447:6801101:Banana (ouro, prata, d´água, da terra, etc.):15:Sopa:112.04:2.29:1.72:23.18:1.54
+448:6801101:Banana (ouro, prata, d´água, da terra, etc.):99:Não se aplica:89.00:1.09:0.33:22.84:2.60
+449:6801801:Laranja (pera, seleta, lima, da terra, etc.):99:Não se aplica:47.00:0.94:0.12:11.75:2.35
+450:6801901:Lima:99:Não se aplica:47.00:0.94:0.12:11.75:2.35
+451:6802001:Limão (comum, galego, etc.):99:Não se aplica:30.00:0.70:0.20:10.54:2.80
+452:6802201:Tangerina:99:Não se aplica:53.00:0.81:0.31:13.34:1.80
+453:6802202:Mexerica:99:Não se aplica:53.00:0.81:0.31:13.34:1.80
+454:6802217:Bergamota:99:Não se aplica:53.00:0.81:0.31:13.34:1.80
+455:6802218:Mimosa:99:Não se aplica:53.00:0.81:0.31:13.34:1.80
+456:6802223:Tanja:99:Não se aplica:53.00:0.81:0.31:13.34:1.80
+457:6802227:Maricota:99:Não se aplica:53.00:0.81:0.31:13.34:1.80
+458:6802407:Laranjinha japonesa:99:Não se aplica:47.00:0.94:0.12:11.75:2.35
+459:6802501:Cana-de-açúcar:99:Não se aplica:73.58:-:0.05:19.97:-
+460:6802601:Abacaxi:99:Não se aplica:48.00:0.54:0.12:12.63:1.40
+461:6802602:Ananás:99:Não se aplica:48.00:0.54:0.12:12.63:1.40
+462:6802701:Abacate:99:Não se aplica:120.00:2.23:10.06:7.82:5.60
+463:6802801:Caqui:99:Não se aplica:70.00:0.58:0.19:18.59:3.60
+464:6802901:Figo:99:Não se aplica:74.00:0.75:0.30:19.18:2.90
+465:6803001:Maçã:99:Não se aplica:52.00:0.26:0.17:13.81:2.40
+466:6803101:Mamão:99:Não se aplica:39.00:0.61:0.14:9.81:1.80
+467:6803108:Papaia:99:Não se aplica:39.00:0.61:0.14:9.81:1.80
+468:6803201:Manga:99:Não se aplica:65.00:0.51:0.27:17.00:1.76
+469:6803215:Manguito:99:Não se aplica:65.00:0.51:0.27:17.00:1.76
+470:6803301:Maracujá:99:Não se aplica:97.00:2.20:0.70:23.38:10.40
+471:6803401:Melancia:99:Não se aplica:30.00:0.61:0.15:7.55:0.40
+472:6803501:Melão:99:Não se aplica:36.00:0.54:0.14:9.09:0.80
+473:6803601:pera:99:Não se aplica:58.00:0.38:0.12:15.46:3.16
+474:6803701:Pêssego:99:Não se aplica:39.00:0.91:0.25:9.54:1.50
+475:6803801:Fruta-de-conde:99:Não se aplica:74.00:1.65:0.62:17.70:2.30
+476:6803802:Pinha (fruta-de-conde):99:Não se aplica:74.00:1.65:0.62:17.70:2.30
+477:6803803:Ata:99:Não se aplica:74.00:1.65:0.62:17.70:2.30
+478:6803901:Uva:99:Não se aplica:69.00:0.72:0.16:18.10:0.90
+479:6803912:Uva passa:99:Não se aplica:299.00:3.07:0.46:79.18:3.70
+480:6804001:Jenipapo :99:Não se aplica:113.00:5.20:0.30:25.70:9.40
+481:6804101:Jaca:99:Não se aplica:94.00:1.47:0.30:24.01:1.60
+482:6804201:Goiaba:99:Não se aplica:68.00:2.55:0.95:14.32:5.40
+483:6804203:Araçá-açu (goiaba):99:Não se aplica:68.00:2.55:0.95:14.32:5.40
+484:6804301:Ameixa:99:Não se aplica:46.00:0.70:0.28:11.42:1.40
+485:6804401:Caju:99:Não se aplica:43.00:1.00:0.30:10.30:1.70
+486:6804501:Cereja:99:Não se aplica:63.00:1.06:0.20:16.01:2.10
+487:6804601:Cajá-manga:99:Não se aplica:46.00:1.30:-:11.40:2.60
+488:6804602:Cajarana:99:Não se aplica:46.00:0.20:0.10:12.40:1.10
+489:6804701:Taperebá:99:Não se aplica:70.00:0.80:2.10:13.80:1.00
+490:6804702:Acaja (taberebá):99:Não se aplica:46.00:1.30:-:11.40:2.60
+491:6804801:Carambola:99:Não se aplica:31.00:1.04:0.33:6.73:2.80
+492:6804901:Jabuticaba:99:Não se aplica:73.00:0.66:0.50:18.40:7.00
+493:6805001:Graviola:99:Não se aplica:62.00:0.80:0.20:15.80:1.90
+494:6805201:Morango:99:Não se aplica:32.00:0.67:0.30:7.68:2.00
+495:6805301:Jambo:99:Não se aplica:27.00:0.90:0.10:6.50:5.10
+496:6805401:Atemoia :99:Não se aplica:74.00:1.65:0.62:17.70:2.30
+497:6805601:Mangaba:99:Não se aplica:43.00:0.70:0.30:10.50:0.80
+498:6805701:Araçá:99:Não se aplica:68.00:2.55:0.95:14.32:5.40
+499:6805801:Nêspera:99:Não se aplica:47.00:0.43:0.20:12.14:1.70
+500:6805901:Fruta-pão:99:Não se aplica:103.00:1.07:0.23:27.12:4.90
+501:6806001:Sapoti:99:Não se aplica:96.00:0.70:0.10:25.90:9.90
+502:6806101:Uxi:99:Não se aplica:252.00:2.20:10.10:38.20:20.50
+503:6806201:Tamarindo:99:Não se aplica:239.00:2.80:0.60:62.50:5.10
+504:6806301:Cacau:99:Não se aplica:74.00:1.00:0.10:19.40:2.20
+505:6806401:Pitomba :99:Não se aplica:66.00:0.83:0.44:16.53:1.30
+506:6806501:Bacuri:99:Não se aplica:105.00:1.90:2.00:22.80:7.40
+507:6806601:Ingá:99:Não se aplica:60.00:1.00:0.10:15.50:1.20
+508:6806701:Pequi:99:Não se aplica:152.00:1.50:13.40:6.30:4.70
+509:6806801:Pitanga :99:Não se aplica:41.00:0.90:0.20:10.20:3.20
+510:6806901:Ciriguela:99:Não se aplica:76.00:1.40:0.40:18.90:3.90
+511:6807001:Murici:99:Não se aplica:66.00:0.90:1.30:14.40:2.20
+512:6807101:Umbu:99:Não se aplica:37.00:0.80:-:9.40:2.00
+513:6807103:Imbu:99:Não se aplica:37.00:0.80:-:9.40:2.00
+514:6807202:Biribá:99:Não se aplica:74.00:1.65:0.62:17.70:2.30
+515:6807301:Cupuaçu:99:Não se aplica:49.00:1.20:1.00:10.40:3.10
+516:6807401:Nectarina:99:Não se aplica:44.00:1.06:0.32:10.55:1.70
+517:6807501:Mari:99:Não se aplica:281.10:2.70:21.10:20.10:-
+518:6807601:Romã:99:Não se aplica:56.00:0.40:-:15.10:0.40
+519:6807701:Acerola:99:Não se aplica:32.00:0.40:0.30:7.69:1.10
+520:6807801:Kiwi:99:Não se aplica:61.00:1.14:0.52:14.66:3.00
+521:6808001:Abiu:99:Não se aplica:62.00:0.80:0.70:14.90:1.70
+522:6808201:Jurubeba:99:Não se aplica:126.00:4.40:3.90:23.10:1.20
+523:6808401:Fruta (não especificada):99:Não se aplica:89.00:1.09:0.33:22.84:2.60
+524:6808601:Maçã orgânica:99:Não se aplica:52.00:0.26:0.17:13.81:2.40
+525:6808901:Acerola orgânica:99:Não se aplica:32.00:0.40:0.30:7.69:1.10
+526:6809901:Amora:99:Não se aplica:43.00:1.39:0.49:9.61:5.30
+527:6810201:Jamelão (jamburão):99:Não se aplica:73.00:0.66:0.50:18.40:7.00
+528:6900302:Demerara:99:Não se aplica:387.00:-:-:99.98:-
+529:6900304:Açúcar mascavo:99:Não se aplica:380.00:0.12:-:98.09:-
+530:6900401:Rapadura:99:Não se aplica:296.00:-:-:76.60:-
+531:6900402:Alfenim de cana:99:Não se aplica:296.00:-:-:76.60:-
+532:6900403:Batida (rapadura):99:Não se aplica:380.00:0.12:-:98.09:-
+533:6900501:Sorvete de qualquer sabor industrializado:99:Não se aplica:206.00:3.60:11.00:25.13:0.87
+534:6900502:Picolé de qualquer sabor industrializado:99:Não se aplica:79.00:-:0.24:19.23:-
+535:6900601:Chiclete:99:Não se aplica:396.00:-:-:98.90:0.10
+536:6900603:Bala:99:Não se aplica:394.00:-:0.20:98.00:-
+537:6900604:Caramelo (bala):99:Não se aplica:382.00:4.60:8.10:77.00:-
+538:6900605:Drops:99:Não se aplica:394.00:-:0.20:98.00:-
+539:6900606:Pastilha:99:Não se aplica:396.00:-:-:98.90:0.10
+540:6900607:Pirulito:99:Não se aplica:394.00:-:0.20:98.00:-
+541:6900609:Goma de mascar:99:Não se aplica:396.00:-:-:98.90:0.10
+542:6900610:Jujuba:99:Não se aplica:375.00:-:0.05:93.55:0.20
+543:6900701:Tablete de chocolate:99:Não se aplica:535.00:7.65:29.66:59.40:3.40
+544:6900702:Barra de chocolate:99:Não se aplica:535.00:7.65:29.66:59.40:3.40
+545:6900706:Confete:99:Não se aplica:492.00:4.33:21.13:71.19:2.80
+546:6900801:Chocolate em pó de qualquer marca:99:Não se aplica:364.24:2.83:3.55:85.53:1.66
+547:6900818:Ovomaltine:99:Não se aplica:388.00:9.17:5.19:75.13:1.98
+548:6900821:Achocolatado em pó:99:Não se aplica:400.00:4.55:2.27:90.28:4.50
+549:6900822:Toddynho:99:Não se aplica:83.32:3.18:3.40:10.38:0.80
+550:6900901:Bombom de qualquer marca:99:Não se aplica:373.00:-:0.02:93.18:-
+551:6900904:Trufa :99:Não se aplica:487.87:3.57:36.26:49.06:4.55
+552:6901001:Geleia de frutas de qualquer marca ou sabor:99:Não se aplica:278.00:0.37:0.07:68.86:1.10
+553:6901002:Mousse de qualquer sabor (Geleia) :99:Não se aplica:331.89:5.09:21.87:32.19:1.18
+554:6901101:Geleia de mocotó:99:Não se aplica:120.25:3.04:-:27.99:-
+555:6901201:Doce de frutas em pasta de qualquer sabor:99:Não se aplica:291.30:0.77:0.29:74.28:1.62
+556:6901203:Pasta de amendoim:99:Não se aplica:588.00:25.09:50.39:19.56:6.00
+557:6901204:Pessegada:99:Não se aplica:77.00:0.54:0.14:19.79:2.20
+558:6901206:Marmelada:99:Não se aplica:278.00:0.37:0.07:68.86:1.10
+559:6901209:Figada:99:Não se aplica:88.00:0.38:0.10:22.90:2.20
+560:6901211:Goiabada:99:Não se aplica:291.30:0.77:0.29:74.28:1.62
+561:6901214:Caju em pasta:99:Não se aplica:291.30:0.77:0.29:74.28:1.62
+562:6901224:Mariola:99:Não se aplica:291.30:0.77:0.29:74.28:1.62
+563:6901301:Doce de frutas em calda de qualquer sabor:99:Não se aplica:77.00:0.54:0.14:19.79:2.20
+564:6901401:Doce de frutas cristalizado de qualquer sabor:99:Não se aplica:291.30:0.77:0.29:74.28:1.62
+565:6901501:Melado:99:Não se aplica:296.00:-:-:76.60:-
+566:6901602:Mel :99:Não se aplica:304.00:0.30:-:82.40:0.20
+567:6901701:Gelatina de qualquer sabor:99:Não se aplica:278.00:0.37:0.07:68.86:1.10
+568:6901801:Adoçante artificial:99:Não se aplica:-:-:-:-:-
+569:6902004:Merengue:99:Não se aplica:358.26:6.21:0.10:85.89:0.00
+570:6902301:Schimier de cana:99:Não se aplica:296.00:-:-:76.60:-
+571:6902401:Fruta seca ou desidratada:99:Não se aplica:240.00:2.18:0.38:63.88:7.10
+572:6902402:Passa:99:Não se aplica:299.00:3.07:0.46:79.18:3.70
+573:6902601:Pudim de qualquer sabor:99:Não se aplica:131.15:5.58:5.07:15.44:-
+574:6902607:Danette pudim:99:Não se aplica:131.15:5.58:5.07:15.44:-
+575:6902701:Manjar:99:Não se aplica:284.98:8.20:10.74:40.14:0.34
+576:6902901:Cuscuz:99:Não se aplica:128.30:4.35:0.22:26.42:1.71
+577:6902902:Cuscuz de tapioca:99:Não se aplica:116.99:4.33:4.10:15.51:0.03
+578:6903001:Maria-mole:99:Não se aplica:444.92:1.64:19.94:68.84:2.59
+579:6903101:Cocada:99:Não se aplica:404.80:1.01:12.46:75.65:1.58
+580:6903102:Quebra-queixo:99:Não se aplica:404.80:1.01:12.46:75.65:1.58
+581:6903201:Doce de amendoim:99:Não se aplica:451.58:11.16:23.89:55.29:3.73
+582:6903202:Pé de moleque:99:Não se aplica:474.00:9.10:17.91:69.20:2.42
+583:6903203:Paçoca:99:Não se aplica:472.17:10.35:21.53:64.04:3.89
+584:6903204:Torrão de amendoim:99:Não se aplica:460.34:11.01:24.64:56.27:6.13
+585:6903205:Paçoquinha de amendoim:99:Não se aplica:472.17:10.35:21.53:64.04:3.89
+586:6903207:Amendoim caramelizado:99:Não se aplica:474.00:9.10:17.91:69.20:2.42
+587:6903208:Amendoim amanteigado:99:Não se aplica:567.00:25.80:49.24:16.13:8.50
+588:6903209:Amendoim achocolatado:99:Não se aplica:519.00:13.10:33.50:49.70:4.70
+589:6903303:Amendoim apimentado:99:Não se aplica:567.00:25.80:49.24:16.13:8.50
+590:6903304:Amendoim cozido:99:Não se aplica:318.00:13.50:22.01:21.26:8.80
+591:6903601:Brigadeiro:99:Não se aplica:334.48:7.52:10.14:54.86:0.23
+592:6903701:Bomba de qualquer tipo:99:Não se aplica:339.26:6.32:26.93:18.55:0.54
+593:6903801:Mil folhas:99:Não se aplica:440.33:2.36:29.03:43.22:0.43
+594:6903901:Queijadinha:99:Não se aplica:404.80:1.01:12.46:75.65:1.58
+595:6904101:Doce à base de ovos:99:Não se aplica:131.15:5.58:5.07:15.44:-
+596:6904104:Caçarola italiana:99:Não se aplica:284.98:8.20:10.74:40.14:0.34
+597:6904105:Quindim:99:Não se aplica:131.15:5.58:5.07:15.44:-
+598:6904108:Fios de ovos:99:Não se aplica:131.15:5.58:5.07:15.44:-
+599:6904201:Doce à base de leite:99:Não se aplica:319.70:7.88:8.67:54.18:-
+600:6904202:Pavê de qualquer sabor:99:Não se aplica:306.43:4.94:22.24:21.59:0.36
+601:6904203:Ambrosia:99:Não se aplica:144.23:4.09:3.84:23.88:0.26
+602:6904204:Leite geleificado:99:Não se aplica:131.15:5.58:5.07:15.44:-
+603:6904205:Chandele de qualquer sabor:99:Não se aplica:131.15:5.58:5.07:15.44:-
+604:6904302:Mumu :99:Não se aplica:319.70:7.88:8.67:54.18:-
+605:6904401:Canudinho recheado:99:Não se aplica:123.26:2.43:4.50:21.33:2.22
+606:6904501:Sarolho:99:Não se aplica:336.00:2.00:-:82.00:-
+607:6904502:Beiju:99:Não se aplica:336.00:2.00:-:82.00:-
+608:6904601:Schimier de fruta (exceto de cana):99:Não se aplica:278.00:0.37:0.07:68.86:1.10
+609:6904701:Beijo de moça:99:Não se aplica:387.00:-:-:99.98:-
+610:6904801:Picolé ensacado:99:Não se aplica:79.00:-:0.24:19.23:-
+611:6904807:Geladinho:99:Não se aplica:122.69:0.14:0.09:32.51:0.45
+612:6905001:Churro:99:Não se aplica:401.66:3.00:23.44:45.94:0.81
+613:6905101:Pamonha:99:Não se aplica:171.00:2.60:4.80:30.70:2.40
+614:6905401:Algodão-doce:99:Não se aplica:387.00:-:-:99.98:-
+615:6905603:Io-Iô crem (chocolate em creme):99:Não se aplica:350.00:4.60:8.90:62.90:2.80
+616:6905801:Ovo de páscoa:99:Não se aplica:535.00:7.65:29.66:59.40:3.40
+617:6905804:Kinder ovo:99:Não se aplica:535.00:7.65:29.66:59.40:3.40
+618:6905901:Torrone:99:Não se aplica:460.34:11.01:24.64:56.27:6.13
+619:6906001:Arroz-doce:99:Não se aplica:108.49:3.05:2.34:18.77:0.10
+620:6906404:Polpa de coco:99:Não se aplica:402.00:3.80:41.70:9.80:5.00
+621:6906501:Diet shake:99:Não se aplica:335.52:19.19:1.87:69.94:7.39
+622:6906502:Concentrado alimentar diet shake:99:Não se aplica:335.52:19.19:1.87:69.94:7.39
+623:6906602:Açúcar :99:Não se aplica:387.00:-:-:99.98:-
+624:6907001:Açúcar light:99:Não se aplica:400.00:-:-:100.00:-
+625:6907201:Barra de cereais:99:Não se aplica:352.92:3.17:8.55:69.44:2.32
+626:6907202:Barra de cereais salgada:99:Não se aplica:352.92:3.17:8.55:69.44:2.32
+627:6907203:Barra de cereais doce:99:Não se aplica:352.92:3.17:8.55:69.44:2.32
+628:6907301:Sobremesa de qualquer tipo (exceto infantil):99:Não se aplica:131.15:5.58:5.07:15.44:-
+629:6907401:Rabanada:99:Não se aplica:293.00:4.70:16.60:31.30:0.50
+630:6907501:Milk shake :99:Não se aplica:161.09:3.11:6.43:23.49:0.76
+631:6907901:Geleia diet:99:Não se aplica:52.64:0.47:0.17:12.72:1.40
+632:6908001:Doce de frutas diet:99:Não se aplica:52.64:0.47:0.17:12.72:1.40
+633:6908401:Pastéis de santa clara:99:Não se aplica:131.15:5.58:5.07:15.44:-
+634:6908501:Suspiro:99:Não se aplica:358.26:6.21:0.10:85.89:0.00
+635:6909301:Doce de frutas cristalizado de qualquer sabor diet:99:Não se aplica:52.64:0.47:0.17:12.72:1.40
+636:6909601:Sorvete de qualquer sabor industrializado light:99:Não se aplica:188.99:4.43:7.67:26.15:0.60
+637:6909701:Sorvete de qualquer sabor industrializado diet:99:Não se aplica:190.00:3.17:12.70:15.87:4.80
+638:6909803:Bala light:99:Não se aplica:235.00:-:-:95.00:-
+639:6909901:Chiclete diet:99:Não se aplica:240.00:-:-:100.00:-
+640:6909903:Bala diet:99:Não se aplica:235.00:-:-:95.00:-
+641:6910002:Barra de chocolate light:99:Não se aplica:539.79:10.58:41.64:40.42:4.32
+642:6910102:Barra de chocolate diet:99:Não se aplica:539.79:10.58:41.64:40.42:4.32
+643:6910221:Achocolatado em pó light:99:Não se aplica:337.70:29.42:2.39:55.30:4.43
+644:6910321:Achocolatado em pó diet:99:Não se aplica:337.70:29.42:2.39:55.30:4.43
+645:6910322:Toddynho diet:99:Não se aplica:73.29:3.48:3.51:7.09:0.39
+646:6910401:Bombom de qualquer marca light:99:Não se aplica:373.00:-:0.02:93.18:-
+647:6910501:Bombom de qualquer marca diet:99:Não se aplica:373.00:-:0.02:93.18:-
+648:6910502:Bombom caramelizado de qualquer marca diet:99:Não se aplica:373.00:-:0.02:93.18:-
+649:6910601:Geleia de frutas de qualquer marca ou sabor light:99:Não se aplica:179.01:0.36:0.05:46.13:0.35
+650:6910604:Geleia light:99:Não se aplica:179.01:0.36:0.05:46.13:0.35
+651:6910605:Geleia de frutas light:99:Não se aplica:179.01:0.36:0.05:46.13:0.35
+652:6910701:Doce de frutas em barra ou pasta light:99:Não se aplica:179.01:0.36:0.05:46.13:0.35
+653:6910702:Doce de frutas em pasta light:99:Não se aplica:179.01:0.36:0.05:46.13:0.35
+654:6910801:Pudim de qualquer sabor light:99:Não se aplica:119.15:5.68:3.55:15.75:-
+655:6910808:Pudim danette light:99:Não se aplica:119.15:5.68:3.55:15.75:-
+656:6910901:Pudim de qualquer sabor diet:99:Não se aplica:119.15:5.68:3.55:15.75:-
+657:6911201:Doce de leite light:99:Não se aplica:292.29:7.58:3.62:58.98:-
+658:6911301:Doce de leite diet:99:Não se aplica:292.29:7.58:3.62:58.98:-
+659:6912501:Barra de cereais diet:99:Não se aplica:403.45:5.56:5.44:86.36:7.20
+660:6912502:Barra de cereais doce diet:99:Não se aplica:403.45:5.56:5.44:86.36:7.20
+661:6912801:Milk shake diet:99:Não se aplica:335.52:19.19:1.87:69.94:7.39
+662:6913001:Cocada diet:99:Não se aplica:404.80:1.01:12.46:75.65:1.58
+663:6913101:Doce de amendoim diet:99:Não se aplica:599.00:28.03:52.50:15.26:9.40
+664:6913103:Paçoca diet:99:Não se aplica:599.00:28.03:52.50:15.26:9.40
+665:6913108:Amendoim amanteigado diet:99:Não se aplica:477.86:7.09:21.64:64.64:2.96
+666:6913801:Doce à base de leite diet:99:Não se aplica:292.29:7.58:3.62:58.98:-
+667:6913901:Gelatina de qualquer sabor light:99:Não se aplica:179.01:0.36:0.05:46.13:0.35
+668:6914001:Adoçante light:99:Não se aplica:365.00:2.17:-:89.08:-
+669:6914002:Adoçante em pó light:99:Não se aplica:365.00:2.17:-:89.08:-
+670:6914003:Adoçante liquido light:99:Não se aplica:-:-:-:-:-
+671:7001501:Mostarda molho:99:Não se aplica:67.00:4.37:4.01:5.33:3.30
+672:7002304:Hortelã:99:Não se aplica:1.00:-:-:0.20:-
+673:7002401:Alcaparra em conserva:99:Não se aplica:23.00:2.36:0.86:4.89:3.20
+674:7002601:Coentro:99:Não se aplica:279.00:21.93:4.78:52.10:10.40
+675:7003601:Molho de soja:99:Não se aplica:53.00:6.28:0.04:7.61:0.80
+676:7003604:Shoyo:99:Não se aplica:53.00:6.28:0.04:7.61:0.80
+677:7003801:Leite de coco:99:Não se aplica:202.46:1.61:20.85:5.59:0.91
+678:7004301:Maionese (molho):99:Não se aplica:261.05:0.47:23.33:13.38:0.06
+679:7004701:Massa de tomate:99:Não se aplica:38.00:1.65:0.21:8.98:1.90
+680:7004801:Molho de tomate:99:Não se aplica:24.00:1.32:0.18:5.38:1.50
+681:7004802:Ketchup:99:Não se aplica:97.00:1.74:0.31:25.15:0.30
+682:7004803:Catchup:99:Não se aplica:97.00:1.74:0.31:25.15:0.30
+683:7006101:Pimenta em pó:99:Não se aplica:255.00:10.95:3.26:64.81:26.50
+684:7007101:Tucupi em caldo sem pimenta:99:Não se aplica:4.87:0.01:0.00:1.30:0.01
+685:7007502:Creme de queijo:99:Não se aplica:209.66:10.34:15.81:6.72:0.10
+686:7007701:Caldo de peixe:99:Não se aplica:16.00:2.00:0.60:0.40:-
+687:7007901:Caldo de tomate:99:Não se aplica:37.65:0.75:0.78:7.39:0.46
+688:7009102:Gergelim:99:Não se aplica:631.00:20.45:61.21:11.73:11.60
+689:7010301:Tomate seco:99:Não se aplica:213.00:5.06:14.08:23.33:5.80
+690:7010401:Maionese (molho) light:99:Não se aplica:156.58:0.59:9.46:18.77:1.24
+691:7010501:Molho de soja light:99:Não se aplica:53.13:5.18:0.08:8.53:0.80
+692:7010601:Leite de coco light:99:Não se aplica:202.46:1.61:20.85:5.59:0.91
+693:7079202:Vinagrete:99:Não se aplica:76.79:0.65:6.21:3.68:0.93
+694:7100101:Filé-mignon:2:Cozido(a):204.00:30.67:9.00:-:-
+695:7100101:Filé-mignon:3:Grelhado(a)/brasa/churrasco:204.00:30.67:9.00:-:-
+696:7100101:Filé-mignon:4:Assado(a):204.00:30.67:9.00:-:-
+697:7100101:Filé-mignon:5:Frito(a):226.66:30.67:11.56:-:-
+698:7100101:Filé-mignon:6:Empanado(a)/à milanesa:242.84:31.13:11.61:3.39:0.14
+699:7100101:Filé-mignon:7:Refogado(a):226.66:30.67:11.56:-:-
+700:7100101:Filé-mignon:8:Molho vermelho:168.00:24.80:7.24:1.08:0.30
+701:7100101:Filé-mignon:9:Molho branco:195.79:25.32:9.69:1.85:0.04
+702:7100101:Filé-mignon:11:Com manteiga/óleo:223.14:30.69:11.17:0.00:-
+703:7100101:Filé-mignon:99:Não se aplica:204.00:30.67:9.00:-:-
+704:7100201:Contrafilé:2:Cozido(a):204.00:30.67:9.00:-:-
+705:7100201:Contrafilé:3:Grelhado(a)/brasa/churrasco:204.00:30.67:9.00:-:-
+706:7100201:Contrafilé:4:Assado(a):204.00:30.67:9.00:-:-
+707:7100201:Contrafilé:5:Frito(a):226.66:30.67:11.56:-:-
+708:7100201:Contrafilé:6:Empanado(a)/à milanesa:242.84:31.13:11.61:3.39:0.14
+709:7100201:Contrafilé:7:Refogado(a):226.66:30.67:11.56:-:-
+710:7100201:Contrafilé:8:Molho vermelho:168.00:24.80:7.24:1.08:0.30
+711:7100205:Bisteca bovina:1:Cru(a):471.00:21.57:41.98:-:-
+712:7100205:Bisteca bovina:2:Cozido(a):471.00:21.57:41.98:-:-
+713:7100205:Bisteca bovina:3:Grelhado(a)/brasa/churrasco:471.00:21.57:41.98:-:-
+714:7100205:Bisteca bovina:4:Assado(a):471.00:21.57:41.98:-:-
+715:7100205:Bisteca bovina:5:Frito(a):471.00:21.57:41.98:-:-
+716:7100205:Bisteca bovina:6:Empanado(a)/à milanesa:329.84:26.31:22.65:3.39:0.14
+717:7100205:Bisteca bovina:7:Refogado(a):471.00:21.57:41.98:-:-
+718:7100205:Bisteca bovina:8:Molho vermelho:381.60:17.52:33.62:1.08:0.30
+719:7100301:Alcatra:1:Cru(a):204.00:30.67:9.00:-:-
+720:7100301:Alcatra :2:Cozido(a):204.00:30.67:9.00:-:-
+721:7100301:Alcatra:3:Grelhado(a)/brasa/churrasco:204.00:30.67:9.00:-:-
+722:7100301:Alcatra:4:Assado(a):204.00:30.67:9.00:-:-
+723:7100301:Alcatra:5:Frito(a):253.57:30.67:14.61:-:-
+724:7100301:Alcatra:6:Empanado(a)/à milanesa:253.57:30.67:14.61:-:-
+725:7100301:Alcatra:7:Refogado(a):253.57:30.67:14.61:-:-
+726:7100301:Alcatra:8:Molho vermelho:168.00:24.80:7.24:1.08:0.30
+727:7100301:Alcatra:12:Ao vinagrete:204.00:30.67:9.00:-:-
+728:7100301:Alcatra:13:Ensopado:253.57:30.67:14.61:-:-
+729:7100303:Maminha:3:Grelhado(a)/brasa/churrasco:199.00:36.12:5.00:-:-
+730:7100303:Maminha:4:Assado(a):199.00:36.12:5.00:-:-
+731:7100303:Maminha:5:Frito(a):248.57:36.12:10.61:-:-
+732:7100303:Maminha:8:Molho vermelho:164.00:29.16:4.04:1.08:0.30
+733:7100304:Picanha:2:Cozido(a):204.00:30.67:9.00:-:-
+734:7100304:Picanha:3:Grelhado(a)/brasa/churrasco:204.00:30.67:9.00:-:-
+735:7100304:Picanha:4:Assado(a):204.00:30.67:9.00:-:-
+736:7100304:Picanha :5:Frito(a):253.57:30.67:14.61:-:-
+737:7100304:Picanha :13:Ensopado:253.57:30.67:14.61:-:-
+738:7100501:Patinho:2:Cozido(a):199.00:36.12:5.00:-:-
+739:7100501:Patinho:3:Grelhado(a)/brasa/churrasco:199.00:36.12:5.00:-:-
+740:7100501:Patinho:4:Assado(a):199.00:36.12:5.00:-:-
+741:7100501:Patinho:5:Frito(a):248.57:36.12:10.61:-:-
+742:7100501:Patinho:6:Empanado(a)/à milanesa:248.57:36.12:10.61:-:-
+743:7100501:Patinho:8:Molho vermelho:164.00:29.16:4.04:1.08:0.30
+744:7100501:Patinho:13:Ensopado:248.57:36.12:10.61:-:-
+745:7100502:Cabeça de lombo (carne bovina):2:Cozido(a):199.00:36.12:5.00:-:-
+746:7100502:Cabeça de lombo (carne bovina):3:Grelhado(a)/brasa/churrasco:199.00:36.12:5.00:-:-
+747:7100502:Cabeça de lombo (carne bovina):4:Assado(a):199.00:36.12:5.00:-:-
+748:7100502:Cabeça de lombo (carne bovina):5:Frito(a):248.57:36.12:10.61:-:-
+749:7100502:Cabeça de lombo (carne bovina):6:Empanado(a)/à milanesa:248.57:36.12:10.61:-:-
+750:7100502:Cabeça de lombo (carne bovina):7:Refogado(a):248.57:36.12:10.61:-:-
+751:7100604:Posta branca:2:Cozido(a):199.00:36.12:5.00:-:-
+752:7100604:Posta branca:5:Frito(a):248.57:36.12:10.61:-:-
+753:7100604:Posta branca:8:Molho vermelho:164.00:29.16:4.04:1.08:0.30
+754:7100606:Tatu (lagarto redondo):2:Cozido(a):199.00:36.12:5.00:-:-
+755:7100606:Tatu (lagarto redondo):4:Assado(a):199.00:36.12:5.00:-:-
+756:7100606:Tatu (lagarto redondo):7:Refogado(a):248.57:36.12:10.61:-:-
+757:7100606:Tatu (lagarto redondo):99:Não se aplica:199.00:36.12:5.00:-:-
+758:7100607:Paulista:2:Cozido(a):199.00:36.12:5.00:-:-
+759:7100607:Paulista:4:Assado(a):199.00:36.12:5.00:-:-
+760:7100608:Lombo paulista (carne bovina):2:Cozido(a):199.00:36.12:5.00:-:-
+761:7100608:Lombo paulista (carne bovina):4:Assado(a):199.00:36.12:5.00:-:-
+762:7100608:Lombo paulista (carne bovina):5:Frito(a):248.57:36.12:10.61:-:-
+763:7100608:Lombo paulista (carne bovina):13:Ensopado:248.57:36.12:10.61:-:-
+764:7100702:Posta vermelha:2:Cozido(a):199.00:36.12:5.00:-:-
+765:7100801:Acém:2:Cozido(a):242.00:24.22:15.42:-:-
+766:7100801:Acém:4:Assado(a):242.00:24.22:15.42:-:-
+767:7100801:Acém:5:Frito(a):264.66:24.22:17.98:-:-
+768:7100801:Acém:6:Empanado(a)/à milanesa:280.84:24.68:18.03:3.39:0.14
+769:7100801:Acém:7:Refogado(a):264.66:24.22:17.98:-:-
+770:7100801:Acém:13:Ensopado:264.66:24.22:17.98:-:-
+771:7100803:Agulha (acém):2:Cozido(a):242.00:24.22:15.42:-:-
+772:7100803:Agulha (acém):4:Assado(a):242.00:24.22:15.42:-:-
+773:7100803:Agulha (acém):5:Frito(a):264.66:24.22:17.98:-:-
+774:7100905:Paleta :2:Cozido(a):242.00:24.22:15.42:-:-
+775:7100905:Paleta :5:Frito(a):264.66:24.22:17.98:-:-
+776:7100905:Paleta :8:Molho vermelho:198.40:19.64:12.37:1.08:0.30
+777:7100905:Paleta :13:Ensopado:264.66:24.22:17.98:-:-
+778:7100908:Pá com osso:2:Cozido(a):242.00:24.22:15.42:-:-
+779:7100908:Pá com osso:3:Grelhado(a)/brasa/churrasco:242.00:24.22:15.42:-:-
+780:7100908:Pá com osso:4:Assado(a):242.00:24.22:15.42:-:-
+781:7101001:Músculo bovino:2:Cozido(a):199.00:36.12:5.00:-:-
+782:7101001:Músculo bovino:4:Assado(a):199.00:36.12:5.00:-:-
+783:7101001:Músculo bovino:8:Molho vermelho:164.00:29.16:4.04:1.08:0.30
+784:7101001:Músculo bovino:13:Ensopado:221.66:36.12:7.56:-:-
+785:7101001:Músculo bovino:15:Sopa:63.94:3.81:1.81:7.73:0.39
+786:7101006:Chambaril:2:Cozido(a):242.00:24.22:15.42:-:-
+787:7101006:Chambaril:4:Assado(a):242.00:24.22:15.42:-:-
+788:7101006:Chambaril:7:Refogado(a):264.66:24.22:17.98:-:-
+789:7101009:Carne marica bovina:2:Cozido(a):199.00:36.12:5.00:-:-
+790:7101009:Carne marica bovina:5:Frito(a):221.66:36.12:7.56:-:-
+791:7101009:Carne marica bovina:7:Refogado(a):221.66:36.12:7.56:-:-
+792:7101011:Vazio (carne bovina):2:Cozido(a):204.00:30.67:9.00:-:-
+793:7101011:Vazio (carne bovina):3:Grelhado(a)/brasa/churrasco:204.00:30.67:9.00:-:-
+794:7101011:Vazio (carne bovina):5:Frito(a):226.66:30.67:11.56:-:-
+795:7101101:Peito bovino:2:Cozido(a):204.00:30.67:9.00:-:-
+796:7101101:Peito bovino:5:Frito(a):226.66:30.67:11.56:-:-
+797:7101202:Fraldinha (capa de filé):2:Cozido(a):199.00:36.12:5.00:-:-
+798:7101202:Fraldinha (capa de filé):3:Grelhado(a)/brasa/churrasco:199.00:36.12:5.00:-:-
+799:7101202:Fraldinha (capa de filé):4:Assado(a):199.00:36.12:5.00:-:-
+800:7101202:Fraldinha (capa de filé):5:Frito(a):221.66:36.12:7.56:-:-
+801:7101203:Aba de filé :1:Cru(a):242.00:24.22:15.42:-:-
+802:7101203:Aba de filé :3:Grelhado(a)/brasa/churrasco:242.00:24.22:15.42:-:-
+803:7101203:Aba de filé :5:Frito(a):264.66:24.22:17.98:-:-
+804:7101301:Costela bovina:2:Cozido(a):365.00:22.60:29.79:-:-
+805:7101301:Costela bovina:4:Assado(a):365.00:22.60:29.79:-:-
+806:7101301:Costela bovina:7:Refogado(a):365.00:22.60:29.79:-:-
+807:7101301:Costela bovina:13:Ensopado:365.00:22.60:29.79:-:-
+808:7101704:Jacaré (carne bovina de segunda c/ osso):2:Cozido(a):365.00:22.60:29.79:-:-
+809:7101704:Jacaré (carne bovina de segunda c/ osso):4:Assado(a):365.00:22.60:29.79:-:-
+810:7101704:Jacaré (carne bovina de segunda c/ osso):5:Frito(a):365.00:22.60:29.79:-:-
+811:7101706:Filé de segunda:3:Grelhado(a)/brasa/churrasco:242.00:24.22:15.42:-:-
+812:7101706:Filé de segunda:4:Assado(a):242.00:24.22:15.42:-:-
+813:7101706:Filé de segunda:5:Frito(a):264.66:24.22:17.98:-:-
+814:7101706:Filé de segunda:6:Empanado(a)/à milanesa:280.84:24.68:18.03:3.39:0.14
+815:7101706:Filé de segunda:10:Ao alho e óleo:264.66:24.22:17.98:-:-
+816:7101801:Víscera bovina :2:Cozido(a):191.00:29.08:5.26:5.13:-
+817:7101801:Víscera bovina :5:Frito(a):213.66:29.08:7.82:5.13:-
+818:7101806:Panelada (vísceras bovinas não especificadas):2:Cozido(a):100.04:13.98:2.96:4.18:0.62
+819:7101806:Panelada (vísceras bovinas não especificadas):13:Ensopado:100.04:13.98:2.96:4.18:0.62
+820:7101901:Coração bovino:2:Cozido(a):165.00:28.48:4.73:0.15:-
+821:7101901:Coração bovino:3:Grelhado(a)/brasa/churrasco:165.00:28.48:4.73:0.15:-
+822:7101901:Coração bovino:4:Assado(a):165.00:28.48:4.73:0.15:-
+823:7101901:Coração bovino:5:Frito(a):187.66:28.48:7.29:0.15:-
+824:7102001:Rim de boi :2:Cozido(a):158.00:27.27:4.65:-:-
+825:7102102:Bofe bovino:4:Assado(a):158.00:27.27:4.65:-:-
+826:7102102:Bofe bovino:5:Frito(a):180.66:27.27:7.21:-:-
+827:7102102:Bofe bovino:7:Refogado(a):180.66:27.27:7.21:-:-
+828:7102201:Miolo de boi:2:Cozido(a):151.00:11.67:10.53:1.48:-
+829:7102401:Tripa bovina:2:Cozido(a):94.00:11.71:4.05:1.99:-
+830:7102401:Tripa bovina:3:Grelhado(a)/brasa/churrasco:94.00:11.71:4.05:1.99:-
+831:7102401:Tripa bovina:4:Assado(a):94.00:11.71:4.05:1.99:-
+832:7102401:Tripa bovina:5:Frito(a):116.66:11.71:6.61:1.99:-
+833:7102402:Dobradinha fresca:2:Cozido(a):94.00:11.71:4.05:1.99:-
+834:7102402:Dobradinha fresca:4:Assado(a):94.00:11.71:4.05:1.99:-
+835:7102402:Dobradinha fresca:8:Molho vermelho:80.00:9.63:3.28:2.67:0.30
+836:7102402:Dobradinha fresca:13:Ensopado:116.66:11.71:6.61:1.99:-
+837:7102402:Dobradinha fresca:99:Não se aplica:94.00:11.71:4.05:1.99:-
+838:7102403:Fato bovino:2:Cozido(a):94.00:11.71:4.05:1.99:-
+839:7102403:Fato bovino:5:Frito(a):116.66:11.71:6.61:1.99:-
+840:7102404:Fato caprino:2:Cozido(a):94.00:11.71:4.05:1.99:-
+841:7102501:Fígado bovino:1:Cru(a):191.00:29.08:5.26:5.13:-
+842:7102501:Fígado bovino:2:Cozido(a):191.00:29.08:5.26:5.13:-
+843:7102501:Fígado bovino:3:Grelhado(a)/brasa/churrasco:191.00:29.08:5.26:5.13:-
+844:7102501:Fígado bovino:4:Assado(a):191.00:29.08:5.26:5.13:-
+845:7102501:Fígado bovino:5:Frito(a):213.66:29.08:7.82:5.13:-
+846:7102501:Fígado bovino:6:Empanado(a)/à milanesa:229.84:29.54:7.87:8.52:0.14
+847:7102501:Fígado bovino:7:Refogado(a):213.66:29.08:7.82:5.13:-
+848:7102501:Fígado bovino:8:Molho vermelho:157.60:23.53:4.24:5.18:0.30
+849:7102501:Fígado bovino:10:Ao alho e óleo:213.66:29.08:7.82:5.13:-
+850:7102501:Fígado bovino:13:Ensopado:213.66:29.08:7.82:5.13:-
+851:7102601:Cupim:3:Grelhado(a)/brasa/churrasco:330.10:28.63:23.04:-:-
+852:7102601:Cupim:4:Assado(a):330.10:28.63:23.04:-:-
+853:7102601:Cupim:5:Frito(a):363.08:26.91:27.63:-:-
+854:7102701:Língua bovina:2:Cozido(a):284.00:19.29:22.30:-:-
+855:7102701:Língua bovina:3:Grelhado(a)/brasa/churrasco:284.00:19.29:22.30:-:-
+856:7102701:Língua bovina:4:Assado(a):284.00:19.29:22.30:-:-
+857:7102701:Língua bovina:5:Frito(a):306.66:19.29:24.86:-:-
+858:7102701:Língua bovina:8:Molho vermelho:232.00:15.70:17.88:1.08:0.30
+859:7102701:Língua bovina:13:Ensopado:306.66:19.29:24.86:-:-
+860:7102801:Rabada de boi:99:Não se aplica:365.00:22.60:29.79:-:-
+861:7103101:Mocotó bovino:2:Cozido(a):214.00:28.81:10.13:-:-
+862:7103101:Mocotó bovino:13:Ensopado:214.00:28.81:10.13:-:-
+863:7103101:Mocotó bovino:15:Sopa:63.94:3.81:1.81:7.73:0.39
+864:7103101:Mocotó bovino:99:Não se aplica:214.00:28.81:10.13:-:-
+865:7103104:Braço bovino:5:Frito(a):221.66:36.12:7.56:-:-
+866:7103105:Mão bovina:2:Cozido(a):214.00:28.81:10.13:-:-
+867:7103301:Carré :2:Cozido(a):397.00:29.06:30.30:-:-
+868:7103301:Carré :3:Grelhado(a)/brasa/churrasco:397.00:29.06:30.30:-:-
+869:7103301:Carré :4:Assado(a):397.00:29.06:30.30:-:-
+870:7103301:Carré :5:Frito(a):397.00:29.06:30.30:-:-
+871:7103305:Bisteca suína:2:Cozido(a):397.00:29.06:30.30:-:-
+872:7103305:Bisteca suína:3:Grelhado(a)/brasa/churrasco:397.00:29.06:30.30:-:-
+873:7103305:Bisteca suína:4:Assado(a):397.00:29.06:30.30:-:-
+874:7103305:Bisteca suína:5:Frito(a):397.00:29.06:30.30:-:-
+875:7103305:Bisteca suína:6:Empanado(a)/à milanesa:397.00:29.06:30.30:-:-
+876:7103305:Bisteca suína:7:Refogado(a):397.00:29.06:30.30:-:-
+877:7103305:Bisteca suína:99:Não se aplica:397.00:29.06:30.30:-:-
+878:7103401:Pernil suíno:2:Cozido(a):289.00:25.34:20.06:-:-
+879:7103401:Pernil suíno:4:Assado(a):289.00:25.34:20.06:-:-
+880:7103401:Pernil suíno:5:Frito(a):338.57:25.34:25.67:-:-
+881:7103401:Pernil suíno:7:Refogado(a):338.57:25.34:25.67:-:-
+882:7103403:Quarto suíno:2:Cozido(a):289.00:25.34:20.06:-:-
+883:7103501:Costela suína:1:Cru(a):397.00:29.06:30.30:-:-
+884:7103501:Costela suína:2:Cozido(a):397.00:29.06:30.30:-:-
+885:7103501:Costela suína:3:Grelhado(a)/brasa/churrasco:397.00:29.06:30.30:-:-
+886:7103501:Costela suína:4:Assado(a):397.00:29.06:30.30:-:-
+887:7103501:Costela suína:5:Frito(a):397.00:29.06:30.30:-:-
+888:7103501:Costela suína:7:Refogado(a):397.00:29.06:30.30:-:-
+889:7103501:Costela suína:8:Molho vermelho:322.40:23.51:24.28:1.08:0.30
+890:7103501:Costela suína:13:Ensopado:397.00:29.06:30.30:-:-
+891:7103501:Costela suína:99:Não se aplica:397.00:29.06:30.30:-:-
+892:7103701:Lombo suíno:2:Cozido(a):289.00:25.34:20.06:-:-
+893:7103701:Lombo suíno:3:Grelhado(a)/brasa/churrasco:289.00:25.34:20.06:-:-
+894:7103701:Lombo suíno:4:Assado(a):289.00:25.34:20.06:-:-
+895:7103701:Lombo suíno:5:Frito(a):338.57:25.34:25.67:-:-
+896:7103801:Toucinho:99:Não se aplica:541.00:37.04:41.78:1.43:-
+897:7103903:Míudo suíno:2:Cozido(a):165.00:26.02:4.40:3.76:-
+898:7103906:Arrasto suíno:99:Não se aplica:100.04:13.98:2.96:4.18:0.62
+899:7103907:Sarapatel suíno fresco:99:Não se aplica:100.04:13.98:2.96:4.18:0.62
+900:7104101:Carne suína:1:Cru(a):289.00:25.34:20.06:-:-
+901:7104101:Carne suína:2:Cozido(a):289.00:25.34:20.06:-:-
+902:7104101:Carne suína:3:Grelhado(a)/brasa/churrasco:289.00:25.34:20.06:-:-
+903:7104101:Carne suína:4:Assado(a):289.00:25.34:20.06:-:-
+904:7104101:Carne suína:5:Frito(a):338.57:25.34:25.67:-:-
+905:7104101:Carne suína:6:Empanado(a)/à milanesa:338.57:25.34:25.67:-:-
+906:7104101:Carne suína:7:Refogado(a):338.57:25.34:25.67:-:-
+907:7104101:Carne suína:8:Molho vermelho:236.00:20.54:16.08:1.08:0.30
+908:7104101:Carne suína:10:Ao alho e óleo:338.57:25.34:25.67:-:-
+909:7104101:Carne suína:13:Ensopado:338.57:25.34:25.67:-:-
+910:7104101:Carne suína:99:Não se aplica:289.00:25.34:20.06:-:-
+911:7104301:Carne moída :1:Cru(a):214.00:26.62:11.10:-:-
+912:7104301:Carne moída:2:Cozido(a):214.00:26.62:11.10:-:-
+913:7104301:Carne moída:4:Assado(a):214.00:26.62:11.10:-:-
+914:7104301:Carne moída:5:Frito(a):236.66:26.62:13.66:-:-
+915:7104301:Carne moída:6:Empanado(a)/à milanesa:236.66:26.62:13.66:-:-
+916:7104301:Carne moída:7:Refogado(a):236.66:26.62:13.66:-:-
+917:7104301:Carne moída:8:Molho vermelho:176.00:21.56:8.92:1.08:0.30
+918:7104301:Carne moída:9:Molho branco:203.79:22.08:11.37:1.85:0.04
+919:7104301:Carne moída:10:Ao alho e óleo:236.66:26.62:13.66:-:-
+920:7104301:Carne moída:13:Ensopado:236.66:26.62:13.66:-:-
+921:7104301:Carne moída:15:Sopa:63.94:3.81:1.81:7.73:0.39
+922:7104301:Carne moída:99:Não se aplica:214.00:26.62:11.10:-:-
+923:7104302:Guisado :99:Não se aplica:242.00:24.22:15.42:-:-
+924:7104501:Tripa suína:3:Grelhado(a)/brasa/churrasco:233.00:12.49:20.32:-:-
+925:7104501:Tripa suína:5:Frito(a):255.66:12.49:22.88:-:-
+926:7104601:Figado suíno:2:Cozido(a):165.00:26.02:4.40:3.76:-
+927:7104601:Figado suíno:4:Assado(a):165.00:26.02:4.40:3.76:-
+928:7104601:Figado suíno:5:Frito(a):187.66:26.02:6.96:3.76:-
+929:7104701:Língua suína:2:Cozido(a):271.00:24.10:18.60:-:-
+930:7104701:Língua suína:3:Grelhado(a)/brasa/churrasco:271.00:24.10:18.60:-:-
+931:7104701:Língua suína:4:Assado(a):271.00:24.10:18.60:-:-
+932:7104701:Língua suína:5:Frito(a):293.66:24.10:21.16:-:-
+933:7104701:Língua suína:7:Refogado(a):293.66:24.10:21.16:-:-
+934:7105001:Orelha suína fresca:2:Cozido(a):214.00:28.81:10.13:-:-
+935:7105103:Sarrabulho:99:Não se aplica:100.04:13.98:2.96:4.18:0.62
+936:7105203:Mocotó suíno:2:Cozido(a):214.00:28.81:10.13:-:-
+937:7105401:Carne de cabrito :2:Cozido(a):143.00:27.10:3.03:-:-
+938:7105401:Carne de cabrito :3:Grelhado(a)/brasa/churrasco:143.00:27.10:3.03:-:-
+939:7105401:Carne de cabrito :4:Assado(a):143.00:27.10:3.03:-:-
+940:7105402:Carne de bode:2:Cozido(a):143.00:27.10:3.03:-:-
+941:7105402:Carne de bode :3:Grelhado(a)/brasa/churrasco:143.00:27.10:3.03:-:-
+942:7105402:Carne de bode :4:Assado(a):143.00:27.10:3.03:-:-
+943:7105402:Carne de bode :5:Frito(a):165.66:27.10:5.59:-:-
+944:7105403:Carne caprina:2:Cozido(a):143.00:27.10:3.03:-:-
+945:7105403:Carne caprina:4:Assado(a):143.00:27.10:3.03:-:-
+946:7105403:Carne caprina:5:Frito(a):165.66:27.10:5.59:-:-
+947:7105403:Carne caprina:13:Ensopado:165.66:27.10:5.59:-:-
+948:7105405:Carne de caprino:1:Cru(a):143.00:27.10:3.03:-:-
+949:7105405:Carne de caprino:2:Cozido(a):143.00:27.10:3.03:-:-
+950:7105405:Carne de caprino:5:Frito(a):165.66:27.10:5.59:-:-
+951:7105601:Carne de carneiro:2:Cozido(a):204.00:28.35:9.17:-:-
+952:7105601:Carne de carneiro:3:Grelhado(a)/brasa/churrasco:204.00:28.35:9.17:-:-
+953:7105601:Carne de carneiro:4:Assado(a):204.00:28.35:9.17:-:-
+954:7105601:Carne de carneiro:5:Frito(a):253.57:28.35:14.78:-:-
+955:7105601:Carne de carneiro:13:Ensopado:253.57:28.35:14.78:-:-
+956:7105602:Carne de ovelha:2:Cozido(a):204.00:28.35:9.17:-:-
+957:7105602:Carne de ovelha:3:Grelhado(a)/brasa/churrasco:204.00:28.35:9.17:-:-
+958:7105602:Carne de ovelha:4:Assado(a):204.00:28.35:9.17:-:-
+959:7105602:Carne de ovelha:5:Frito(a):253.57:28.35:14.78:-:-
+960:7105801:Mocotó de caprino:2:Cozido(a):214.00:28.81:10.13:-:-
+961:7106301:Pernil :2:Cozido(a):289.00:25.34:20.06:-:-
+962:7106301:Pernil :3:Grelhado(a)/brasa/churrasco:289.00:25.34:20.06:-:-
+963:7106301:Pernil :4:Assado(a):289.00:25.34:20.06:-:-
+964:7106301:Pernil :5:Frito(a):338.57:25.34:25.67:-:-
+965:7106401:Lagarto bovino :2:Cozido(a):199.00:36.12:5.00:-:-
+966:7106401:Lagarto bovino :4:Assado(a):199.00:36.12:5.00:-:-
+967:7106401:Lagarto bovino :5:Frito(a):248.57:36.12:10.61:-:-
+968:7106401:Lagarto bovino :7:Refogado(a):248.57:36.12:10.61:-:-
+969:7106401:Lagarto bovino :8:Molho vermelho:164.00:29.16:4.04:1.08:0.30
+970:7106501:Alcatra suína:2:Cozido(a):289.00:25.34:20.06:-:-
+971:7106501:Alcatra suína:4:Assado(a):289.00:25.34:20.06:-:-
+972:7106501:Alcatra suína :5:Frito(a):338.57:25.34:25.67:-:-
+973:7107102:Brachola:99:Não se aplica:204.00:30.67:9.00:-:-
+974:7107103:Bife role cru:99:Não se aplica:204.00:30.67:9.00:-:-
+975:7107204:Buchada de bode:99:Não se aplica:125.00:19.80:4.40:-:3.90
+976:7107501:Suã suína:2:Cozido(a):397.00:29.06:30.30:-:-
+977:7107501:Suã suína:5:Frito(a):397.00:29.06:30.30:-:-
+978:7107601:Carne de outros animais:1:Cru(a):242.00:24.22:15.42:-:-
+979:7107601:Carne de outros animais:2:Cozido(a):242.00:24.22:15.42:-:-
+980:7107601:Carne de outros animais:3:Grelhado(a)/brasa/churrasco:242.00:24.22:15.42:-:-
+981:7107601:Carne de outros animais:4:Assado(a):242.00:24.22:15.42:-:-
+982:7107601:Carne de outros animais:5:Frito(a):264.66:24.22:17.98:-:-
+983:7107601:Carne de outros animais:7:Refogado(a):264.66:24.22:17.98:-:-
+984:7107601:Carne de outros animais:8:Molho vermelho:198.40:19.64:12.37:1.08:0.30
+985:7107601:Carne de outros animais:13:Ensopado:264.66:24.22:17.98:-:-
+986:7107601:Carne de outros animais:99:Não se aplica:242.00:24.22:15.42:-:-
+987:7107603:Carne da paca:2:Cozido(a):212.00:34.85:6.96:-:-
+988:7107603:Carne da paca:4:Assado(a):212.00:34.85:6.96:-:-
+989:7107603:Carne da paca:5:Frito(a):234.66:34.85:9.52:-:-
+990:7107611:Carne de jacaré:2:Cozido(a):92.00:19.40:1.60:-:-
+991:7107611:Carne de jacaré:5:Frito(a):114.66:19.40:4.16:-:-
+992:7107615:Carne de capivara:2:Cozido(a):212.00:34.85:6.96:-:-
+993:7107615:Carne de capivara:4:Assado(a):212.00:34.85:6.96:-:-
+994:7107615:Carne de capivara:5:Frito(a):234.66:34.85:9.52:-:-
+995:7107617:Carne de cotia:2:Cozido(a):212.00:34.85:6.96:-:-
+996:7107617:Carne de cotia:4:Assado(a):212.00:34.85:6.96:-:-
+997:7107622:Carne de jabuti:2:Cozido(a):117.00:24.16:1.53:-:-
+998:7107801:Carne de primeira :2:Cozido(a):204.00:30.67:9.00:-:-
+999:7107801:Carne de primeira :3:Grelhado(a)/brasa/churrasco:204.00:30.67:9.00:-:-
+1000:7107801:Carne de primeira :4:Assado(a):204.00:30.67:9.00:-:-
+1001:7107801:Carne de primeira :5:Frito(a):226.66:30.67:11.56:-:-
+1002:7107801:Carne de primeira :6:Empanado(a)/à milanesa:242.84:31.13:11.61:3.39:0.14
+1003:7107801:Carne de primeira :7:Refogado(a):226.66:30.67:11.56:-:-
+1004:7107801:Carne de primeira :8:Molho vermelho:168.00:24.80:7.24:1.08:0.30
+1005:7107801:Carne de primeira :9:Molho branco:195.79:25.32:9.69:1.85:0.04
+1006:7107801:Carne de primeira :11:Com manteiga/óleo:223.14:30.69:11.17:0.00:-
+1007:7107804:Chuleta:2:Cozido(a):204.00:30.67:9.00:-:-
+1008:7107804:Chuleta:3:Grelhado(a)/brasa/churrasco:204.00:30.67:9.00:-:-
+1009:7107804:Chuleta:4:Assado(a):204.00:30.67:9.00:-:-
+1010:7107804:Chuleta:5:Frito(a):226.66:30.67:11.56:-:-
+1011:7107805:Filé não especificado:1:Cru(a):204.00:30.67:9.00:-:-
+1012:7107805:Filé não especificado:2:Cozido(a):204.00:30.67:9.00:-:-
+1013:7107805:Filé não especificado:3:Grelhado(a)/brasa/churrasco:204.00:30.67:9.00:-:-
+1014:7107805:Filé não especificado:4:Assado(a):204.00:30.67:9.00:-:-
+1015:7107805:Filé não especificado:5:Frito(a):226.66:30.67:11.56:-:-
+1016:7107805:Filé não especificado:6:Empanado(a)/à milanesa:242.84:31.13:11.61:3.39:0.14
+1017:7107805:Filé não especificado:7:Refogado(a):226.66:30.67:11.56:-:-
+1018:7107805:Filé não especificado:8:Molho vermelho:168.00:24.80:7.24:1.08:0.30
+1019:7107805:Filé não especificado:11:Com manteiga/óleo:223.14:30.69:11.17:0.00:-
+1020:7107805:Filé não especificado:13:Ensopado:226.66:30.67:11.56:-:-
+1021:7107805:Filé não especificado:99:Não se aplica:204.00:30.67:9.00:-:-
+1022:7108107:Miúdo de bode :2:Cozido(a):191.00:29.08:5.26:5.13:-
+1023:7108301:Pé suíno fresco:2:Cozido(a):214.00:28.81:10.13:-:-
+1024:7108301:Pé suíno fresco:3:Grelhado(a)/brasa/churrasco:214.00:28.81:10.13:-:-
+1025:7108301:Pé suíno fresco:5:Frito(a):236.66:28.81:12.69:-:-
+1026:7109101:Carne bovina :1:Cru(a):242.00:24.22:15.42:-:-
+1027:7109101:Carne bovina :2:Cozido(a):242.00:24.22:15.42:-:-
+1028:7109101:Carne bovina:3:Grelhado(a)/brasa/churrasco:242.00:24.22:15.42:-:-
+1029:7109101:Carne bovina:4:Assado(a):242.00:24.22:15.42:-:-
+1030:7109101:Carne bovina:5:Frito(a):264.66:24.22:17.98:-:-
+1031:7109101:Carne bovina:6:Empanado(a)/à milanesa:280.84:24.68:18.03:3.39:0.14
+1032:7109101:Carne bovina :7:Refogado(a):264.66:24.22:17.98:-:-
+1033:7109101:Carne bovina :8:Molho vermelho:198.40:19.64:12.37:1.08:0.30
+1034:7109101:Carne bovina :9:Molho branco:226.19:20.16:14.83:1.85:0.04
+1035:7109101:Carne bovina :10:Ao alho e óleo:261.14:24.24:17.59:0.00:-
+1036:7109101:Carne bovina:11:Com manteiga/óleo:261.14:24.24:17.59:0.00:-
+1037:7109101:Carne bovina :12:Ao vinagrete:242.00:24.22:15.42:-:-
+1038:7109101:Carne bovina:13:Ensopado:264.66:24.22:17.98:-:-
+1039:7109101:Carne bovina :15:Sopa:63.94:3.81:1.81:7.73:0.39
+1040:7109101:Carne bovina :99:Não se aplica:242.00:24.22:15.42:-:-
+1041:7110601:Lombo não especificado:1:Cru(a):289.00:25.34:20.06:-:-
+1042:7110601:Lombo não especificado:2:Cozido(a):289.00:25.34:20.06:-:-
+1043:7110601:Lombo não especificado:4:Assado(a):289.00:25.34:20.06:-:-
+1044:7110601:Lombo não especificado:5:Frito(a):338.57:25.34:25.67:-:-
+1045:7110601:Lombo não especificado:9:Molho branco:289.00:25.34:20.06:-:-
+1046:7110801:Músculo não especificado:2:Cozido(a):199.00:36.12:5.00:-:-
+1047:7110801:Músculo não especificado:13:Ensopado:221.66:36.12:7.56:-:-
+1048:7110902:Ossada não especificada:2:Cozido(a):164.00:26.13:5.81:-:-
+1049:7110902:Ossada não especificada:7:Refogado(a):186.66:26.13:8.37:-:-
+1050:7110902:Ossada não especificada:15:Sopa:164.00:26.13:5.81:-:-
+1051:7110902:Ossada não especificada:99:Não se aplica:164.00:26.13:5.81:-:-
+1052:7111202:Carne de segunda :1:Cru(a):242.00:24.22:15.42:-:-
+1053:7111202:Carne de segunda :2:Cozido(a):242.00:24.22:15.42:-:-
+1054:7111202:Carne de segunda :3:Grelhado(a)/brasa/churrasco:242.00:24.22:15.42:-:-
+1055:7111202:Carne de segunda :4:Assado(a):242.00:24.22:15.42:-:-
+1056:7111202:Carne de segunda :5:Frito(a):264.66:24.22:17.98:-:-
+1057:7111202:Carne de segunda :6:Empanado(a)/à milanesa:280.84:24.68:18.03:3.39:0.14
+1058:7111202:Carne de segunda :7:Refogado(a):264.66:24.22:17.98:-:-
+1059:7111202:Carne de segunda :8:Molho vermelho:198.40:19.64:12.37:1.08:0.30
+1060:7111202:Carne de segunda :10:Ao alho e óleo:261.14:24.24:17.59:0.00:-
+1061:7111202:Carne de segunda :13:Ensopado:264.66:24.22:17.98:-:-
+1062:7111401:Contrafilé orgânico:4:Assado(a):204.00:30.67:9.00:-:-
+1063:7111405:Bisteca orgânica:4:Assado(a):471.00:21.57:41.98:-:-
+1064:7111405:Bisteca orgânica:5:Frito(a):471.00:21.57:41.98:-:-
+1065:7111702:Cabeça de lombo (carne bovina) orgânica:1:Cru(a):199.00:36.12:5.00:-:-
+1066:7111702:Cabeça de lombo (carne bovina) orgânica:4:Assado(a):199.00:36.12:5.00:-:-
+1067:7111702:Cabeça de lombo (carne bovina) orgânica:5:Frito(a):248.57:36.12:10.61:-:-
+1068:7111806:Tatu (lagarto redondo) orgânico:4:Assado(a):199.00:36.12:5.00:-:-
+1069:7200101:Peixe de mar (inteiro, em posta, em filé, etc.)  :1:Cru(a):117.00:24.16:1.53:-:-
+1070:7200101:Peixe de mar (inteiro, em posta, em filé, etc.)  :2:Cozido(a):117.00:24.16:1.53:-:-
+1071:7200101:Peixe de mar (inteiro, em posta, em filé, etc.)  :3:Grelhado(a)/brasa/churrasco:117.00:24.16:1.53:-:-
+1072:7200101:Peixe de mar (inteiro, em posta, em filé, etc.)  :4:Assado(a):117.00:24.16:1.53:-:-
+1073:7200101:Peixe de mar (inteiro, em posta, em filé, etc.)  :5:Frito(a):139.66:24.16:4.09:-:-
+1074:7200101:Peixe de mar (inteiro, em posta, em filé, etc.)  :6:Empanado(a)/à milanesa:155.84:24.62:4.14:3.39:0.14
+1075:7200101:Peixe de mar (inteiro, em posta, em filé, etc.)  :8:Molho vermelho:98.40:19.59:1.26:1.08:0.30
+1076:7200101:Peixe de mar (inteiro, em posta, em filé, etc.)  :9:Molho branco:140.05:20.81:5.11:1.47:0.07
+1077:7200101:Peixe de mar (inteiro, em posta, em filé, etc.)  :13:Ensopado:139.66:24.16:4.09:-:-
+1078:7200401:Peixe de mar salgado (inteiro, em posta, em filé, etc.) :2:Cozido(a):117.00:24.16:1.53:-:-
+1079:7200401:Peixe de mar salgado (inteiro, em posta, em filé, etc.) :3:Grelhado(a)/brasa/churrasco:117.00:24.16:1.53:-:-
+1080:7200401:Peixe de mar salgado (inteiro, em posta, em filé, etc.) :4:Assado(a):117.00:24.16:1.53:-:-
+1081:7200401:Peixe de mar salgado (inteiro, em posta, em filé, etc.) :5:Frito(a):139.66:24.16:4.09:-:-
+1082:7200401:Peixe de mar salgado (inteiro, em posta, em filé, etc.) :6:Empanado(a)/à milanesa:155.84:24.62:4.14:3.39:0.14
+1083:7200401:Peixe de mar salgado (inteiro, em posta, em filé, etc.) :9:Molho branco:140.05:20.81:5.11:1.47:0.07
+1084:7200401:Peixe de mar salgado (inteiro, em posta, em filé, etc.) :13:Ensopado:139.66:24.16:4.09:-:-
+1085:7260101:Camarão:1:Cru(a):99.00:20.91:1.08:-:-
+1086:7260101:Camarão :2:Cozido(a):99.00:20.91:1.08:-:-
+1087:7260101:Camarão:3:Grelhado(a)/brasa/churrasco:99.00:20.91:1.08:-:-
+1088:7260101:Camarão:4:Assado(a):99.00:20.91:1.08:-:-
+1089:7260101:Camarão:5:Frito(a):121.66:20.91:3.64:-:-
+1090:7260101:Camarão:6:Empanado(a)/à milanesa:137.84:21.37:3.69:3.39:0.14
+1091:7260101:Camarão:7:Refogado(a):121.66:20.91:3.64:-:-
+1092:7260101:Camarão:8:Molho vermelho:84.00:16.99:0.90:1.08:0.30
+1093:7260101:Camarão:9:Molho branco:125.65:18.21:4.75:1.47:0.07
+1094:7260101:Camarão:10:Ao alho e óleo:121.66:20.91:3.64:-:-
+1095:7260101:Camarão:13:Ensopado:121.66:20.91:3.64:-:-
+1096:7260101:Camarão:99:Não se aplica:99.00:20.91:1.08:-:-
+1097:7261101:Siri:2:Cozido(a):102.00:20.20:1.77:-:-
+1098:7261101:Siri:6:Empanado(a)/à milanesa:140.84:20.66:4.38:3.39:0.14
+1099:7261101:Siri:7:Refogado(a):124.66:20.20:4.33:-:-
+1100:7261120:Bau (siri):2:Cozido(a):102.00:20.20:1.77:-:-
+1101:7261121:Goiá:1:Cru(a):102.00:20.20:1.77:-:-
+1102:7262101:Caranguejo:2:Cozido(a):102.00:20.20:1.77:-:-
+1103:7262101:Caranguejo:4:Assado(a):102.00:20.20:1.77:-:-
+1104:7262101:Caranguejo:12:Ao vinagrete:102.00:20.20:1.77:-:-
+1105:7262105:Guaiamu:2:Cozido(a):102.00:20.20:1.77:-:-
+1106:7263101:Marisco:2:Cozido(a):148.00:25.55:1.95:5.13:-
+1107:7263101:Marisco:5:Frito(a):170.66:25.55:4.51:5.13:-
+1108:7263101:Marisco:8:Molho vermelho:123.20:20.70:1.60:5.18:0.30
+1109:7263101:Marisco:99:Não se aplica:148.00:25.55:1.95:5.13:-
+1110:7264101:Ostra:2:Cozido(a):137.00:14.10:4.91:7.82:-
+1111:7265101:Lula:6:Empanado(a)/à milanesa:143.84:18.32:4.19:6.92:0.14
+1112:7266101:Sururu:2:Cozido(a):148.00:25.55:1.95:5.13:-
+1113:7266101:Sururu:13:Ensopado:170.66:25.55:4.51:5.13:-
+1114:7270401:Bacalhau:2:Cozido(a):117.00:24.16:1.53:-:-
+1115:7270401:Bacalhau:4:Assado(a):117.00:24.16:1.53:-:-
+1116:7270401:Bacalhau:5:Frito(a):139.66:24.16:4.09:-:-
+1117:7270401:Bacalhau:6:Empanado(a)/à milanesa:155.84:24.62:4.14:3.39:0.14
+1118:7270401:Bacalhau:7:Refogado(a):139.66:24.16:4.09:-:-
+1119:7270401:Bacalhau:8:Molho vermelho:98.40:19.59:1.26:1.08:0.30
+1120:7270401:Bacalhau:13:Ensopado:139.66:24.16:4.09:-:-
+1121:7270401:Bacalhau:99:Não se aplica:117.00:24.16:1.53:-:-
+1122:7273101:Ovas de peixe (qualquer espécie):4:Assado(a):204.00:28.62:8.23:1.92:-
+1123:7273101:Ovas de peixe (qualquer espécie):5:Frito(a):226.66:28.62:10.79:1.92:-
+1124:7400101:Peixe de água doce (inteiro, em posta, em filé, etc.) :1:Cru(a):117.00:24.16:1.53:-:-
+1125:7400101:Peixe de água doce (inteiro, em posta, em filé, etc.) :2:Cozido(a):117.00:24.16:1.53:-:-
+1126:7400101:Peixe de água doce (inteiro, em posta, em filé, etc.) :3:Grelhado(a)/brasa/churrasco:117.00:24.16:1.53:-:-
+1127:7400101:Peixe de água doce (inteiro, em posta, em filé, etc.) :4:Assado(a):117.00:24.16:1.53:-:-
+1128:7400101:Peixe de água doce (inteiro, em posta, em filé, etc.) :5:Frito(a):139.66:24.16:4.09:-:-
+1129:7400101:Peixe de água doce (inteiro, em posta, em filé, etc.) :6:Empanado(a)/à milanesa:155.84:24.62:4.14:3.39:0.14
+1130:7400101:Peixe de água doce (inteiro, em posta, em filé, etc.) :7:Refogado(a):139.66:24.16:4.09:-:-
+1131:7400101:Peixe de água doce (inteiro, em posta, em filé, etc.) :8:Molho vermelho:98.40:19.59:1.26:1.08:0.30
+1132:7400101:Peixe de água doce (inteiro, em posta, em filé, etc.) :9:Molho branco:126.19:20.11:3.71:1.85:0.04
+1133:7400101:Peixe de água doce (inteiro, em posta, em filé, etc.) :13:Ensopado:139.66:24.16:4.09:-:-
+1134:7400101:Peixe de água doce (inteiro, em posta, em filé, etc.) :99:Não se aplica:117.00:24.16:1.53:-:-
+1135:7400401:Peixe de água doce salgado (inteiro, em posta, em filé, etc.) :2:Cozido(a):117.00:24.16:1.53:-:-
+1136:7400401:Peixe de água doce salgado (inteiro, em posta, em filé, etc.) :3:Grelhado(a)/brasa/churrasco:117.00:24.16:1.53:-:-
+1137:7400401:Peixe de água doce salgado (inteiro, em posta, em filé, etc.) :4:Assado(a):117.00:24.16:1.53:-:-
+1138:7400401:Peixe de água doce salgado (inteiro, em posta, em filé, etc.) :5:Frito(a):139.66:24.16:4.09:-:-
+1139:7400401:Peixe de água doce salgado (inteiro, em posta, em filé, etc.) :6:Empanado(a)/à milanesa:155.84:24.62:4.14:3.39:0.14
+1140:7400401:Peixe de água doce salgado (inteiro, em posta, em filé, etc.) :8:Molho vermelho:98.40:19.59:1.26:1.08:0.30
+1141:7400401:Peixe de água doce salgado (inteiro, em posta, em filé, etc.) :13:Ensopado:139.66:24.16:4.09:-:-
+1142:7444101:Tracajá:2:Cozido(a):117.00:24.16:1.53:-:-
+1143:7600101:Peixe não especificado (inteiro, em posta, em filé, etc.):1:Cru(a):117.00:24.16:1.53:-:-
+1144:7600101:Peixe não especificado (inteiro, em posta, em filé, etc.):2:Cozido(a):117.00:24.16:1.53:-:-
+1145:7600101:Peixe não especificado (inteiro, em posta, em filé, etc.):3:Grelhado(a)/brasa/churrasco:117.00:24.16:1.53:-:-
+1146:7600101:Peixe não especificado (inteiro, em posta, em filé, etc.):4:Assado(a):117.00:24.16:1.53:-:-
+1147:7600101:Peixe não especificado (inteiro, em posta, em filé, etc.):5:Frito(a):139.66:24.16:4.09:-:-
+1148:7600101:Peixe não especificado (inteiro, em posta, em filé, etc.):6:Empanado(a)/à milanesa:155.84:24.62:4.14:3.39:0.14
+1149:7600101:Peixe não especificado (inteiro, em posta, em filé, etc.):7:Refogado(a):139.66:24.16:4.09:-:-
+1150:7600101:Peixe não especificado (inteiro, em posta, em filé, etc.):8:Molho vermelho:98.40:19.59:1.26:1.08:0.30
+1151:7600101:Peixe não especificado (inteiro, em posta, em filé, etc.):9:Molho branco:140.05:20.81:5.11:1.47:0.07
+1152:7600101:Peixe não especificado (inteiro, em posta, em filé, etc.):13:Ensopado:139.66:24.16:4.09:-:-
+1153:7600401:Peixe não especificado salgado (inteiro, em posta, em filé, etc.):2:Cozido(a):117.00:24.16:1.53:-:-
+1154:7600401:Peixe não especificado salgado (inteiro, em posta, em filé, etc.):3:Grelhado(a)/brasa/churrasco:117.00:24.16:1.53:-:-
+1155:7600401:Peixe não especificado salgado (inteiro, em posta, em filé, etc.):4:Assado(a):117.00:24.16:1.53:-:-
+1156:7600401:Peixe não especificado salgado (inteiro, em posta, em filé, etc.):5:Frito(a):139.66:24.16:4.09:-:-
+1157:7600401:Peixe não especificado salgado (inteiro, em posta, em filé, etc.):6:Empanado(a)/à milanesa:155.84:24.62:4.14:3.39:0.14
+1158:7700101:Azeitona:99:Não se aplica:145.00:1.03:15.32:3.84:3.30
+1159:7700201:Ervilha em conserva:99:Não se aplica:69.00:4.42:0.35:12.58:4.10
+1160:7700202:Petit-pois:99:Não se aplica:69.00:4.42:0.35:12.58:4.10
+1161:7700401:Milho verde em conserva:99:Não se aplica:81.00:2.64:0.93:18.80:1.90
+1162:7700501:Palmito em conserva:99:Não se aplica:28.00:2.52:0.62:4.62:2.40
+1163:7700601:Cogumelo em conserva:99:Não se aplica:50.74:1.87:3.20:5.09:2.40
+1164:7700602:Champignon em conserva:99:Não se aplica:50.74:1.87:3.20:5.09:2.40
+1165:7700701:Aspargo em conserva:99:Não se aplica:19.00:2.14:0.65:2.46:1.60
+1166:7700901:Repolho em conserva:99:Não se aplica:19.00:0.91:0.14:4.28:2.90
+1167:7700902:Chucrute:99:Não se aplica:19.00:0.91:0.14:4.28:2.90
+1168:7701101:Legume não especificado em conserva:99:Não se aplica:47.00:2.53:0.26:9.06:2.80
+1169:7701404:Creme de cebola (sopa desidratada):99:Não se aplica:46.31:0.82:2.47:5.34:0.20
+1170:7701405:Creme de legumes (sopa desidratada):99:Não se aplica:10.55:0.48:0.02:2.15:0.23
+1171:7701406:Yakissoba :99:Não se aplica:527.00:8.38:30.76:57.54:3.90
+1172:7701501:Milho verde com ervilha em conserva:1:Cru(a):79.52:3.83:0.47:16.81:2.96
+1173:7701501:Milho verde com ervilha em conserva:2:Cozido(a):79.52:3.83:0.47:16.81:2.96
+1174:7701501:Milho verde com ervilha em conserva:5:Frito(a):79.52:3.83:0.47:16.81:2.96
+1175:7701501:Milho verde com ervilha em conserva:99:Não se aplica:79.52:3.83:0.47:16.81:2.96
+1176:7701901:Feijoada:99:Não se aplica:181.59:11.11:7.90:16.92:5.68
+1177:7702001:Feijão branco com dobradinha em conserva:99:Não se aplica:136.38:10.68:5.91:10.20:2.33
+1178:7702101:Cozido:99:Não se aplica:87.33:5.61:3.79:7.93:1.74
+1179:7702302:Pasta de carne em conserva:99:Não se aplica:245.65:9.89:16.89:14.10:0.17
+1180:7702402:Pasta de presunto em conserva:99:Não se aplica:276.46:17.86:21.43:1.80:-
+1181:7702502:Pasta de galinha em conserva:99:Não se aplica:214.36:16.39:14.53:3.66:0.25
+1182:7702601:Carne bovina em conserva:99:Não se aplica:242.00:24.22:15.42:-:-
+1183:7702602:Almôndega :99:Não se aplica:214.85:20.64:9.20:11.00:0.76
+1184:7702603:Kitute bovino:99:Não se aplica:242.00:24.22:15.42:-:-
+1185:7702604:Almôndega ao molho em conserva:99:Não se aplica:203.52:16.16:10.72:9.70:0.91
+1186:7702704:Kitute suíno:99:Não se aplica:178.00:22.62:9.02:-:-
+1187:7702705:Presuntada:99:Não se aplica:178.00:22.62:9.02:-:-
+1188:7702707:Fiambre :1:Cru(a):178.00:22.62:9.02:-:-
+1189:7702707:Fiambre :2:Cozido(a):178.00:22.62:9.02:-:-
+1190:7702707:Fiambre :4:Assado(a):178.00:22.62:9.02:-:-
+1191:7702707:Fiambre :5:Frito(a):178.00:22.62:9.02:-:-
+1192:7702801:Salsicha em conserva:99:Não se aplica:269.08:8.30:25.81:0.27:0.01
+1193:7703002:Sardinha em conserva:99:Não se aplica:208.00:24.62:11.45:-:-
+1194:7703402:Atum em conserva:99:Não se aplica:198.00:29.13:8.21:-:-
+1195:7703701:Pepino em conserva:99:Não se aplica:12.00:0.60:0.14:2.59:1.10
+1196:7703902:Pasta de peixe em conserva:99:Não se aplica:198.00:29.13:8.21:-:-
+1197:7704001:Picles:99:Não se aplica:12.00:0.60:0.14:2.59:1.10
+1198:7705201:Nabo em conserva:99:Não se aplica:43.26:0.87:0.19:9.94:1.59
+1199:7705401:Strogonoff :99:Não se aplica:147.68:12.83:9.11:4.13:0.44
+1200:7706001:Salmão em conserva:99:Não se aplica:136.00:23.08:4.83:-:-
+1201:7706104:Creme de cebola (sopa desidratada) light:99:Não se aplica:46.31:0.82:2.47:5.34:0.20
+1202:7706105:Creme de legumes (sopa desidratada) light:99:Não se aplica:10.55:0.48:0.02:2.15:0.23
+1203:7706106:Yakissoba (sopa de legumes desidratada) light:99:Não se aplica:80.04:3.01:0.47:15.61:0.97
+1204:7706302:Atum em conserva light:99:Não se aplica:116.00:25.51:0.82:-:-
+1205:7800103:Frango inteiro:1:Cru(a):239.00:27.30:13.60:-:-
+1206:7800103:Frango inteiro:2:Cozido(a):239.00:27.30:13.60:-:-
+1207:7800103:Frango inteiro:3:Grelhado(a)/brasa/churrasco:239.00:27.30:13.60:-:-
+1208:7800103:Frango inteiro:4:Assado(a):239.00:27.30:13.60:-:-
+1209:7800103:Frango inteiro:5:Frito(a):261.66:27.30:16.16:-:-
+1210:7800103:Frango inteiro:6:Empanado(a)/à milanesa:277.84:27.76:16.21:3.39:0.14
+1211:7800103:Frango inteiro:7:Refogado(a):261.66:27.30:16.16:-:-
+1212:7800103:Frango inteiro:8:Molho vermelho:196.00:22.10:10.92:1.08:0.30
+1213:7800103:Frango inteiro:13:Ensopado:261.66:27.30:16.16:-:-
+1214:7800301:Parte de galinha ou frango não especificada:1:Cru(a):239.00:27.30:13.60:-:-
+1215:7800301:Parte de galinha ou frango não especificada:2:Cozido(a):239.00:27.30:13.60:-:-
+1216:7800301:Parte de galinha ou frango não especificada:3:Grelhado(a)/brasa/churrasco:239.00:27.30:13.60:-:-
+1217:7800301:Parte de galinha ou frango não especificada:4:Assado(a):239.00:27.30:13.60:-:-
+1218:7800301:Parte de galinha ou frango não especificada:5:Frito(a):261.66:27.30:16.16:-:-
+1219:7800301:Parte de galinha ou frango não especificada:6:Empanado(a)/à milanesa:277.84:27.76:16.21:3.39:0.14
+1220:7800301:Parte de galinha ou frango não especificada:7:Refogado(a):261.66:27.30:16.16:-:-
+1221:7800301:Parte de galinha ou frango não especificada:8:Molho vermelho:196.00:22.10:10.92:1.08:0.30
+1222:7800301:Parte de galinha ou frango não especificada:13:Ensopado:261.66:27.30:16.16:-:-
+1223:7800301:Parte de galinha ou frango não especificada:99:Não se aplica:239.00:27.30:13.60:-:-
+1224:7800302:Frango em pedaços:1:Cru(a):239.00:27.30:13.60:-:-
+1225:7800302:Frango em pedaços:2:Cozido(a):239.00:27.30:13.60:-:-
+1226:7800302:Frango em pedaços:3:Grelhado(a)/brasa/churrasco:239.00:27.30:13.60:-:-
+1227:7800302:Frango em pedaços:4:Assado(a):239.00:27.30:13.60:-:-
+1228:7800302:Frango em pedaços:5:Frito(a):261.66:27.30:16.16:-:-
+1229:7800302:Frango em pedaços:6:Empanado(a)/à milanesa:277.84:27.76:16.21:3.39:0.14
+1230:7800302:Frango em pedaços:7:Refogado(a):261.66:27.30:16.16:-:-
+1231:7800302:Frango em pedaços:8:Molho vermelho:196.00:22.10:10.92:1.08:0.30
+1232:7800302:Frango em pedaços:9:Molho branco:226.79:22.60:13.71:1.85:0.04
+1233:7800302:Frango em pedaços:10:Ao alho e óleo:261.66:27.30:16.16:-:-
+1234:7800302:Frango em pedaços:11:Com manteiga/óleo:192.14:30.93:6.68:0.00:-
+1235:7800302:Frango em pedaços:13:Ensopado:261.66:27.30:16.16:-:-
+1236:7800302:Frango em pedaços:15:Sopa:31.47:1.61:1.06:3.64:0.13
+1237:7800302:Frango em pedaços:99:Não se aplica:239.00:27.30:13.60:-:-
+1238:7800303:Galinha em pedaços :2:Cozido(a):239.00:27.30:13.60:-:-
+1239:7800303:Galinha em pedaços :3:Grelhado(a)/brasa/churrasco:239.00:27.30:13.60:-:-
+1240:7800303:Galinha em pedaços :4:Assado(a):239.00:27.30:13.60:-:-
+1241:7800303:Galinha em pedaços :5:Frito(a):261.66:27.30:16.16:-:-
+1242:7800303:Galinha em pedaços :6:Empanado(a)/à milanesa:277.84:27.76:16.21:3.39:0.14
+1243:7800303:Galinha em pedaços :7:Refogado(a):261.66:27.30:16.16:-:-
+1244:7800303:Galinha em pedaços :8:Molho vermelho:196.00:22.10:10.92:1.08:0.30
+1245:7800303:Galinha em pedaços :9:Molho branco:226.79:22.60:13.71:1.85:0.04
+1246:7800303:Galinha em pedaços :13:Ensopado:261.66:27.30:16.16:-:-
+1247:7800304:Carne de galinha :1:Cru(a):239.00:27.30:13.60:-:-
+1248:7800304:Carne de galinha :2:Cozido(a):239.00:27.30:13.60:-:-
+1249:7800304:Carne de galinha :3:Grelhado(a)/brasa/churrasco:239.00:27.30:13.60:-:-
+1250:7800304:Carne de galinha :4:Assado(a):239.00:27.30:13.60:-:-
+1251:7800304:Carne de galinha :5:Frito(a):261.66:27.30:16.16:-:-
+1252:7800304:Carne de galinha :6:Empanado(a)/à milanesa:277.84:27.76:16.21:3.39:0.14
+1253:7800304:Carne de galinha :7:Refogado(a):239.00:27.30:13.60:-:-
+1254:7800304:Carne de galinha :8:Molho vermelho:261.66:27.30:16.16:-:-
+1255:7800304:Carne de galinha :9:Molho branco:226.79:22.60:13.71:1.85:0.04
+1256:7800304:Carne de galinha :13:Ensopado:261.66:27.30:16.16:-:-
+1257:7800304:Carne de galinha :15:Sopa:31.47:1.61:1.06:3.64:0.13
+1258:7800304:Carne de galinha :99:Não se aplica:239.00:27.30:13.60:-:-
+1259:7800401:Peito de galinha ou frango:1:Cru(a):173.00:30.91:4.51:-:-
+1260:7800401:Peito de galinha ou frango:2:Cozido(a):173.00:30.91:4.51:-:-
+1261:7800401:Peito de galinha ou frango:3:Grelhado(a)/brasa/churrasco:173.00:30.91:4.51:-:-
+1262:7800401:Peito de galinha ou frango:4:Assado(a):173.00:30.91:4.51:-:-
+1263:7800401:Peito de galinha ou frango:5:Frito(a):195.66:30.91:7.07:-:-
+1264:7800401:Peito de galinha ou frango:6:Empanado(a)/à milanesa:211.84:31.37:7.12:3.39:0.14
+1265:7800401:Peito de galinha ou frango:7:Refogado(a):195.66:30.91:7.07:-:-
+1266:7800401:Peito de galinha ou frango:8:Molho vermelho:143.20:24.99:3.64:1.08:0.30
+1267:7800401:Peito de galinha ou frango:9:Molho branco:170.99:25.51:6.10:1.85:0.04
+1268:7800401:Peito de galinha ou frango:13:Ensopado:195.66:30.91:7.07:-:-
+1269:7800401:Peito de galinha ou frango:15:Sopa:31.47:1.61:1.06:3.64:0.13
+1270:7800401:Peito de galinha ou frango:99:Não se aplica:173.00:30.91:4.51:-:-
+1271:7800402:Filé de frango:1:Cru(a):173.00:30.91:4.51:-:-
+1272:7800402:Filé de frango:2:Cozido(a):173.00:30.91:4.51:-:-
+1273:7800402:Filé de frango:3:Grelhado(a)/brasa/churrasco:173.00:30.91:4.51:-:-
+1274:7800402:Filé de frango:4:Assado(a):173.00:30.91:4.51:-:-
+1275:7800402:Filé de frango:5:Frito(a):195.66:30.91:7.07:-:-
+1276:7800402:Filé de frango:6:Empanado(a)/à milanesa:211.84:31.37:7.12:3.39:0.14
+1277:7800402:Filé de frango:7:Refogado(a):195.66:30.91:7.07:-:-
+1278:7800402:Filé de frango:8:Molho vermelho:143.20:24.99:3.64:1.08:0.30
+1279:7800402:Filé de frango:9:Molho branco:170.99:25.51:6.10:1.85:0.04
+1280:7800402:Filé de frango:10:Ao alho e óleo:195.66:30.91:7.07:-:-
+1281:7800402:Filé de frango:13:Ensopado:195.66:30.91:7.07:-:-
+1282:7800402:Filé de frango:99:Não se aplica:173.00:30.91:4.51:-:-
+1283:7800602:Carcaça de galinha ou frango:2:Cozido(a):173.00:30.91:4.51:-:-
+1284:7800602:Carcaça de galinha ou frango:4:Assado(a):173.00:30.91:4.51:-:-
+1285:7800602:Carcaça de galinha ou frango:5:Frito(a):195.66:30.91:7.07:-:-
+1286:7800602:Carcaça de galinha ou frango:7:Refogado(a):195.66:30.91:7.07:-:-
+1287:7800602:Carcaça de galinha ou frango:13:Ensopado:195.66:30.91:7.07:-:-
+1288:7800701:Asa de galinha ou frango:1:Cru(a):290.00:26.86:19.46:-:-
+1289:7800701:Asa de galinha ou frango:2:Cozido(a):290.00:26.86:19.46:-:-
+1290:7800701:Asa de galinha ou frango:3:Grelhado(a)/brasa/churrasco:290.00:26.86:19.46:-:-
+1291:7800701:Asa de galinha ou frango:4:Assado(a):290.00:26.86:19.46:-:-
+1292:7800701:Asa de galinha ou frango:5:Frito(a):312.66:26.86:22.02:-:-
+1293:7800701:Asa de galinha ou frango:6:Empanado(a)/à milanesa:328.84:27.32:22.07:3.39:0.14
+1294:7800701:Asa de galinha ou frango:7:Refogado(a):312.66:26.86:22.02:-:-
+1295:7800701:Asa de galinha ou frango:8:Molho vermelho:236.80:21.75:15.60:1.08:0.30
+1296:7800701:Asa de galinha ou frango:13:Ensopado:312.66:26.86:22.02:-:-
+1297:7800702:Drumete de galinha ou frango:2:Cozido(a):213.00:27.73:10.50:-:-
+1298:7800702:Drumete de galinha ou frango:3:Grelhado(a)/brasa/churrasco:213.00:27.73:10.50:-:-
+1299:7800702:Drumete de galinha ou frango:4:Assado(a):213.00:27.73:10.50:-:-
+1300:7800702:Drumete de galinha ou frango:5:Frito(a):235.66:27.73:13.06:-:-
+1301:7800702:Drumete de galinha ou frango:7:Refogado(a):235.66:27.73:13.06:-:-
+1302:7800702:Drumete de galinha ou frango:8:Molho vermelho:175.20:22.45:8.44:1.08:0.30
+1303:7800801:Pescoço de galinha ou frango:2:Cozido(a):300.00:25.95:20.97:-:-
+1304:7800801:Pescoço de galinha ou frango:4:Assado(a):300.00:25.95:20.97:-:-
+1305:7800801:Pescoço de galinha ou frango:5:Frito(a):322.66:25.95:23.53:-:-
+1306:7800801:Pescoço de galinha ou frango:7:Refogado(a):322.66:25.95:23.53:-:-
+1307:7800801:Pescoço de galinha ou frango:9:Molho branco:272.59:21.54:19.27:1.85:0.04
+1308:7800901:Pé de galinha ou frango:2:Cozido(a):215.00:19.40:14.60:0.20:-
+1309:7800901:Pé de galinha ou frango:3:Grelhado(a)/brasa/churrasco:215.00:19.40:14.60:0.20:-
+1310:7800901:Pé de galinha ou frango:4:Assado(a):215.00:19.40:14.60:0.20:-
+1311:7800901:Pé de galinha ou frango:5:Frito(a):237.66:19.40:17.16:0.20:-
+1312:7800901:Pé de galinha ou frango:7:Refogado(a):237.66:19.40:17.16:0.20:-
+1313:7800901:Pé de galinha ou frango:8:Molho vermelho:176.80:15.78:11.72:1.24:0.30
+1314:7800901:Pé de galinha ou frango:13:Ensopado:237.66:19.40:17.16:0.20:-
+1315:7801001:Miúdo de galinha ou frango :2:Cozido(a):167.00:24.46:6.51:0.87:-
+1316:7801001:Miúdo de galinha ou frango :4:Assado(a):167.00:24.46:6.51:0.87:-
+1317:7801001:Miúdo de galinha ou frango :5:Frito(a):189.66:24.46:9.07:0.87:-
+1318:7801001:Miúdo de galinha ou frango :8:Molho vermelho:138.40:19.83:5.24:1.77:0.30
+1319:7801001:Miúdo de galinha ou frango :15:Sopa:31.47:1.61:1.06:3.64:0.13
+1320:7801101:Moela de galinha ou frango:2:Cozido(a):146.00:30.39:2.68:-:-
+1321:7801101:Moela de galinha ou frango:3:Grelhado(a)/brasa/churrasco:146.00:30.39:2.68:-:-
+1322:7801101:Moela de galinha ou frango:5:Frito(a):168.66:30.39:5.24:-:-
+1323:7801101:Moela de galinha ou frango:7:Refogado(a):168.66:30.39:5.24:-:-
+1324:7801101:Moela de galinha ou frango:8:Molho vermelho:121.60:24.58:2.18:1.08:0.30
+1325:7801101:Moela de galinha ou frango:9:Molho branco:149.39:25.09:4.63:1.85:0.04
+1326:7801101:Moela de galinha ou frango:13:Ensopado:168.66:30.39:5.24:-:-
+1327:7801101:Moela de galinha ou frango:15:Sopa:31.47:1.61:1.06:3.64:0.13
+1328:7801202:Coração de frango:2:Cozido(a):185.00:26.41:7.92:0.10:-
+1329:7801202:Coração de frango:3:Grelhado(a)/brasa/churrasco:185.00:26.41:7.92:0.10:-
+1330:7801202:Coração de frango:4:Assado(a):185.00:26.41:7.92:0.10:-
+1331:7801202:Coração de frango:5:Frito(a):207.66:26.41:10.48:0.10:-
+1332:7801202:Coração de frango:13:Ensopado:185.00:26.41:7.92:0.10:-
+1333:7801301:Fígado de galinha ou frango:2:Cozido(a):167.00:24.46:6.51:0.87:-
+1334:7801301:Fígado de galinha ou frango:4:Assado(a):167.00:24.46:6.51:0.87:-
+1335:7801301:Fígado de galinha ou frango:5:Frito(a):189.66:24.46:9.07:0.87:-
+1336:7801407:Canja :99:Não se aplica:31.47:1.61:1.06:3.64:0.13
+1337:7801702:Peru em pedaço não especificado:2:Cozido(a):207.00:26.94:10.24:-:-
+1338:7801702:Peru em pedaço não especificado:4:Assado(a):207.00:26.94:10.24:-:-
+1339:7801702:Peru em pedaço não especificado:5:Frito(a):229.66:26.94:12.80:-:-
+1340:7801702:Peru em pedaço não especificado:13:Ensopado:229.66:26.94:12.80:-:-
+1341:7801801:Peito de peru:1:Cru(a):140.00:30.19:1.18:-:-
+1342:7801801:Peito de peru:2:Cozido(a):140.00:30.19:1.18:-:-
+1343:7801801:Peito de peru:3:Grelhado(a)/brasa/churrasco:140.00:30.19:1.18:-:-
+1344:7801801:Peito de peru:4:Assado(a):140.00:30.19:1.18:-:-
+1345:7801801:Peito de peru:5:Frito(a):162.66:30.19:3.74:-:-
+1346:7801801:Peito de peru:6:Empanado(a)/à milanesa:162.66:30.19:3.74:-:-
+1347:7801801:Peito de peru:99:Não se aplica:140.00:30.19:1.18:-:-
+1348:7802101:Asa de peru:2:Cozido(a):229.00:27.38:12.43:-:-
+1349:7802101:Asa de peru:4:Assado(a):229.00:27.38:12.43:-:-
+1350:7802701:Chester :2:Cozido(a):207.00:26.94:10.24:-:-
+1351:7802701:Chester :4:Assado(a):207.00:26.94:10.24:-:-
+1352:7802701:Chester :99:Não se aplica:207.00:26.94:10.24:-:-
+1353:7802702:Tender:4:Assado(a):178.00:22.62:9.02:-:-
+1354:7802801:Nambu :2:Cozido(a):219.00:23.90:13.00:-:-
+1355:7802901:Nuggets de frango:3:Grelhado(a)/brasa/churrasco:273.02:16.24:15.63:15.91:0.64
+1356:7802901:Nuggets de frango:4:Assado(a):273.02:16.24:15.63:15.91:0.64
+1357:7802901:Nuggets de frango:5:Frito(a):273.02:16.24:15.63:15.91:0.64
+1358:7802901:Nuggets de frango:6:Empanado(a)/à milanesa:273.02:16.24:15.63:15.91:0.64
+1359:7802901:Nuggets de frango:7:Refogado(a):273.02:16.24:15.63:15.91:0.64
+1360:7802902:Steak de frango:2:Cozido(a):211.84:31.37:7.12:3.39:0.14
+1361:7802902:Steak de frango:3:Grelhado(a)/brasa/churrasco:211.84:31.37:7.12:3.39:0.14
+1362:7802902:Steak de frango:4:Assado(a):211.84:31.37:7.12:3.39:0.14
+1363:7802902:Steak de frango:5:Frito(a):211.84:31.37:7.12:3.39:0.14
+1364:7802902:Steak de frango:6:Empanado(a)/à milanesa:211.84:31.37:7.12:3.39:0.14
+1365:7802902:Steak de frango:99:Não se aplica:211.84:31.37:7.12:3.39:0.14
+1366:7803001:Codorna:5:Frito(a):269.66:32.40:14.66:-:-
+1367:7803201:Pé e asa de galinha ou frango:2:Cozido(a):290.00:26.86:19.46:-:-
+1368:7803201:Pé e asa de galinha ou frango:4:Assado(a):290.00:26.86:19.46:-:-
+1369:7803201:Pé e asa de galinha ou frango:5:Frito(a):312.66:26.86:22.02:-:-
+1370:7803301:Ovo de galinha:1:Cru(a):155.00:12.58:10.61:1.12:-
+1371:7803301:Ovo de galinha:2:Cozido(a):155.00:12.58:10.61:1.12:-
+1372:7803301:Ovo de galinha:4:Assado(a):155.00:12.58:10.61:1.12:-
+1373:7803301:Ovo de galinha:5:Frito(a):222.59:13.67:17.65:1.22:-
+1374:7803301:Ovo de galinha:7:Refogado(a):155.00:12.58:10.61:1.12:-
+1375:7803301:Ovo de galinha:8:Molho vermelho:155.00:12.58:10.61:1.12:-
+1376:7803301:Ovo de galinha:10:Ao alho e óleo:222.59:13.67:17.65:1.22:-
+1377:7803301:Ovo de galinha:11:Com manteiga/óleo:214.18:13.73:16.70:1.22:-
+1378:7803301:Ovo de galinha:12:Ao vinagrete:155.00:12.58:10.61:1.12:-
+1379:7803301:Ovo de galinha:13:Ensopado:155.00:12.58:10.61:1.12:-
+1380:7803301:Ovo de galinha:14:Mingau:155.00:12.58:10.61:1.12:-
+1381:7803301:Ovo de galinha:99:Não se aplica:155.00:12.58:10.61:1.12:-
+1382:7803501:Ovo de codorna:1:Cru(a):155.00:12.58:10.61:1.12:-
+1383:7803501:Ovo de codorna:2:Cozido(a):155.00:12.58:10.61:1.12:-
+1384:7803501:Ovo de codorna:5:Frito(a):222.59:13.67:17.65:1.22:-
+1385:7803501:Ovo de codorna:12:Ao vinagrete:155.00:12.58:10.61:1.12:-
+1386:7803501:Ovo de codorna:99:Não se aplica:155.00:12.58:10.61:1.12:-
+1387:7803702:Galinha-d'angola abatida, congelada ou viva:2:Cozido(a):247.00:32.40:12.10:-:-
+1388:7803702:Galinha-d'angola abatida, congelada ou viva:4:Assado(a):247.00:32.40:12.10:-:-
+1389:7803703:Capote :2:Cozido(a):247.00:32.40:12.10:-:-
+1390:7803703:Capote :4:Assado(a):247.00:32.40:12.10:-:-
+1391:7803703:Capote :5:Frito(a):269.66:32.40:14.66:-:-
+1392:7803707:Mutum :2:Cozido(a):239.00:27.30:13.60:-:-
+1393:7803907:Pato em pedaços:2:Cozido(a):201.00:26.14:9.97:-:-
+1394:7803907:Pato em pedaços:13:Ensopado:201.00:26.14:9.97:-:-
+1395:7803908:Peito de pato:5:Frito(a):223.66:26.14:12.53:-:-
+1396:7803913:Carne de pato :2:Cozido(a):201.00:26.14:9.97:-:-
+1397:7803913:Carne de pato :4:Assado(a):201.00:26.14:9.97:-:-
+1398:7803913:Carne de pato :5:Frito(a):223.66:26.14:12.53:-:-
+1399:7805401:Peito de peru light:1:Cru(a):140.00:30.19:1.18:-:-
+1400:7805401:Peito de peru light:2:Cozido(a):140.00:30.19:1.18:-:-
+1401:7805401:Peito de peru light:99:Não se aplica:140.00:30.19:1.18:-:-
+1402:7805501:Frango inteiro orgânico:2:Cozido(a):239.00:27.30:13.60:-:-
+1403:7805501:Frango inteiro orgânico:4:Assado(a):239.00:27.30:13.60:-:-
+1404:7805702:Filé de frango orgânico:2:Cozido(a):173.00:30.91:4.51:-:-
+1405:7805702:Filé de frango orgânico:3:Grelhado(a)/brasa/churrasco:173.00:30.91:4.51:-:-
+1406:7805702:Filé de frango orgânico:5:Frito(a):195.66:30.91:7.07:-:-
+1407:7805702:Filé de frango orgânico:6:Empanado(a)/à milanesa:211.84:31.37:7.12:3.39:0.14
+1408:7900101:Leite de vaca integral:99:Não se aplica:60.03:3.22:3.25:4.52:-
+1409:7900201:Leite de vaca fresco :99:Não se aplica:60.03:3.22:3.25:4.52:-
+1410:7900301:Leite de cabra:99:Não se aplica:69.03:3.56:4.14:4.45:-
+1411:7900601:Leite em pó integral:99:Não se aplica:480.00:25.76:26.00:36.16:-
+1412:7900710:Leite em pó desnatado:99:Não se aplica:358.00:35.10:0.72:52.19:-
+1413:7900801:Leite em pó :99:Não se aplica:480.00:25.76:26.00:36.16:-
+1414:7900901:Leite condensado:99:Não se aplica:319.70:7.88:8.67:54.18:-
+1415:7900903:Leite beijinho:99:Não se aplica:319.70:7.88:8.67:54.18:-
+1416:7901001:Creme de leite:99:Não se aplica:292.00:2.17:30.91:2.96:-
+1417:7901101:Chantilly:99:Não se aplica:276.39:2.93:24.57:12.36:-
+1418:7901201:Iogurte de qualquer sabor:99:Não se aplica:98.69:3.46:3.47:14.62:2.13
+1419:7901203:Iogurte desnatado:99:Não se aplica:56.00:5.73:0.18:7.68:-
+1420:7901204:Iogurte natural:99:Não se aplica:61.00:3.47:3.25:4.66:-
+1421:7901301:Yakult de qualquer sabor:99:Não se aplica:69.30:3.03:0.07:14.46:-
+1422:7901303:Bebida láctea:99:Não se aplica:91.13:2.78:1.15:18.03:0.14
+1423:7901304:Leite fermentado:99:Não se aplica:50.23:3.32:1.98:4.70:-
+1424:7901401:Coalhada:99:Não se aplica:61.00:3.47:3.25:4.66:-
+1425:7901501:Manteiga com ou sem sal:99:Não se aplica:717.00:0.85:81.11:0.06:-
+1426:7901505:Manteiga de garrafa:99:Não se aplica:717.00:0.85:81.11:0.06:-
+1427:7901602:Margarina com ou sem sal:99:Não se aplica:719.00:0.90:80.50:0.90:-
+1428:7901701:Queijo prato:99:Não se aplica:302.00:25.96:20.03:3.83:-
+1429:7901703:Queijo colonial:99:Não se aplica:302.00:25.96:20.03:3.83:-
+1430:7901705:Queijo de colônia:99:Não se aplica:302.00:25.96:20.03:3.83:-
+1431:7901801:Queijo muçarela:99:Não se aplica:318.00:21.60:24.64:2.47:-
+1432:7901803:Muçarela:99:Não se aplica:318.00:21.60:24.64:2.47:-
+1433:7901807:Muçarela de búfala:99:Não se aplica:318.00:21.60:24.64:2.47:-
+1434:7901809:Queijo de búfala:99:Não se aplica:318.00:21.60:24.64:2.47:-
+1435:7901901:Queijo de reino:99:Não se aplica:356.00:24.94:27.44:2.22:-
+1436:7902001:Queijo de minas:99:Não se aplica:240.00:17.60:14.10:10.60:-
+1437:7902003:Queijo de manteiga:99:Não se aplica:318.00:21.60:24.64:2.47:-
+1438:7902004:Quechimia:99:Não se aplica:240.00:17.60:14.10:10.60:-
+1439:7902005:Queijo de coalho:99:Não se aplica:373.00:24.48:30.28:0.68:-
+1440:7902008:Queijo canastra:99:Não se aplica:240.00:17.60:14.10:10.60:-
+1441:7902201:Queijo ricota:99:Não se aplica:174.00:11.26:12.98:3.04:-
+1442:7902301:Leite de soja com sabor :99:Não se aplica:64.05:3.68:1.65:9.07:1.10
+1443:7902303:Ades original:99:Não se aplica:54.00:3.27:1.75:6.28:0.60
+1444:7902403:Queijo ralado:99:Não se aplica:431.00:38.46:28.61:4.06:-
+1445:7902501:Queijo provolone:99:Não se aplica:351.00:25.58:26.62:2.14:-
+1446:7902801:Queijo polenguinho:99:Não se aplica:349.00:7.55:34.87:2.66:-
+1447:7902901:Requeijão:99:Não se aplica:231.00:10.60:17.60:7.00:-
+1448:7902902:Queijo cremoso:99:Não se aplica:231.00:10.60:17.60:7.00:-
+1449:7903001:Queijo não especificado:99:Não se aplica:375.00:22.15:31.25:1.60:-
+1450:7903101:Leite com sabor:99:Não se aplica:83.32:3.18:3.40:10.38:0.80
+1451:7903102:Leite achocolatado:99:Não se aplica:83.32:3.18:3.40:10.38:0.80
+1452:7903109:Leite aRomãtizado:99:Não se aplica:83.32:3.18:3.40:10.38:0.80
+1453:7903110:Bebida achocolatada:99:Não se aplica:83.32:3.18:3.40:10.38:0.80
+1454:7903201:Nata:99:Não se aplica:195.00:2.70:19.31:3.66:-
+1455:7903301:Queijo gorgonzola:99:Não se aplica:353.00:21.40:28.74:2.34:-
+1456:7903402:Tofu:99:Não se aplica:61.00:6.55:3.69:1.80:0.20
+1457:7903501:Leite de soja em pó:99:Não se aplica:408.33:32.85:13.22:42.13:9.18
+1458:7903601:Leite de vaca desnatado:99:Não se aplica:34.15:3.39:0.08:4.98:-
+1459:7903702:Leite de vaca semidesnatado:99:Não se aplica:42.00:3.37:0.97:4.99:-
+1460:7903801:Leite não especificado pasteurizado:99:Não se aplica:60.03:3.22:3.25:4.52:-
+1461:7903901:Iogurte de qualquer sabor light:99:Não se aplica:102.00:4.37:1.08:19.05:0.30
+1462:7904001:Iogurte de qualquer sabor diet:99:Não se aplica:51.35:3.11:2.65:3.88:0.08
+1463:7904201:Margarina light:99:Não se aplica:253.69:0.08:28.52:0.27:-
+1464:7904301:Leite de vaca integral orgânico:99:Não se aplica:60.03:3.22:3.25:4.52:-
+1465:7904401:Leite de vaca fresco orgânico:99:Não se aplica:60.03:3.22:3.25:4.52:-
+1466:7904601:Leite semidesnatado de vaca orgânico:99:Não se aplica:42.00:3.37:0.97:4.99:-
+1467:7904701:Creme de leite orgânico:99:Não se aplica:292.00:2.17:30.91:2.96:-
+1468:7904801:Iogurte de qualquer sabor orgânico:99:Não se aplica:98.69:3.46:3.47:14.62:2.13
+1469:7904803:Iogurte de qualquer sabor desnatado orgânico:99:Não se aplica:95.00:4.40:0.20:19.00:-
+1470:7904804:Iogurte natural de qualquer sabor orgânico:99:Não se aplica:61.00:3.47:3.25:4.66:-
+1471:7905103:Muçarela light:99:Não se aplica:302.00:25.96:20.03:3.83:-
+1472:7905104:Queijo muçarela light:99:Não se aplica:302.00:25.96:20.03:3.83:-
+1473:7905201:Leite de soja com sabor light:99:Não se aplica:53.21:2.56:1.03:8.62:0.69
+1474:7905203:Ades light:99:Não se aplica:39.37:1.99:0.82:6.18:0.55
+1475:7905601:Creme de leite light:99:Não se aplica:59.00:2.60:1.40:9.00:-
+1476:7905901:Queijo prato light:99:Não se aplica:297.30:24.49:21.36:1.22:-
+1477:7906001:Queijo de minas light:99:Não se aplica:90.00:13.74:1.93:3.63:-
+1478:7906005:Queijo de coalho light:99:Não se aplica:297.30:24.49:21.36:1.22:-
+1479:7906201:Queijo ricota light:99:Não se aplica:92.69:14.56:0.29:7.08:-
+1480:7906303:Queijo ralado light:99:Não se aplica:265.00:20.00:20.00:1.37:-
+1481:7906401:Queijo polenguinho light:99:Não se aplica:231.00:10.60:17.60:7.00:-
+1482:7906501:Requeijão light:99:Não se aplica:231.00:10.60:17.60:7.00:-
+1483:7906601:Queijo não especificado light:99:Não se aplica:90.00:13.74:1.93:3.63:-
+1484:7906702:Leite achocolatado light:99:Não se aplica:63.00:3.24:1.00:10.44:0.50
+1485:7906710:Bebida achocolatada light:99:Não se aplica:63.00:3.24:1.00:10.44:0.50
+1486:7906801:Leite com sabor diet:99:Não se aplica:73.29:3.48:3.51:7.09:0.39
+1487:7906802:Leite achocolatado diet:99:Não se aplica:73.29:3.48:3.51:7.09:0.39
+1488:7906810:Bebida achocolatada diet:99:Não se aplica:73.29:3.48:3.51:7.09:0.39
+1489:7906901:Leite de soja em pó light:99:Não se aplica:379.58:32.94:2.80:59.92:2.40
+1490:7907001:Leite em pó com sabor:99:Não se aplica:405.00:3.30:3.10:90.90:4.80
+1491:7907101:Manteiga com ou sem sal light:99:Não se aplica:347.32:0.41:39.29:0.03:-
+1492:7907301:Queijo de minas frescal orgânico:99:Não se aplica:240.00:17.60:14.10:10.60:-
+1493:7907305:Queijo de coalho frescal orgânico:99:Não se aplica:373.00:24.48:30.28:0.68:-
+1494:8000103:Pão de hambúrguer:99:Não se aplica:279.00:9.50:4.33:49.45:2.10
+1495:8000105:Pão de sal:99:Não se aplica:300.00:8.00:3.10:58.60:2.30
+1496:8000201:Pão doce:99:Não se aplica:355.23:5.15:13.08:55.83:2.02
+1497:8000203:Chineque:99:Não se aplica:355.23:5.15:13.08:55.83:2.02
+1498:8000218:Chineque com farofa:99:Não se aplica:355.23:5.15:13.08:55.83:2.02
+1499:8000229:Pão de mel:99:Não se aplica:508.36:4.46:18.34:85.04:1.85
+1500:8000234:Panetone:99:Não se aplica:355.95:7.45:10.43:58.03:2.14
+1501:8000237:Bisnaguinha:99:Não se aplica:310.00:10.86:6.47:52.04:2.00
+1502:8000240:Croissant:99:Não se aplica:455.16:8.04:26.26:46.84:1.75
+1503:8000501:Pão de forma industrializado de qualquer marca:99:Não se aplica:266.00:7.64:3.29:50.61:2.40
+1504:8000801:Pão de queijo:99:Não se aplica:363.00:5.10:24.60:34.20:0.60
+1505:8001101:Pão de milho:99:Não se aplica:316.62:7.20:10.43:47.96:4.38
+1506:8001401:Pão integral:99:Não se aplica:247.00:12.95:3.35:41.29:6.71
+1507:8001501:Pão não especificado:99:Não se aplica:300.00:8.00:3.10:58.60:2.30
+1508:8001901:Torrada de qualquer pão:99:Não se aplica:377.00:10.50:3.30:74.60:3.40
+1509:8002001:Rosca doce:99:Não se aplica:422.97:4.54:20.61:55.53:1.07
+1510:8002002:Rosquinha doce:99:Não se aplica:443.00:8.10:12.00:75.20:2.10
+1511:8002101:Rosca salgada:99:Não se aplica:245.75:12.83:9.85:25.80:1.18
+1512:8002106:Rosquinha salgada:99:Não se aplica:432.00:10.10:14.40:68.70:2.50
+1513:8002201:Biscoito salgado:99:Não se aplica:432.00:10.10:14.40:68.70:2.50
+1514:8002205:Presuntinho biscoito:99:Não se aplica:508.99:8.88:25.40:60.74:2.55
+1515:8002212:Biscoito de polvilho:99:Não se aplica:436.72:4.46:29.08:38.37:-
+1516:8002225:Bolacha salgada:99:Não se aplica:432.00:10.10:14.40:68.70:2.50
+1517:8002227:Chips (salgadinhos):99:Não se aplica:558.86:5.08:35.25:55.41:2.76
+1518:8002230:Baconzitos:99:Não se aplica:508.99:8.88:25.40:60.74:2.55
+1519:8002236:Biscoito salgado integral:99:Não se aplica:412.43:11.49:16.07:60.85:10.23
+1520:8002301:Biscoito doce:99:Não se aplica:443.00:8.10:12.00:75.20:2.10
+1521:8002302:Cavaco chinês:99:Não se aplica:443.00:8.10:12.00:75.20:2.10
+1522:8002305:Sequilho:99:Não se aplica:443.00:8.10:12.00:75.20:2.10
+1523:8002306:Tareço:99:Não se aplica:443.00:8.10:12.00:75.20:2.10
+1524:8002309:Solda:99:Não se aplica:432.00:10.10:14.40:68.70:2.50
+1525:8002315:Brevidade:99:Não se aplica:371.22:3.18:14.61:57.71:1.06
+1526:8002334:Bolacha doce:99:Não se aplica:443.00:8.10:12.00:75.20:2.10
+1527:8002335:Maria maluca (bolacha doce):99:Não se aplica:443.00:8.10:12.00:75.20:2.10
+1528:8002405:Quebra-quebra:99:Não se aplica:443.00:8.10:12.00:75.20:2.10
+1529:8002502:Rocambole:99:Não se aplica:339.26:6.32:26.93:18.55:0.54
+1530:8002503:Cuca de qualquer tipo:99:Não se aplica:355.23:5.15:13.08:55.83:2.02
+1531:8002601:Bolo de milho:99:Não se aplica:311.00:4.80:12.40:45.10:0.70
+1532:8002604:Amidomil (bolinho):99:Não se aplica:311.00:4.80:12.40:45.10:0.70
+1533:8002605:Angusor de milho:99:Não se aplica:311.00:4.80:12.40:45.10:0.70
+1534:8002609:Grustoli (bolinho doce):99:Não se aplica:421.37:5.55:19.81:55.70:1.21
+1535:8002701:Bolo de aipim:99:Não se aplica:324.00:4.40:12.70:47.90:0.70
+1536:8002702:Bolo de tapioca:99:Não se aplica:324.00:4.40:12.70:47.90:0.70
+1537:8002703:Bolo de macaxeira:99:Não se aplica:324.00:4.40:12.70:47.90:0.70
+1538:8002704:Bolo de goma:99:Não se aplica:324.00:4.40:12.70:47.90:0.70
+1539:8002801:Bolo de batata-doce:99:Não se aplica:324.00:4.40:12.70:47.90:0.70
+1540:8002901:Bolo de arroz:99:Não se aplica:324.00:4.40:12.70:47.90:0.70
+1541:8003101:Bolo de cará:99:Não se aplica:324.00:4.40:12.70:47.90:0.70
+1542:8003501:Tortas doces de qualquer sabor:99:Não se aplica:119.67:2.28:5.38:15.56:0.48
+1543:8003601:Tortas salgadas de qualquer sabor:99:Não se aplica:249.55:3.87:9.86:38.40:1.49
+1544:8003701:Sonho:99:Não se aplica:378.79:6.02:18.25:48.08:1.31
+1545:8003702:Filhos (bolinho de farinha de trigo e ovos):99:Não se aplica:421.37:5.55:19.81:55.70:1.21
+1546:8003801:Bolo de chocolate:99:Não se aplica:312.80:8.71:6.00:58.30:1.76
+1547:8003902:Brioche:99:Não se aplica:366.84:9.04:14.22:49.58:1.80
+1548:8004001:Bolo de laranja:99:Não se aplica:360.83:4.80:13.15:58.32:2.36
+1549:8004101:Bolo de coco:99:Não se aplica:317.24:6.33:8.70:54.19:1.20
+1550:8004201:Bolo de cenoura:99:Não se aplica:344.86:4.17:17.26:44.27:1.61
+1551:8004601:Bolo de trigo:99:Não se aplica:286.60:6.91:4.24:55.27:0.65
+1552:8004701:Broa:99:Não se aplica:392.00:9.80:18.30:47.10:1.70
+1553:8004801:Biscoito recheado:99:Não se aplica:472.00:6.40:19.60:70.50:3.00
+1554:8004807:Waffer (biscoito):99:Não se aplica:430.32:6.25:12.49:74.79:2.25
+1555:8004809:Alfajores (biscoito):99:Não se aplica:505.21:6.47:22.55:70.85:2.43
+1556:8004810:Bolacha recheada:99:Não se aplica:472.00:6.40:19.60:70.50:3.00
+1557:8004813:Rosca recheada:99:Não se aplica:620.20:5.57:26.28:98.06:3.22
+1558:8004814:Rosquinha recheada de qualquer sabor:99:Não se aplica:472.00:6.40:19.60:70.50:3.00
+1559:8005201:Biscoito não especificado:99:Não se aplica:432.00:10.10:14.40:68.70:2.50
+1560:8006101:Crepe:99:Não se aplica:203.18:13.96:12.46:8.27:0.66
+1561:8006501:Pão diet (de forma industrializado):99:Não se aplica:198.00:9.10:2.30:43.60:12.00
+1562:8006601:Pão light (de forma industrializado):99:Não se aplica:198.00:9.10:2.30:43.60:12.00
+1563:8006701:Pão de queijo light:99:Não se aplica:363.00:5.10:24.60:34.20:0.60
+1564:8006801:Pão integral light:99:Não se aplica:198.00:9.10:2.30:43.60:12.00
+1565:8007001:Tortas doces de qualquer sabor light:99:Não se aplica:121.84:2.29:5.40:16.06:0.50
+1566:8007101:Tortas doces de qualquer sabor diet:99:Não se aplica:99.17:2.25:5.30:10.66:0.37
+1567:8007302:Filhos (bolinho de farinha de trigo e ovos) light:99:Não se aplica:426.53:6.44:22.95:48.69:1.40
+1568:8007402:Filhos (bolinho de farinha de trigo e ovos) diet:99:Não se aplica:426.53:6.44:22.95:48.69:1.40
+1569:8007501:Bolo de chocolate light:99:Não se aplica:299.49:4.59:9.36:52.45:2.00
+1570:8007601:Bolo de chocolate diet:99:Não se aplica:299.49:4.59:9.36:52.45:2.00
+1571:8007701:Bolo de laranja light:99:Não se aplica:328.38:4.76:9.48:58.31:2.36
+1572:8008001:Bolo de coco diet:99:Não se aplica:299.49:4.59:9.36:52.45:2.00
+1573:8008201:Bolo de cenoura diet:99:Não se aplica:272.74:4.09:9.10:44.26:1.61
+1574:8008301:Biscoito recheado light:99:Não se aplica:432.96:5.88:13.24:77.80:4.24
+1575:8008305:Biscoito waffer light:99:Não se aplica:398.63:4.51:6.92:80.66:1.31
+1576:8008307:Waffer (biscoito) light:99:Não se aplica:398.63:4.51:6.92:80.66:1.31
+1577:8008309:Alfajores (biscoito) light:99:Não se aplica:432.96:5.88:13.24:77.80:4.24
+1578:8008310:Bolacha recheada light:99:Não se aplica:432.96:5.88:13.24:77.80:4.24
+1579:8008401:Biscoito recheado diet:99:Não se aplica:405.28:8.17:20.83:66.82:3.67
+1580:8008408:Rosquinha recheada de qualquer sabor diet:99:Não se aplica:405.28:8.17:20.83:66.82:3.67
+1581:8008410:Bolacha recheada diet:99:Não se aplica:405.28:8.17:20.83:66.82:3.67
+1582:8010001:Pão doce diet:99:Não se aplica:312.25:4.83:6.92:57.97:1.64
+1583:8010029:Pão de mel diet:99:Não se aplica:446.23:4.38:11.31:85.04:1.85
+1584:8010034:Panetone diet:99:Não se aplica:355.95:7.45:10.43:58.03:2.14
+1585:8010101:Biscoito salgado light:99:Não se aplica:452.56:9.67:13.79:72.45:3.45
+1586:8010125:Bolacha salgada light:99:Não se aplica:452.56:9.67:13.79:72.45:3.45
+1587:8010127:Chips (salgadinhos) light:99:Não se aplica:407.05:6.53:7.05:81.13:5.64
+1588:8010401:Biscoito doce light:99:Não se aplica:395.25:6.45:4.84:83.88:3.70
+1589:8010434:Bolacha doce light:99:Não se aplica:395.25:6.45:4.84:83.88:3.70
+1590:8010501:Biscoito doce diet:99:Não se aplica:453.92:6.22:21.89:65.74:2.95
+1591:8010534:Bolacha doce diet:99:Não se aplica:453.92:6.22:21.89:65.74:2.95
+1592:8010601:Bolo de banana:99:Não se aplica:300.05:3.93:9.07:52.14:1.66
+1593:8100101:Carne-seca:2:Cozido(a):313.00:26.90:21.90:-:-
+1594:8100101:Carne-seca:3:Grelhado(a)/brasa/churrasco:313.00:26.90:21.90:-:-
+1595:8100101:Carne-seca:4:Assado(a):313.00:26.90:21.90:-:-
+1596:8100101:Carne-seca:5:Frito(a):347.00:25.29:26.56:-:-
+1597:8100101:Carne-seca:7:Refogado(a):347.00:25.29:26.56:-:-
+1598:8100101:Carne-seca:8:Molho vermelho:255.20:21.78:17.56:1.08:0.30
+1599:8100101:Carne-seca:13:Ensopado:347.00:25.29:26.56:-:-
+1600:8100102:Carne de charque:1:Cru(a):313.00:26.90:21.90:-:-
+1601:8100102:Carne de charque:2:Cozido(a):313.00:26.90:21.90:-:-
+1602:8100102:Carne de charque:3:Grelhado(a)/brasa/churrasco:313.00:26.90:21.90:-:-
+1603:8100102:Carne de charque:4:Assado(a):313.00:26.90:21.90:-:-
+1604:8100102:Carne de charque:5:Frito(a):347.00:25.29:26.56:-:-
+1605:8100102:Carne de charque:7:Refogado(a):347.00:25.29:26.56:-:-
+1606:8100102:Carne de charque:8:Molho vermelho:255.20:21.78:17.56:1.08:0.30
+1607:8100102:Carne de charque:13:Ensopado:347.00:25.29:26.56:-:-
+1608:8100103:Jabá:2:Cozido(a):313.00:26.90:21.90:-:-
+1609:8100103:Jabá:5:Frito(a):347.00:25.29:26.56:-:-
+1610:8100103:Jabá:7:Refogado(a):347.00:25.29:26.56:-:-
+1611:8100103:Jabá:99:Não se aplica:313.00:26.90:21.90:-:-
+1612:8100201:Carne de sol:1:Cru(a):313.00:26.90:21.90:-:-
+1613:8100201:Carne de sol:2:Cozido(a):313.00:26.90:21.90:-:-
+1614:8100201:Carne de sol:3:Grelhado(a)/brasa/churrasco:313.00:26.90:21.90:-:-
+1615:8100201:Carne de sol:4:Assado(a):313.00:26.90:21.90:-:-
+1616:8100201:Carne de sol:5:Frito(a):347.00:25.29:26.56:-:-
+1617:8100201:Carne de sol:13:Ensopado:347.00:25.29:26.56:-:-
+1618:8100202:Carne do sertão:2:Cozido(a):313.00:26.90:21.90:-:-
+1619:8100202:Carne do sertão:4:Assado(a):313.00:26.90:21.90:-:-
+1620:8100202:Carne do sertão:5:Frito(a):347.00:25.29:26.56:-:-
+1621:8100502:Hambúrguer de carne bovina:1:Cru(a):214.00:26.62:11.10:-:-
+1622:8100502:Hambúrguer de carne bovina:2:Cozido(a):214.00:26.62:11.10:-:-
+1623:8100502:Hambúrguer de carne bovina:3:Grelhado(a)/brasa/churrasco:214.00:26.62:11.10:-:-
+1624:8100502:Hambúrguer de carne bovina:4:Assado(a):214.00:26.62:11.10:-:-
+1625:8100502:Hambúrguer de carne bovina:5:Frito(a):236.66:26.62:13.66:-:-
+1626:8100502:Hambúrguer de carne bovina:8:Molho vermelho:176.00:21.56:8.92:1.08:0.30
+1627:8100502:Hambúrguer de carne bovina:99:Não se aplica:214.00:26.62:11.10:-:-
+1628:8100802:Copa de porco defumada:99:Não se aplica:248.66:20.53:17.76:0.42:-
+1629:8101005:Bacon:99:Não se aplica:541.00:37.04:41.78:1.43:-
+1630:8101101:Hambúrguer de frango:2:Cozido(a):206.14:16.19:9.71:12.64:0.61
+1631:8101101:Hambúrguer de frango:3:Grelhado(a)/brasa/churrasco:206.14:16.19:9.71:12.64:0.61
+1632:8101101:Hambúrguer de frango:4:Assado(a):206.14:16.19:9.71:12.64:0.61
+1633:8101101:Hambúrguer de frango:5:Frito(a):266.67:16.19:16.55:12.64:0.61
+1634:8101101:Hambúrguer de frango:6:Empanado(a)/à milanesa:266.67:16.19:16.55:12.64:0.61
+1635:8101101:Hambúrguer de frango:99:Não se aplica:206.14:16.19:9.71:12.64:0.61
+1636:8102101:Salsicha no varejo:1:Cru(a):321.05:9.72:29.51:3.61:-
+1637:8102101:Salsicha no varejo:2:Cozido(a):321.05:9.72:29.51:3.61:-
+1638:8102101:Salsicha no varejo:3:Grelhado(a)/brasa/churrasco:321.05:9.72:29.51:3.61:-
+1639:8102101:Salsicha no varejo:4:Assado(a):321.05:9.72:29.51:3.61:-
+1640:8102101:Salsicha no varejo:5:Frito(a):321.05:9.72:29.51:3.61:-
+1641:8102101:Salsicha no varejo:7:Refogado(a):321.05:9.72:29.51:3.61:-
+1642:8102101:Salsicha no varejo:8:Molho vermelho:289.43:8.56:26.10:4.74:0.04
+1643:8102101:Salsicha no varejo:9:Molho branco:321.60:11.30:29.04:3.24:0.30
+1644:8102101:Salsicha no varejo:10:Ao alho e óleo:321.05:9.72:29.51:3.61:-
+1645:8102101:Salsicha no varejo:11:Com manteiga/óleo:321.05:9.72:29.51:3.61:-
+1646:8102101:Salsicha no varejo:13:Ensopado:321.05:9.72:29.51:3.61:-
+1647:8102101:Salsicha no varejo:99:Não se aplica:321.05:9.72:29.51:3.61:-
+1648:8102204:Linguiça (suína, bovina, mista, etc.):1:Cru(a):396.00:13.80:36.25:2.70:-
+1649:8102204:Linguiça (suína, bovina, mista, etc.):2:Cozido(a):396.00:13.80:36.25:2.70:-
+1650:8102204:Linguiça (suína, bovina, mista, etc.):3:Grelhado(a)/brasa/churrasco:396.00:13.80:36.25:2.70:-
+1651:8102204:Linguiça (suína, bovina, mista, etc.):4:Assado(a):396.00:13.80:36.25:2.70:-
+1652:8102204:Linguiça (suína, bovina, mista, etc.):5:Frito(a):396.00:13.80:36.25:2.70:-
+1653:8102204:Linguiça (suína, bovina, mista, etc.):6:Empanado(a)/à milanesa:396.00:13.80:36.25:2.70:-
+1654:8102204:Linguiça (suína, bovina, mista, etc.):7:Refogado(a):396.00:13.80:36.25:2.70:-
+1655:8102204:Linguiça (suína, bovina, mista, etc.):8:Molho vermelho:321.60:11.30:29.04:3.24:0.30
+1656:8102204:Linguiça (suína, bovina, mista, etc.):11:Com manteiga/óleo:396.00:13.80:36.25:2.70:-
+1657:8102204:Linguiça (suína, bovina, mista, etc.):13:Ensopado:396.00:13.80:36.25:2.70:-
+1658:8102204:Linguiça (suína, bovina, mista, etc.):99:Não se aplica:396.00:13.80:36.25:2.70:-
+1659:8102207:Linguiça de frango:1:Cru(a):244.00:18.20:18.40:-:-
+1660:8102207:Linguiça de frango:2:Cozido(a):244.00:18.20:18.40:-:-
+1661:8102207:Linguiça de frango:3:Grelhado(a)/brasa/churrasco:244.00:18.20:18.40:-:-
+1662:8102207:Linguiça de frango:4:Assado(a):244.00:18.20:18.40:-:-
+1663:8102207:Linguiça de frango:5:Frito(a):245.00:18.30:18.50:-:-
+1664:8102401:Chouriço:99:Não se aplica:379.00:14.60:34.50:1.29:-
+1665:8102402:Morcela:99:Não se aplica:379.00:14.60:34.50:1.29:-
+1666:8102403:Morcilha:1:Cru(a):379.00:14.60:34.50:1.29:-
+1667:8102403:Morcilha:2:Cozido(a):379.00:14.60:34.50:1.29:-
+1668:8102501:Paio:2:Cozido(a):339.00:19.43:28.36:-:-
+1669:8102601:Mortadela:99:Não se aplica:307.00:11.10:27.70:3.20:-
+1670:8102701:Salame:99:Não se aplica:336.00:21.85:25.90:2.40:-
+1671:8102702:Salaminho:99:Não se aplica:336.00:21.85:25.90:2.40:-
+1672:8102801:Blanquet de peru:99:Não se aplica:126.00:17.50:4.84:2.04:0.20
+1673:8102901:Presunto :99:Não se aplica:226.00:20.53:15.20:0.42:-
+1674:8103001:Hambúrguer de peru:2:Cozido(a):195.96:16.62:8.35:12.64:0.61
+1675:8103001:Hambúrguer de peru:4:Assado(a):195.96:16.62:8.35:12.64:0.61
+1676:8103001:Hambúrguer de peru:6:Empanado(a)/à milanesa:256.49:16.62:15.20:12.64:0.61
+1677:8103101:Hambúrguer não especificado:2:Cozido(a):214.00:26.62:11.10:-:-
+1678:8103101:Hambúrguer não especificado:3:Grelhado(a)/brasa/churrasco:214.00:26.62:11.10:-:-
+1679:8103101:Hambúrguer não especificado:4:Assado(a):214.00:26.62:11.10:-:-
+1680:8103101:Hambúrguer não especificado:5:Frito(a):236.66:26.62:13.66:-:-
+1681:8103101:Hambúrguer não especificado:99:Não se aplica:214.00:26.62:11.10:-:-
+1682:8103601:Apresuntado:99:Não se aplica:178.00:22.62:9.02:-:-
+1683:8103901:Pururuca de porco:99:Não se aplica:544.00:61.30:31.30:-:-
+1684:8103902:Pele de porco preparada (pururuca):99:Não se aplica:544.00:61.30:31.30:-:-
+1685:8104001:Patê (fígado, calabresa, frango, presunto, etc.):99:Não se aplica:326.00:14.10:28.50:2.20:-
+1686:8104101:Carne de aves defumada:99:Não se aplica:195.66:30.91:7.07:-:-
+1687:8104601:Carne salgada não especificada:2:Cozido(a):313.00:26.90:21.90:-:-
+1688:8104601:Carne salgada não especificada:3:Grelhado(a)/brasa/churrasco:313.00:26.90:21.90:-:-
+1689:8104601:Carne salgada não especificada:4:Assado(a):313.00:26.90:21.90:-:-
+1690:8104601:Carne salgada não especificada:5:Frito(a):347.00:25.29:26.56:-:-
+1691:8104601:Carne salgada não especificada:7:Refogado(a):347.00:25.29:26.56:-:-
+1692:8104601:Carne salgada não especificada:8:Molho vermelho:255.20:21.78:17.56:1.08:0.30
+1693:8104601:Carne salgada não especificada:99:Não se aplica:313.00:26.90:21.90:-:-
+1694:8104904:Mini chicken empanado:2:Cozido(a):273.02:16.24:15.63:15.91:0.64
+1695:8104904:Mini chicken empanado:3:Grelhado(a)/brasa/churrasco:273.02:16.24:15.63:15.91:0.64
+1696:8104904:Mini chicken empanado:4:Assado(a):273.02:16.24:15.63:15.91:0.64
+1697:8104904:Mini chicken empanado:5:Frito(a):273.02:16.24:15.63:15.91:0.64
+1698:8104904:Mini chicken empanado:6:Empanado(a)/à milanesa:273.02:16.24:15.63:15.91:0.64
+1699:8105001:Mortadela light:99:Não se aplica:211.00:13.06:16.06:3.45:-
+1700:8105201:Salsicha no varejo light:5:Frito(a):154.00:11.00:10.00:4.40:-
+1701:8105401:Salame light:99:Não se aplica:145.18:14.70:8.94:0.50:-
+1702:8105501:Blanquet de peru light:99:Não se aplica:124.12:14.99:3.57:7.11:-
+1703:8105701:Hambúrguer não especificado light:99:Não se aplica:190.00:27.03:8.26:-:-
+1704:8200101:Refrigerante de cola tradicional:99:Não se aplica:36.87:0.07:0.02:9.53:-
+1705:8200102:Coca-cola tradicional:99:Não se aplica:36.87:0.07:0.02:9.53:-
+1706:8200202:Fanta laranja tradicional:99:Não se aplica:48.00:-:-:12.30:-
+1707:8200208:Sukita tradicional:99:Não se aplica:48.00:-:-:12.30:-
+1708:8200301:Refrigerante de guaraná tradicional:99:Não se aplica:39.00:-:-:10.00:-
+1709:8200302:Guaraná tradicional:99:Não se aplica:39.00:-:-:10.00:-
+1710:8200407:Sprit refrigerante tradicional:99:Não se aplica:40.00:0.05:0.02:10.14:-
+1711:8200505:Fanta uva tradicional:99:Não se aplica:48.00:-:-:12.30:-
+1712:8200701:Refrigerante de cola light:99:Não se aplica:2.00:0.11:0.03:0.29:-
+1713:8200702:Coca-cola light:99:Não se aplica:2.00:0.11:0.03:0.29:-
+1714:8200801:Refrigerante de cola diet:99:Não se aplica:2.00:0.11:0.03:0.29:-
+1715:8200902:Minuano tradicional:99:Não se aplica:40.00:0.05:0.02:10.14:-
+1716:8201104:Mate tradicional:99:Não se aplica:2.80:0.25:-:2.31:1.86
+1717:8201202:Bidu tradicional:99:Não se aplica:39.00:-:-:10.00:-
+1718:8201502:Fanta laranja light:99:Não se aplica:-:0.10:-:-:-
+1719:8201601:Refrigerante de guaraná light:99:Não se aplica:-:-:-:-:-
+1720:8201602:Guaraná light:99:Não se aplica:-:-:-:-:-
+1721:8201802:Tubaína tradicional:99:Não se aplica:39.00:-:-:10.00:-
+1722:8201902:Tubaína light:99:Não se aplica:2.00:0.11:0.03:0.29:-
+1723:8202001:Caldo de cana:99:Não se aplica:73.58:-:0.05:19.97:-
+1724:8202002:Garapá:99:Não se aplica:73.58:-:0.05:19.97:-
+1725:8202101:Água de coco:99:Não se aplica:19.28:0.73:0.20:3.76:1.12
+1726:8202402:Q-suco:99:Não se aplica:15.28:-:0.00:3.91:-
+1727:8202403:Q-refresko:99:Não se aplica:15.28:-:0.00:3.91:-
+1728:8202602:Nescafé:99:Não se aplica:241.00:12.20:0.50:75.40:-
+1729:8202803:Erva-mate:99:Não se aplica:2.80:0.25:-:2.31:1.86
+1730:8202804:Chimarrão:99:Não se aplica:2.80:0.25:-:2.31:1.86
+1731:8202805:Tereré:99:Não se aplica:2.80:0.25:-:2.31:1.86
+1732:8203401:Levedo de cerveja:99:Não se aplica:170.00:16.20:1.30:28.10:11.50
+1733:8203501:Refrigerante não especificado:99:Não se aplica:36.87:0.07:0.02:9.53:-
+1734:8203603:Cevada em pó:99:Não se aplica:352.00:9.91:1.16:77.72:15.60
+1735:8204503:Chocomilk :99:Não se aplica:83.32:3.18:3.40:10.38:0.80
+1736:8204902:Água tônica tradicional:99:Não se aplica:40.02:0.05:0.02:10.14:-
+1737:8205201:Chá diet (preto, camomila, erva-cidreira, capim-limão, etc.) :99:Não se aplica:2.52:0.01:-:0.67:-
+1738:8205402:Paraguai refrigerante tradicional:99:Não se aplica:39.00:-:-:10.00:-
+1739:8205803:Gatorade:99:Não se aplica:27.01:-:0.10:6.76:-
+1740:8205901:Bebida energética:99:Não se aplica:45.35:0.25:0.08:11.03:-
+1741:8206301:Chá (preto, camomila, erva-cidreira, capim-limão, etc.):99:Não se aplica:1.00:-:-:0.30:-
+1742:8206402:Café solúvel capuccino :99:Não se aplica:27.71:0.26:0.84:5.17:0.13
+1743:8207401:Refrigerante de guaraná diet:99:Não se aplica:-:-:-:-:-
+1744:8207402:Guaraná diet:99:Não se aplica:-:-:-:-:-
+1745:8207601:Refrigerante de limão diet:99:Não se aplica:-:0.10:-:-:-
+1746:8207705:Fanta uva light:99:Não se aplica:-:0.10:-:-:-
+1747:8208104:Mate light:99:Não se aplica:2.80:0.25:-:2.31:1.86
+1748:8209002:Água tônica light:99:Não se aplica:40.02:0.05:0.02:10.14:-
+1749:8209102:Paraguai refrigerante light:99:Não se aplica:2.00:0.11:0.03:0.29:-
+1750:8211002:Q-suco light:99:Não se aplica:15.28:-:0.00:3.91:-
+1751:8211003:Q-refresko light:99:Não se aplica:15.28:-:0.00:3.91:-
+1752:8211102:Q-suco diet:99:Não se aplica:15.28:-:0.00:3.91:-
+1753:8212401:Café capuccino solúvel light:99:Não se aplica:12.77:0.14:1.01:0.91:0.05
+1754:8212501:Café capuccino solúvel diet:99:Não se aplica:12.77:0.14:1.01:0.91:0.05
+1755:8212902:Água tônica diet:99:Não se aplica:40.02:0.05:0.02:10.14:-
+1756:8212906:Refrigerante de quinino dietético:99:Não se aplica:40.02:0.05:0.02:10.14:-
+1757:8213003:Chá mate orgânico:99:Não se aplica:2.80:0.25:-:2.31:1.86
+1758:8213004:Chimarrão orgânico:99:Não se aplica:2.80:0.25:-:2.31:1.86
+1759:8213601:Suco de clorofila:99:Não se aplica:1.87:0.24:0.02:0.31:0.20
+1760:8273902:Café com farinha:99:Não se aplica:181.00:0.86:0.16:44.19:3.44
+1761:8300101:Cerveja (com ou sem álcool):99:Não se aplica:43.19:0.46:-:3.57:-
+1762:8300201:Chopp:99:Não se aplica:43.19:0.46:-:3.57:-
+1763:8300301:Aguardente:99:Não se aplica:216.00:-:-:-:-
+1764:8300302:Cachaça:99:Não se aplica:216.00:-:-:-:-
+1765:8300501:Batida de qualquer sabor:99:Não se aplica:187.38:0.54:3.69:22.14:0.32
+1766:8300701:Rum:99:Não se aplica:230.18:-:-:-:-
+1767:8300801:Vodka:99:Não se aplica:217.15:-:-:-:-
+1768:8301001:Uísque:99:Não se aplica:230.18:-:-:-:-
+1769:8301002:Whisky:99:Não se aplica:230.18:-:-:-:-
+1770:8301201:Champanhe:99:Não se aplica:82.00:0.07:-:2.60:-
+1771:8301202:Sidra champanhe:99:Não se aplica:82.00:0.07:-:2.60:-
+1772:8301501:Martini:99:Não se aplica:194.44:0.01:-:0.53:-
+1773:8301601:Conhaque:99:Não se aplica:231.00:-:-:-:-
+1774:8301701:Drink dreher:99:Não se aplica:216.00:-:-:-:-
+1775:8301901:Licor de qualquer sabor:99:Não se aplica:282.65:-:-:33.64:-
+1776:8302409:Cajuína:99:Não se aplica:45.00:0.80:-:11.50:1.50
+1777:8302415:Vinho:99:Não se aplica:84.50:0.07:-:2.60:-
+1778:8302416:Catuaba:99:Não se aplica:216.00:-:-:-:-
+1779:8302901:Coquetel de frutas:99:Não se aplica:187.38:0.54:3.69:22.14:0.32
+1780:8303101:Caipirinha:99:Não se aplica:143.90:0.10:0.10:37.90:0.10
+1781:8303501:Bebida alcoólica :99:Não se aplica:216.00:-:-:-:-
+1782:8303615:Vinho orgânico:99:Não se aplica:84.50:0.07:-:2.60:-
+1783:8304301:Cerveja (com ou sem álcool) light:99:Não se aplica:29.00:0.24:-:1.64:-
+1784:8304502:Caxiri (aguardente de mandioca):99:Não se aplica:216.00:-:-:-:-
+1785:8400101:Azeite de oliva:99:Não se aplica:887.81:-:100.43:-:-
+1786:8400301:Óleo de soja:99:Não se aplica:879.73:-:99.52:-:-
+1787:8401801:Banha suína:99:Não se aplica:902.00:-:100.00:-:-
+1788:8403001:Banha bovina:99:Não se aplica:680.00:10.65:70.33:-:-
+1789:8403201:Óleo não especificado:99:Não se aplica:879.73:-:99.52:-:-
+1790:8403501:Óleo de dendê:99:Não se aplica:857.84:-:99.52:-:-
+1791:8500201:Salgadinho:99:Não se aplica:274.60:13.41:16.88:16.54:0.88
+1792:8500202:Pastel (queijo, carne, palmito, etc.):99:Não se aplica:319.81:10.38:15.68:33.51:1.45
+1793:8500203:Croquete :99:Não se aplica:274.60:13.41:16.88:16.54:0.88
+1794:8500205:Coxinha :99:Não se aplica:274.60:13.41:16.88:16.54:0.88
+1795:8500206:Empada (queijo, carne, camarão, etc.):99:Não se aplica:153.96:7.89:7.91:12.47:1.03
+1796:8500207:Rissole  (queijo, carne, camarão, etc.):99:Não se aplica:274.60:13.41:16.88:16.54:0.88
+1797:8500209:Acarajé:99:Não se aplica:289.00:8.30:19.90:19.10:9.40
+1798:8500210:Torresmo :99:Não se aplica:544.00:61.30:31.30:-:-
+1799:8500211:Quibe :99:Não se aplica:274.60:13.41:16.88:16.54:0.88
+1800:8500212:Abará (Bahia):99:Não se aplica:289.00:8.30:19.90:19.10:9.40
+1801:8500213:Paçoca de carne de sol:99:Não se aplica:354.00:13.44:13.43:43.95:3.20
+1802:8500215:Angu frito:99:Não se aplica:74.60:1.45:1.78:13.00:0.26
+1803:8500217:Angu de milho :99:Não se aplica:60.58:1.44:0.20:13.00:0.26
+1804:8500218:Polenta :99:Não se aplica:74.60:1.45:1.78:13.00:0.26
+1805:8500222:Esfirra :99:Não se aplica:359.42:9.76:18.88:37.51:1.46
+1806:8500223:Esfirra de carne :99:Não se aplica:346.45:11.90:21.38:26.20:1.08
+1807:8500224:Esfirra de queijo :99:Não se aplica:359.42:9.76:18.88:37.51:1.46
+1808:8500225:Esfirra de ricota :99:Não se aplica:320.39:7.54:15.25:38.09:1.46
+1809:8500226:Esfirra de frango :99:Não se aplica:222.39:9.47:12.71:17.32:0.78
+1810:8500227:Enroladinho :99:Não se aplica:274.60:13.41:16.88:16.54:0.88
+1811:8500228:Bolinho de aipim:99:Não se aplica:212.64:6.28:13.11:18.51:2.72
+1812:8500232:Bolinho de bacalhau:99:Não se aplica:214.01:16.70:12.75:7.69:0.83
+1813:8500302:Cachorro-quente :99:Não se aplica:272.47:8.73:15.22:24.80:1.09
+1814:8500303:Hambúrguer (sanduíche):99:Não se aplica:267.16:13.08:9.22:32.36:1.68
+1815:8500304:Cheeseburger :99:Não se aplica:279.85:14.15:11.81:28.74:1.49
+1816:8500305:Eggsburger :99:Não se aplica:269.44:13.28:16.10:17.42:0.64
+1817:8500307:Bauru :99:Não se aplica:229.47:13.67:13.00:13.97:0.78
+1818:8500308:Americano:99:Não se aplica:236.68:10.05:14.22:16.85:1.00
+1819:8500313:Misto-quente ou frio :99:Não se aplica:265.42:16.29:13.78:18.30:0.85
+1820:8500315:Sanduíche de queijo prato:99:Não se aplica:329.29:12.22:17.24:31.09:1.45
+1821:8500316:Sanduíche de salame:99:Não se aplica:282.99:8.97:13.74:30.27:1.40
+1822:8500317:Sanduíche de presunto:99:Não se aplica:230.33:10.97:12.15:18.73:1.11
+1823:8500318:Sanduíche de queijo prato com presunto:99:Não se aplica:265.42:16.29:13.78:18.30:0.85
+1824:8500319:Sanduíche de mortadela:99:Não se aplica:315.97:8.60:16.56:32.81:1.45
+1825:8500320:Sanduíche de queijo minas:99:Não se aplica:329.29:12.22:17.24:31.09:1.45
+1826:8500321:Cheese egg:99:Não se aplica:279.85:14.15:11.81:28.74:1.49
+1827:8500322:Cheese tudo:99:Não se aplica:279.85:14.15:11.81:28.74:1.49
+1828:8500323:Sanduíche natural:99:Não se aplica:245.58:11.21:10.84:25.58:1.47
+1829:8500401:Suco :99:Não se aplica:41.83:0.59:0.14:9.81:0.31
+1830:8500402:Suco de abacaxi :99:Não se aplica:53.21:0.36:0.12:12.92:0.20
+1831:8500403:Suco de acerola :99:Não se aplica:23.06:0.40:0.30:4.81:0.30
+1832:8500404:Suco de beterraba :99:Não se aplica:30.77:0.81:0.12:7.11:0.76
+1833:8500405:Suco de cupuaçu :99:Não se aplica:24.50:0.60:0.50:5.20:1.55
+1834:8500406:Suco de goiaba :99:Não se aplica:62.28:0.37:0.14:15.62:0.79
+1835:8500407:Suco de laranja :99:Não se aplica:41.83:0.59:0.14:9.81:0.31
+1836:8500408:Suco de laranja com banana :99:Não se aplica:56.80:0.76:0.20:13.84:0.93
+1837:8500409:Suco de laranja e beterraba :99:Não se aplica:30.77:0.81:0.12:7.11:0.76
+1838:8500410:Suco de laranja e cenoura :99:Não se aplica:30.77:0.81:0.12:7.11:0.76
+1839:8500411:Suco de laranja cenoura e beterraba:99:Não se aplica:30.77:0.81:0.12:7.11:0.76
+1840:8500412:Suco de mamão :99:Não se aplica:57.13:0.17:0.15:14.54:0.60
+1841:8500413:Suco de manga :99:Não se aplica:50.86:0.11:0.06:13.08:0.30
+1842:8500414:Suco de maracujá :99:Não se aplica:60.14:0.67:0.18:14.48:0.20
+1843:8500415:Suco de melão :99:Não se aplica:31.79:0.65:0.16:8.00:0.42
+1844:8500416:Suco de morango :99:Não se aplica:59.21:0.57:0.10:14.51:0.23
+1845:8500417:Suco de pêssego :99:Não se aplica:53.99:0.27:0.02:13.92:0.60
+1846:8500418:Suco de pêssego em calda :99:Não se aplica:53.99:0.27:0.02:13.92:0.60
+1847:8500501:Vitamina :99:Não se aplica:92.78:2.47:2.31:16.39:0.62
+1848:8500503:Vitamina de banana :99:Não se aplica:92.78:2.47:2.31:16.39:0.62
+1849:8500504:Vitamina de banana com aveia :99:Não se aplica:108.46:3.06:2.54:19.20:1.15
+1850:8500505:Vitamina de mamão :99:Não se aplica:80.59:2.42:2.34:12.95:0.38
+1851:8500506:Vitamina de abacate :99:Não se aplica:100.19:2.74:4.64:12.80:1.34
+1852:8500507:Vitamina de morango :99:Não se aplica:74.61:1.96:1.83:13.27:0.80
+1853:8500508:Vitamina mista:99:Não se aplica:83.16:1.81:1.65:16.20:0.77
+1854:8500509:Vitamina de maçã:99:Não se aplica:82.99:2.28:2.26:13.98:0.31
+1855:8500601:Refresco :99:Não se aplica:46.81:-:-:11.92:0.20
+1856:8500602:Refresco de caju :99:Não se aplica:46.81:-:-:11.92:0.20
+1857:8500603:Refresco de groselha :99:Não se aplica:46.81:-:-:11.92:0.20
+1858:8500604:Refresco de laranja :99:Não se aplica:46.81:-:-:11.92:0.20
+1859:8500605:Refresco de maracujá :99:Não se aplica:46.81:-:-:11.92:0.20
+1860:8500606:Refresco de limão:99:Não se aplica:46.81:-:-:11.92:0.20
+1861:8500801:Salada ou verdura cozida, exceto de fruta:99:Não se aplica:26.00:2.11:0.36:4.91:2.80
+1862:8500802:Salada de maionese :99:Não se aplica:209.79:2.71:16.83:12.65:1.38
+1863:8500903:Pizza :99:Não se aplica:281.20:14.60:11.35:29.82:1.74
+1864:8500904:Lasanha pronta light :99:Não se aplica:158.63:10.78:7.31:12.34:1.11
+1865:8500905:Nhoque :99:Não se aplica:190.54:9.31:13.18:8.49:0.26
+1866:8500906:Caneloni:99:Não se aplica:120.86:5.94:6.80:9.22:1.01
+1867:8500907:Capeleti :99:Não se aplica:95.24:5.53:2.59:12.60:1.20
+1868:8500909:Ravioli :99:Não se aplica:95.24:5.53:2.59:12.60:1.20
+1869:8500910:Calzone :99:Não se aplica:245.75:12.83:9.85:25.80:1.18
+1870:8500913:Panqueca:99:Não se aplica:203.18:13.96:12.46:8.27:0.66
+1871:8500914:Pizza calabreza:99:Não se aplica:284.72:13.74:12.21:29.51:1.75
+1872:8500915:Pizza muçarela:99:Não se aplica:281.20:14.60:11.35:29.82:1.74
+1873:8500916:Pizza presunto:99:Não se aplica:284.72:13.74:12.21:29.51:1.75
+1874:8500917:Pizza portuguesa:99:Não se aplica:247.49:11.75:12.23:22.40:1.56
+1875:8500919:Macarronada:99:Não se aplica:120.59:6.22:2.79:17.42:1.25
+1876:8501004:Galeto :99:Não se aplica:261.66:27.30:16.16:-:-
+1877:8501104:Costela:99:Não se aplica:365.00:22.60:29.79:-:-
+1878:8501202:Pipoca doce ou salgada :99:Não se aplica:468.15:6.59:23.28:62.51:6.02
+1879:8501302:Café :99:Não se aplica:1.00:0.12:0.02:0.47:0.47
+1880:8501303:Café com leite :99:Não se aplica:31.44:1.72:1.69:2.57:0.24
+1881:8501304:Café tipo expresso:99:Não se aplica:2.45:0.12:0.01:0.77:0.21
+1882:8501305:Café tipo capuccino:99:Não se aplica:27.71:0.26:0.84:5.17:0.13
+1883:8501402:Milho cozido :99:Não se aplica:160.14:3.32:7.18:25.11:4.25
+1884:8501502:Batata palito:99:Não se aplica:263.50:2.87:13.64:33.60:3.44
+1885:8501503:Batata palha:99:Não se aplica:545.70:5.24:35.24:54.52:4.53
+1886:8501902:Mungunzá :99:Não se aplica:146.00:4.00:3.90:24.40:2.40
+1887:8501903:Canjica :99:Não se aplica:146.00:4.00:3.90:24.40:2.40
+1888:8501904:Curau:99:Não se aplica:78.24:2.42:3.06:10.46:0.17
+1889:8502201:Farofa :99:Não se aplica:406.00:2.10:9.10:80.30:7.80
+1890:8502301:Mingau (fubá,  aveia, farinha, etc.) :99:Não se aplica:78.24:2.42:3.06:10.46:0.17
+1891:8502401:Tacacá :99:Não se aplica:16.00:2.00:0.60:0.40:-
+1892:8502501:Bolinho de coco :99:Não se aplica:297.32:6.71:5.80:54.89:0.85
+1893:8502701:Risoto:99:Não se aplica:113.02:6.66:1.99:17.16:1.10
+1894:8502801:Vatapá :99:Não se aplica:226.07:13.77:15.61:9.28:1.32
+1895:8502901:Farofa pronta :99:Não se aplica:406.00:2.10:9.10:80.30:7.80
+1896:8503202:Caldo de carne :99:Não se aplica:7.02:1.36:-:0.45:-
+1897:8503203:Caldo-de-feijão :99:Não se aplica:75.50:4.78:1.77:10.33:2.20
+1898:8503204:Caldo de mocotó :99:Não se aplica:7.02:1.36:-:0.45:-
+1899:8503501:Baião de dois:99:Não se aplica:136.00:6.20:3.20:20.40:5.10
+1900:8503801:Churrasco:99:Não se aplica:204.00:30.67:9.00:-:-
+1901:8504201:Sushi:99:Não se aplica:146.78:5.56:0.45:29.19:0.91
+1902:8504401:Salada de frutas :99:Não se aplica:51.24:0.62:0.14:13.31:1.68
+1903:8504501:Sopa (legumes, carne, etc.):99:Não se aplica:28.78:1.63:0.78:3.81:0.64
+1904:8504801:Salpicão :99:Não se aplica:202.85:14.26:14.41:3.93:0.55
+1905:8505201:Charuto de repolho:99:Não se aplica:84.91:9.63:1.30:8.75:1.20
+1906:8505401:Arroz à grega :99:Não se aplica:92.01:2.17:1.69:17.47:1.00
+1907:8505501:Arrumadinho:99:Não se aplica:198.86:9.33:8.47:21.73:3.47
+1908:8505601:Bobó de camarão :99:Não se aplica:72.10:2.63:4.42:5.48:0.15
+1909:8505701:Caruru (quiabo, amendoim, castanha de caju, camarão seco, etc.):99:Não se aplica:215.87:6.07:20.07:4.07:1.41
+1910:8505801:Cuscuz paulista :99:Não se aplica:142.00:2.60:4.60:22.50:2.40
+1911:8505901:Empadão (queijo, frango, camarão, palmito, etc.):99:Não se aplica:153.96:7.89:7.91:12.47:1.03
+1912:8506001:Farofa de banana:99:Não se aplica:309.55:1.66:11.17:52.89:5.35
+1913:8506101:Feijão-tropeiro :99:Não se aplica:198.86:9.33:8.47:21.73:3.47
+1914:8506201:Galinha com arroz :99:Não se aplica:143.50:4.47:3.07:23.93:0.65
+1915:8506301:Galinhada :99:Não se aplica:143.50:4.47:3.07:23.93:0.65
+1916:8506401:Moqueca baiana :99:Não se aplica:130.13:13.62:7.54:1.66:0.17
+1917:8506501:Omelete :99:Não se aplica:241.62:11.04:21.26:0.98:-
+1918:8506601:Pirão :99:Não se aplica:119.65:8.05:5.76:8.90:0.75
+1919:8506701:Quibebe :99:Não se aplica:36.39:0.72:1.92:4.90:1.10
+1920:8506801:Quiche:99:Não se aplica:282.73:10.34:20.44:13.85:0.56
+1921:8506901:Suflê :99:Não se aplica:126.10:5.11:9.17:6.40:1.10
+1922:8507001:Tutu :99:Não se aplica:123.76:5.41:1.64:22.34:4.04
+1923:8507101:Moqueca capixaba :99:Não se aplica:100.52:14.34:3.66:1.75:0.18
+1924:8507201:Maniçoba :99:Não se aplica:181.85:15.09:12.16:2.92:1.31
+1925:8507301:Caldo verde :99:Não se aplica:94.92:3.53:2.90:14.19:2.14
+1926:8507401:Arroz de cuxá:99:Não se aplica:102.74:2.38:0.95:20.92:1.92
+1927:8507501:Angu à baiana:99:Não se aplica:125.34:9.01:5.75:8.87:0.31
+1928:8507601:Chocolate:99:Não se aplica:535.00:7.65:29.66:59.40:3.40
+1929:8507701:Gemada :99:Não se aplica:134.79:3.80:7.47:13.52:-
+1930:8507801:Açaí com granola:99:Não se aplica:110.00:0.70:3.70:21.50:1.70
+1931:8507901:Suco orgânico :99:Não se aplica:41.83:0.59:0.14:9.81:0.31
+1932:8507902:Suco de abacaxi orgânico :99:Não se aplica:53.21:0.36:0.12:12.92:0.20
+1933:8507903:Suco de acerola orgânico :99:Não se aplica:23.06:0.40:0.30:4.81:0.30
+1934:8507906:Suco de goiaba orgânico :99:Não se aplica:62.28:0.37:0.14:15.62:0.79
+1935:8507907:Suco de laranja orgânico :99:Não se aplica:41.83:0.59:0.14:9.81:0.31
+1936:8507911:Suco de laranja cenoura e beterraba orgânico :99:Não se aplica:30.77:0.81:0.12:7.11:0.76
+1937:8507913:Suco de manga orgânico :99:Não se aplica:50.86:0.11:0.06:13.08:0.30
+1938:8507914:Suco de maracujá orgânico :99:Não se aplica:60.14:0.67:0.18:14.48:0.20
+1939:8507916:Suco de morango orgânico :99:Não se aplica:59.21:0.57:0.10:14.51:0.23
+1940:8507917:Suco de pêssego orgânico :99:Não se aplica:53.99:0.27:0.02:13.92:0.60
+1941:8507918:Suco de pêssego em calda orgânico :99:Não se aplica:53.99:0.27:0.02:13.92:0.60
+1942:8508003:Pizza pronta light :99:Não se aplica:255.57:14.60:8.45:29.82:1.74
+1943:8508004:Lasanha pronta light :99:Não se aplica:144.33:10.93:5.67:12.34:1.11
+1944:8508012:Macarrão pronto light :2:Cozido(a):189.86:5.65:7.18:25.54:1.16
+1945:8508017:Pizza portuguesa light:99:Não se aplica:229.62:11.75:10.21:22.40:1.56
+1946:8508101:Farofa pronta light em pacote:99:Não se aplica:406.00:2.10:9.10:80.30:7.80
+1947:8508301:Vaca atolada:99:Não se aplica:245.00:11.60:15.05:15.05:0.80
+1948:8508401:Salada ou verdura crua, exceto de fruta:99:Não se aplica:18.00:0.88:0.20:3.92:1.20
+1949:8508403:Outros legumes cozidos:99:Não se aplica:60.50:1.24:0.14:14.12:2.53
+1950:8509801:Café da manha:99:Não se aplica:31.44:1.72:1.69:2.57:0.24
+1951:8570101:Prato de comida brasileira:99:Não se aplica:148.37:6.74:3.86:21.34:2.31
+1952:8570102:Prato de comida do nordeste:99:Não se aplica:129.21:6.49:2.66:19.48:2.33
+1953:8570103:Prato de comida do norte:99:Não se aplica:157.10:6.53:3.36:24.99:2.94
+1954:8570104:Prato de comida do sudeste:99:Não se aplica:131.09:8.62:5.30:12.00:1.86
+1955:8570105:Prato de comida do sul:99:Não se aplica:148.37:6.74:3.86:21.34:2.31
+1956:8570106:Prato de comida do centro-oeste:99:Não se aplica:105.93:5.68:2.91:14.27:2.22
+1957:8570107:Arroz com feijão:99:Não se aplica:116.51:4.17:1.50:21.42:2.66
+1958:8570328:Pão com manteiga:99:Não se aplica:369.50:6.81:16.10:48.84:1.92
+1959:8570329:Pão com margarina:99:Não se aplica:369.83:6.82:16.00:48.98:1.92
+1960:8570330:Pão com ovo:99:Não se aplica:261.30:10.84:10.38:29.91:1.15
+1961:8571110:Carne com batata, inhame, batata-baroa ou aipim :99:Não se aplica:188.20:12.97:10.50:10.01:1.03
+1962:8571111:Carne com legumes (exceto batata, inhame e aipim):99:Não se aplica:150.52:12.47:9.95:2.45:0.55
+1963:8571112:Frango com batata, inhame batata-baroa ou aipim:99:Não se aplica:153.70:16.31:5.04:10.01:1.03
+1964:8571113:Frango com legumes (exceto batata, inhame e aipim):99:Não se aplica:116.02:15.82:4.50:2.45:0.55
+1965:8578404:Abobora com quiabo:99:Não se aplica:21.00:1.30:0.14:4.71:1.80
+1966:8579002:Arroz carreteiro:99:Não se aplica:154.00:10.80:7.10:11.60:1.50
+1967:8579003:Maria izabel:99:Não se aplica:154.00:10.80:7.10:11.60:1.50
+1968:8579004:Arroz de leite:99:Não se aplica:142.42:2.98:4.17:22.62:0.30
+1969:8579005:Arroz com mandioca:99:Não se aplica:130.31:1.55:0.75:28.94:1.57
+1970:8579006:Arroz com ovo:99:Não se aplica:179.11:8.09:9.43:14.50:0.77
+1971:8800109:Palma :99:Não se aplica:41.95:1.35:3.10:3.28:2.00

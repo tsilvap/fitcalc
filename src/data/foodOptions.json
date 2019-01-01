@@ -1,0 +1,9857 @@
+[
+  {
+    "id": "1",
+    "content": "Arroz (polido, parboilizado, agulha, agulhinha, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "2",
+    "content": "Arroz integral",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "3",
+    "content": "Milho (em grão)",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "4",
+    "content": "Milho (em grão)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "5",
+    "content": "Milho (em grão)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "6",
+    "content": "Milho (em grão)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "7",
+    "content": "Milho (em grão)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "8",
+    "content": "Milho (em grão)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "9",
+    "content": "Milho (em grão)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "10",
+    "content": "Canjiquinha de milho em grão",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "11",
+    "content": "Canjiquinha de milho em grão",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "12",
+    "content": "Canjiquinha de milho em grão",
+    "description": "Ensopado"
+  },
+  {
+    "id": "13",
+    "content": "Canjiquinha de milho em grão",
+    "description": "Mingau"
+  },
+  {
+    "id": "14",
+    "content": "Canjiquinha de milho em grão",
+    "description": "Sopa"
+  },
+  {
+    "id": "15",
+    "content": "Canjiquinha de milho em grão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "16",
+    "content": "Xerém de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "17",
+    "content": "Amendoim (em grão) in natura",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "18",
+    "content": "Ervilha em grão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "19",
+    "content": "Fava (em grão)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "20",
+    "content": "Mangalô amargo em grão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "21",
+    "content": "Feijão-de-corda",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "22",
+    "content": "Feijão-verde",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "23",
+    "content": "Semente de linhaça",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "24",
+    "content": "Andu",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "25",
+    "content": "Grão de bico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "26",
+    "content": "Lentilha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "27",
+    "content": "Soja em grão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "28",
+    "content": "Feijão (preto, mulatinho, roxo, rosinha, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "29",
+    "content": "Quirera não especificada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "30",
+    "content": "Feijão-verde orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "31",
+    "content": "Feijão orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "32",
+    "content": "Pipoca  light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "33",
+    "content": "Arroz  orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "34",
+    "content": "Arroz integral orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "35",
+    "content": "Feijão-de-soja orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "36",
+    "content": "Quinoa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "37",
+    "content": "Batata-inglesa",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "38",
+    "content": "Batata-inglesa",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "39",
+    "content": "Batata-inglesa",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "40",
+    "content": "Batata-inglesa",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "41",
+    "content": "Batata-inglesa",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "42",
+    "content": "Batata-inglesa",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "43",
+    "content": "Batata-inglesa",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "44",
+    "content": "Batata-inglesa",
+    "description": "Molho branco"
+  },
+  {
+    "id": "45",
+    "content": "Batata-inglesa",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "46",
+    "content": "Batata-inglesa",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "47",
+    "content": "Batata-inglesa",
+    "description": "Ensopado"
+  },
+  {
+    "id": "48",
+    "content": "Batata-inglesa",
+    "description": "Sopa"
+  },
+  {
+    "id": "49",
+    "content": "Batata-inglesa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "50",
+    "content": "Mandioquinha salsa (batata-baroa)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "51",
+    "content": "Mandioquinha salsa (batata-baroa)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "52",
+    "content": "Mandioquinha salsa (batata-baroa)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "53",
+    "content": "Mandioquinha salsa (batata-baroa)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "54",
+    "content": "Cenoura amarela (batata-baroa)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "55",
+    "content": "Batata-doce",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "56",
+    "content": "Batata-doce",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "57",
+    "content": "Batata-doce",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "58",
+    "content": "Batata-doce",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "59",
+    "content": "Batata-doce",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "60",
+    "content": "Batata-doce",
+    "description": "Ensopado"
+  },
+  {
+    "id": "61",
+    "content": "Batata-doce",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "62",
+    "content": "Inhame",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "63",
+    "content": "Inhame",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "64",
+    "content": "Inhame",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "65",
+    "content": "Inhame",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "66",
+    "content": "Inhame",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "67",
+    "content": "Inhame",
+    "description": "Ensopado"
+  },
+  {
+    "id": "68",
+    "content": "Inhame",
+    "description": "Sopa"
+  },
+  {
+    "id": "69",
+    "content": "Quicaré",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "70",
+    "content": "Mandioca",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "71",
+    "content": "Mandioca",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "72",
+    "content": "Mandioca",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "73",
+    "content": "Mandioca",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "74",
+    "content": "Mandioca",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "75",
+    "content": "Mandioca",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "76",
+    "content": "Mandioca",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "77",
+    "content": "Mandioca",
+    "description": "Ensopado"
+  },
+  {
+    "id": "78",
+    "content": "Mandioca",
+    "description": "Sopa"
+  },
+  {
+    "id": "79",
+    "content": "Mandioca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "80",
+    "content": "Aipim",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "81",
+    "content": "Aipim",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "82",
+    "content": "Aipim",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "83",
+    "content": "Aipim",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "84",
+    "content": "Aipim",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "85",
+    "content": "Aipim",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "86",
+    "content": "Aipim",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "87",
+    "content": "Aipim",
+    "description": "Ensopado"
+  },
+  {
+    "id": "88",
+    "content": "Aipim",
+    "description": "Sopa"
+  },
+  {
+    "id": "89",
+    "content": "Aipim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "90",
+    "content": "Macaxeira",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "91",
+    "content": "Macaxeira",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "92",
+    "content": "Macaxeira",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "93",
+    "content": "Macaxeira",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "94",
+    "content": "Cará",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "95",
+    "content": "Cará",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "96",
+    "content": "Cará",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "97",
+    "content": "Cará",
+    "description": "Ensopado"
+  },
+  {
+    "id": "98",
+    "content": "Cará",
+    "description": "Mingau"
+  },
+  {
+    "id": "99",
+    "content": "Cará",
+    "description": "Sopa"
+  },
+  {
+    "id": "100",
+    "content": "Inhame caraquento (cará)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "101",
+    "content": "Batata (não especificada)",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "102",
+    "content": "Batata (não especificada)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "103",
+    "content": "Batata (não especificada)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "104",
+    "content": "Batata (não especificada)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "105",
+    "content": "Batata (não especificada)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "106",
+    "content": "Batata (não especificada)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "107",
+    "content": "Batata (não especificada)",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "108",
+    "content": "Batata (não especificada)",
+    "description": "Molho branco"
+  },
+  {
+    "id": "109",
+    "content": "Batata (não especificada)",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "110",
+    "content": "Batata (não especificada)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "111",
+    "content": "Batata (não especificada)",
+    "description": "Sopa"
+  },
+  {
+    "id": "112",
+    "content": "Batata (não especificada)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "113",
+    "content": "Mandioquinha",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "114",
+    "content": "Mandioquinha",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "115",
+    "content": "Mandioquinha",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "116",
+    "content": "Mandioquinha",
+    "description": "Ensopado"
+  },
+  {
+    "id": "117",
+    "content": "Rabanete",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "118",
+    "content": "Rabanete",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "119",
+    "content": "Rabanete",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "120",
+    "content": "Beterraba",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "121",
+    "content": "Beterraba",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "122",
+    "content": "Beterraba",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "123",
+    "content": "Beterraba",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "124",
+    "content": "Beterraba",
+    "description": "Sopa"
+  },
+  {
+    "id": "125",
+    "content": "Beterraba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "126",
+    "content": "Cenoura",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "127",
+    "content": "Cenoura",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "128",
+    "content": "Cenoura",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "129",
+    "content": "Cenoura",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "130",
+    "content": "Cenoura",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "131",
+    "content": "Cenoura",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "132",
+    "content": "Cenoura",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "133",
+    "content": "Cenoura",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "134",
+    "content": "Cenoura",
+    "description": "Ensopado"
+  },
+  {
+    "id": "135",
+    "content": "Cenoura",
+    "description": "Sopa"
+  },
+  {
+    "id": "136",
+    "content": "Cenoura",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "137",
+    "content": "Nabo",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "138",
+    "content": "Nabo",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "139",
+    "content": "Açafrão",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "140",
+    "content": "Batata-inglesa orgânica",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "141",
+    "content": "Creme de arroz",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "142",
+    "content": "Arrozina",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "143",
+    "content": "Mucilon",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "144",
+    "content": "Mingau de arroz",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "145",
+    "content": "Croquinhos de arroz",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "146",
+    "content": "Farinha de aveia",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "147",
+    "content": "Aveia em flocos",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "148",
+    "content": "Fubá de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "149",
+    "content": "Farinha de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "150",
+    "content": "Puba de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "151",
+    "content": "Puba de fubá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "152",
+    "content": "Milho moído",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "153",
+    "content": "Mingau de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "154",
+    "content": "Amido de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "155",
+    "content": "Amido de arroz",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "156",
+    "content": "Cremogema",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "157",
+    "content": "Vitamilho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "158",
+    "content": "Creme de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "159",
+    "content": "Sucrilhos de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "160",
+    "content": "Cereal matinal de milho em flocos",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "161",
+    "content": "Germe de trigo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "162",
+    "content": "Fibra de trigo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "163",
+    "content": "Fibra de cereal trigo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "164",
+    "content": "Farinha de mandioca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "165",
+    "content": "Farinha de copioba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "166",
+    "content": "Farinha d'água",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "167",
+    "content": "Cruera",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "168",
+    "content": "Goma de mandioca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "169",
+    "content": "Sagu de mandioca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "170",
+    "content": "Farinha de tapioca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "171",
+    "content": "Farinha beiju",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "172",
+    "content": "Sagu de tapioca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "173",
+    "content": "Tapioca de goma",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "174",
+    "content": "Farinha láctea",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "175",
+    "content": "Neston",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "176",
+    "content": "Flocos de cereais",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "177",
+    "content": "Vitaflocos",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "178",
+    "content": "Mini pizza semipronta",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "179",
+    "content": "Mini pizza semipronta",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "180",
+    "content": "Mini pizza semipronta",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "181",
+    "content": "Mini pizza semipronta",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "182",
+    "content": "Mini pizza semipronta",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "183",
+    "content": "Fibra de soja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "184",
+    "content": "Minipastel",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "185",
+    "content": "Macarrão",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "186",
+    "content": "Macarrão",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "187",
+    "content": "Macarrão",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "188",
+    "content": "Macarrão",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "189",
+    "content": "Macarrão",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "190",
+    "content": "Macarrão",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "191",
+    "content": "Macarrão",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "192",
+    "content": "Macarrão",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "193",
+    "content": "Macarrão",
+    "description": "Molho branco"
+  },
+  {
+    "id": "194",
+    "content": "Macarrão",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "195",
+    "content": "Macarrão",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "196",
+    "content": "Macarrão",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "197",
+    "content": "Macarrão",
+    "description": "Ensopado"
+  },
+  {
+    "id": "198",
+    "content": "Macarrão",
+    "description": "Sopa"
+  },
+  {
+    "id": "199",
+    "content": "Macarrão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "200",
+    "content": "Purê de batata",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "201",
+    "content": "Bife vegetal",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "202",
+    "content": "Carne vegetal",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "203",
+    "content": "Pasta de soja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "204",
+    "content": "Carne de soja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "205",
+    "content": "Amendoim moído",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "206",
+    "content": "Granola",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "207",
+    "content": "Musli",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "208",
+    "content": "Mix de cereais",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "209",
+    "content": "Miojo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "210",
+    "content": "Macarrão instantâneo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "211",
+    "content": "Sustagem",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "212",
+    "content": "Proteína de soja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "213",
+    "content": "Proteína vegetal",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "214",
+    "content": "Complemento alimentar de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "215",
+    "content": "Sucrilhos de milho light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "216",
+    "content": "Mini pizza semipronta light",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "217",
+    "content": "Macarrão instantâneo light",
+    "description": "Sopa"
+  },
+  {
+    "id": "218",
+    "content": "Macarrão instantâneo light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "219",
+    "content": "Proteína de soja orgânica",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "220",
+    "content": "Macarrão com carne",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "221",
+    "content": "Macarrão com peixe",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "222",
+    "content": "Coco-da-baía (seco ou verde)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "223",
+    "content": "Castanha portuguesa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "224",
+    "content": "Pinhão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "225",
+    "content": "Amêndoa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "226",
+    "content": "Avelã",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "227",
+    "content": "Castanha-do-pará",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "228",
+    "content": "Castanha de caju",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "229",
+    "content": "Butiá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "230",
+    "content": "Tucumã",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "231",
+    "content": "Coco de mucajá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "232",
+    "content": "Noz (nogueira)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "233",
+    "content": "Açaí",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "234",
+    "content": "Juçara",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "235",
+    "content": "Uaçaí",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "236",
+    "content": "Jussara",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "237",
+    "content": "Pupunha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "238",
+    "content": "Bacaba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "239",
+    "content": "Bacabuçu",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "240",
+    "content": "Castanha-da-índia",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "241",
+    "content": "Pistache",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "242",
+    "content": "Buriti",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "243",
+    "content": "Coco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "244",
+    "content": "Patauá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "245",
+    "content": "Alface",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "246",
+    "content": "Bertalha",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "247",
+    "content": "Chicória",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "248",
+    "content": "Chicória",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "249",
+    "content": "Chicória",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "250",
+    "content": "Chicória",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "251",
+    "content": "Escarola",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "252",
+    "content": "Couve",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "253",
+    "content": "Couve",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "254",
+    "content": "Couve",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "255",
+    "content": "Couve",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "256",
+    "content": "Couve",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "257",
+    "content": "Couve",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "258",
+    "content": "Couve",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "259",
+    "content": "Couve",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "260",
+    "content": "Couve",
+    "description": "Ensopado"
+  },
+  {
+    "id": "261",
+    "content": "Couve",
+    "description": "Mingau"
+  },
+  {
+    "id": "262",
+    "content": "Couve",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "263",
+    "content": "Couve-flor",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "264",
+    "content": "Couve-flor",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "265",
+    "content": "Couve-flor",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "266",
+    "content": "Couve-flor",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "267",
+    "content": "Couve-flor",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "268",
+    "content": "Couve-flor",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "269",
+    "content": "Couve-flor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "270",
+    "content": "Espinafre",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "271",
+    "content": "Espinafre",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "272",
+    "content": "Espinafre",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "273",
+    "content": "Espinafre",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "274",
+    "content": "Espinafre",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "275",
+    "content": "Mostarda (verdura)",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "276",
+    "content": "Mostarda (verdura)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "277",
+    "content": "Mostarda (verdura)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "278",
+    "content": "Mostarda (verdura)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "279",
+    "content": "Repolho",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "280",
+    "content": "Repolho",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "281",
+    "content": "Repolho",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "282",
+    "content": "Repolho",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "283",
+    "content": "Repolho",
+    "description": "Molho branco"
+  },
+  {
+    "id": "284",
+    "content": "Repolho",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "285",
+    "content": "Repolho",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "286",
+    "content": "Repolho",
+    "description": "Ensopado"
+  },
+  {
+    "id": "287",
+    "content": "Repolho",
+    "description": "Sopa"
+  },
+  {
+    "id": "288",
+    "content": "Repolho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "289",
+    "content": "Cebolinha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "290",
+    "content": "Agrião",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "291",
+    "content": "Agrião",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "292",
+    "content": "Agrião",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "293",
+    "content": "Agrião",
+    "description": "Ensopado"
+  },
+  {
+    "id": "294",
+    "content": "Agrião",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "295",
+    "content": "Taioba",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "296",
+    "content": "Taioba",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "297",
+    "content": "Taioba",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "298",
+    "content": "Acelga",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "299",
+    "content": "Acelga",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "300",
+    "content": "Acelga",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "301",
+    "content": "Acelga",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "302",
+    "content": "Beterraba branca (acelga)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "303",
+    "content": "Almeirão",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "304",
+    "content": "Almeirão",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "305",
+    "content": "Almeirão",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "306",
+    "content": "Almeirão",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "307",
+    "content": "Radite",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "308",
+    "content": "Radite",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "309",
+    "content": "Radite",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "310",
+    "content": "Brócolis",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "311",
+    "content": "Brócolis",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "312",
+    "content": "Brócolis",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "313",
+    "content": "Brócolis",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "314",
+    "content": "Brócolis",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "315",
+    "content": "Brócolis",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "316",
+    "content": "Brócolis",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "317",
+    "content": "Serralha",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "318",
+    "content": "Serralha",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "319",
+    "content": "Serralha",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "320",
+    "content": "Caruru",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "321",
+    "content": "Cuxá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "322",
+    "content": "Vinagreira",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "323",
+    "content": "Cariru",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "324",
+    "content": "Rúcula",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "325",
+    "content": "Jambu",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "326",
+    "content": "Língua de vaca (verdura)",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "327",
+    "content": "Alcachofra",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "328",
+    "content": "Bredo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "329",
+    "content": "Salsão (aipo)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "330",
+    "content": "Erva-doce",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "331",
+    "content": "Folha de aipim",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "332",
+    "content": "Folha de macaxeira",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "333",
+    "content": "Broto de feijão",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "334",
+    "content": "Broto de feijão",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "335",
+    "content": "Moranga",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "336",
+    "content": "Moranga",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "337",
+    "content": "Moranga",
+    "description": "Ensopado"
+  },
+  {
+    "id": "338",
+    "content": "Moranga",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "339",
+    "content": "Abobrinha",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "340",
+    "content": "Abobrinha",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "341",
+    "content": "Abobrinha",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "342",
+    "content": "Abobrinha",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "343",
+    "content": "Abobrinha",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "344",
+    "content": "Abobrinha",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "345",
+    "content": "Abobrinha",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "346",
+    "content": "Abobrinha",
+    "description": "Ensopado"
+  },
+  {
+    "id": "347",
+    "content": "Jerimum",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "348",
+    "content": "Jerimum",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "349",
+    "content": "Abóbora",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "350",
+    "content": "Abóbora",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "351",
+    "content": "Abóbora",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "352",
+    "content": "Abóbora",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "353",
+    "content": "Abóbora",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "354",
+    "content": "Abóbora",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "355",
+    "content": "Abóbora",
+    "description": "Ensopado"
+  },
+  {
+    "id": "356",
+    "content": "Abóbora",
+    "description": "Sopa"
+  },
+  {
+    "id": "357",
+    "content": "Abóbora",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "358",
+    "content": "Pépino",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "359",
+    "content": "Chuchu",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "360",
+    "content": "Chuchu",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "361",
+    "content": "Chuchu",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "362",
+    "content": "Chuchu",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "363",
+    "content": "Chuchu",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "364",
+    "content": "Chuchu",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "365",
+    "content": "Chuchu",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "366",
+    "content": "Chuchu",
+    "description": "Ensopado"
+  },
+  {
+    "id": "367",
+    "content": "Chuchu",
+    "description": "Sopa"
+  },
+  {
+    "id": "368",
+    "content": "Jiló",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "369",
+    "content": "Jiló",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "370",
+    "content": "Jiló",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "371",
+    "content": "Jiló",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "372",
+    "content": "Jiló",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "373",
+    "content": "Jiló",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "374",
+    "content": "Jiló",
+    "description": "Ensopado"
+  },
+  {
+    "id": "375",
+    "content": "Jiló",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "376",
+    "content": "Maxixe",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "377",
+    "content": "Maxixe",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "378",
+    "content": "Maxixe",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "379",
+    "content": "Maxixe",
+    "description": "Ensopado"
+  },
+  {
+    "id": "380",
+    "content": "Pepininho (maxixe)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "381",
+    "content": "Pepininho (maxixe)",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "382",
+    "content": "Palmito in natura",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "383",
+    "content": "Palmito in natura",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "384",
+    "content": "Palmito in natura",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "385",
+    "content": "Palmito in natura",
+    "description": "Ensopado"
+  },
+  {
+    "id": "386",
+    "content": "Guariroba (palmito in natura)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "387",
+    "content": "Guariroba (palmito in natura)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "388",
+    "content": "Guariroba (palmito in natura)",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "389",
+    "content": "Gueroba (palmito in natura)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "390",
+    "content": "Gueroba (palmito in natura)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "391",
+    "content": "Pimentão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "392",
+    "content": "Quiabo",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "393",
+    "content": "Quiabo",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "394",
+    "content": "Quiabo",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "395",
+    "content": "Quiabo",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "396",
+    "content": "Quiabo",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "397",
+    "content": "Quiabo",
+    "description": "Ensopado"
+  },
+  {
+    "id": "398",
+    "content": "Quiabo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "399",
+    "content": "Tomate",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "400",
+    "content": "Vagem",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "401",
+    "content": "Vagem",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "402",
+    "content": "Vagem",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "403",
+    "content": "Vagem",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "404",
+    "content": "Vagem",
+    "description": "Ensopado"
+  },
+  {
+    "id": "405",
+    "content": "Vagem",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "406",
+    "content": "Cogumelo in natura",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "407",
+    "content": "Berinjela",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "408",
+    "content": "Berinjela",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "409",
+    "content": "Berinjela",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "410",
+    "content": "Berinjela",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "411",
+    "content": "Berinjela",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "412",
+    "content": "Berinjela",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "413",
+    "content": "Berinjela",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "414",
+    "content": "Berinjela",
+    "description": "Ensopado"
+  },
+  {
+    "id": "415",
+    "content": "Berinjela",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "416",
+    "content": "Ervilha em vagem",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "417",
+    "content": "Ervilha em vagem",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "418",
+    "content": "Cebola",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "419",
+    "content": "Cebola",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "420",
+    "content": "Cebola",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "421",
+    "content": "Cebola",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "422",
+    "content": "Cebola",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "423",
+    "content": "Cebola",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "424",
+    "content": "Cebola",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "425",
+    "content": "Cebola",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "426",
+    "content": "Cebola",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "427",
+    "content": "Cebola",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "428",
+    "content": "Catalonha",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "429",
+    "content": "Jardineira (seleta)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "430",
+    "content": "Seleta (jardineira)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "431",
+    "content": "Alho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "432",
+    "content": "Alho-poró",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "433",
+    "content": "Broto de alfafa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "434",
+    "content": "Alface orgânica",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "435",
+    "content": "Tomate orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "436",
+    "content": "Pimentão orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "437",
+    "content": "Orégano",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "438",
+    "content": "Pacová",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "439",
+    "content": "Banana (ouro, prata, d´água, da terra, etc.)",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "440",
+    "content": "Banana (ouro, prata, d´água, da terra, etc.)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "441",
+    "content": "Banana (ouro, prata, d´água, da terra, etc.)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "442",
+    "content": "Banana (ouro, prata, d´água, da terra, etc.)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "443",
+    "content": "Banana (ouro, prata, d´água, da terra, etc.)",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "444",
+    "content": "Banana (ouro, prata, d´água, da terra, etc.)",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "445",
+    "content": "Banana (ouro, prata, d´água, da terra, etc.)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "446",
+    "content": "Banana (ouro, prata, d´água, da terra, etc.)",
+    "description": "Mingau"
+  },
+  {
+    "id": "447",
+    "content": "Banana (ouro, prata, d´água, da terra, etc.)",
+    "description": "Sopa"
+  },
+  {
+    "id": "448",
+    "content": "Banana (ouro, prata, d´água, da terra, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "449",
+    "content": "Laranja (pera, seleta, lima, da terra, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "450",
+    "content": "Lima",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "451",
+    "content": "Limão (comum, galego, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "452",
+    "content": "Tangerina",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "453",
+    "content": "Mexerica",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "454",
+    "content": "Bergamota",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "455",
+    "content": "Mimosa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "456",
+    "content": "Tanja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "457",
+    "content": "Maricota",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "458",
+    "content": "Laranjinha japonesa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "459",
+    "content": "Cana-de-açúcar",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "460",
+    "content": "Abacaxi",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "461",
+    "content": "Ananás",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "462",
+    "content": "Abacate",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "463",
+    "content": "Caqui",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "464",
+    "content": "Figo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "465",
+    "content": "Maçã",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "466",
+    "content": "Mamão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "467",
+    "content": "Papaia",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "468",
+    "content": "Manga",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "469",
+    "content": "Manguito",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "470",
+    "content": "Maracujá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "471",
+    "content": "Melancia",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "472",
+    "content": "Melão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "473",
+    "content": "pera",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "474",
+    "content": "Pêssego",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "475",
+    "content": "Fruta-de-conde",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "476",
+    "content": "Pinha (fruta-de-conde)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "477",
+    "content": "Ata",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "478",
+    "content": "Uva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "479",
+    "content": "Uva passa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "480",
+    "content": "Jenipapo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "481",
+    "content": "Jaca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "482",
+    "content": "Goiaba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "483",
+    "content": "Araçá-açu (goiaba)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "484",
+    "content": "Ameixa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "485",
+    "content": "Caju",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "486",
+    "content": "Cereja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "487",
+    "content": "Cajá-manga",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "488",
+    "content": "Cajarana",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "489",
+    "content": "Taperebá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "490",
+    "content": "Acaja (taberebá)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "491",
+    "content": "Carambola",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "492",
+    "content": "Jabuticaba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "493",
+    "content": "Graviola",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "494",
+    "content": "Morango",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "495",
+    "content": "Jambo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "496",
+    "content": "Atemoia",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "497",
+    "content": "Mangaba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "498",
+    "content": "Araçá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "499",
+    "content": "Nêspera",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "500",
+    "content": "Fruta-pão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "501",
+    "content": "Sapoti",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "502",
+    "content": "Uxi",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "503",
+    "content": "Tamarindo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "504",
+    "content": "Cacau",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "505",
+    "content": "Pitomba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "506",
+    "content": "Bacuri",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "507",
+    "content": "Ingá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "508",
+    "content": "Pequi",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "509",
+    "content": "Pitanga",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "510",
+    "content": "Ciriguela",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "511",
+    "content": "Murici",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "512",
+    "content": "Umbu",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "513",
+    "content": "Imbu",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "514",
+    "content": "Biribá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "515",
+    "content": "Cupuaçu",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "516",
+    "content": "Nectarina",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "517",
+    "content": "Mari",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "518",
+    "content": "Romã",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "519",
+    "content": "Acerola",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "520",
+    "content": "Kiwi",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "521",
+    "content": "Abiu",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "522",
+    "content": "Jurubeba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "523",
+    "content": "Fruta (não especificada)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "524",
+    "content": "Maçã orgânica",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "525",
+    "content": "Acerola orgânica",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "526",
+    "content": "Amora",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "527",
+    "content": "Jamelão (jamburão)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "528",
+    "content": "Demerara",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "529",
+    "content": "Açúcar mascavo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "530",
+    "content": "Rapadura",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "531",
+    "content": "Alfenim de cana",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "532",
+    "content": "Batida (rapadura)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "533",
+    "content": "Sorvete de qualquer sabor industrializado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "534",
+    "content": "Picolé de qualquer sabor industrializado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "535",
+    "content": "Chiclete",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "536",
+    "content": "Bala",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "537",
+    "content": "Caramelo (bala)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "538",
+    "content": "Drops",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "539",
+    "content": "Pastilha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "540",
+    "content": "Pirulito",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "541",
+    "content": "Goma de mascar",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "542",
+    "content": "Jujuba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "543",
+    "content": "Tablete de chocolate",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "544",
+    "content": "Barra de chocolate",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "545",
+    "content": "Confete",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "546",
+    "content": "Chocolate em pó de qualquer marca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "547",
+    "content": "Ovomaltine",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "548",
+    "content": "Achocolatado em pó",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "549",
+    "content": "Toddynho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "550",
+    "content": "Bombom de qualquer marca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "551",
+    "content": "Trufa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "552",
+    "content": "Geleia de frutas de qualquer marca ou sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "553",
+    "content": "Mousse de qualquer sabor (Geleia)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "554",
+    "content": "Geleia de mocotó",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "555",
+    "content": "Doce de frutas em pasta de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "556",
+    "content": "Pasta de amendoim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "557",
+    "content": "Pessegada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "558",
+    "content": "Marmelada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "559",
+    "content": "Figada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "560",
+    "content": "Goiabada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "561",
+    "content": "Caju em pasta",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "562",
+    "content": "Mariola",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "563",
+    "content": "Doce de frutas em calda de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "564",
+    "content": "Doce de frutas cristalizado de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "565",
+    "content": "Melado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "566",
+    "content": "Mel",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "567",
+    "content": "Gelatina de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "568",
+    "content": "Adoçante artificial",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "569",
+    "content": "Merengue",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "570",
+    "content": "Schimier de cana",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "571",
+    "content": "Fruta seca ou desidratada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "572",
+    "content": "Passa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "573",
+    "content": "Pudim de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "574",
+    "content": "Danette pudim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "575",
+    "content": "Manjar",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "576",
+    "content": "Cuscuz",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "577",
+    "content": "Cuscuz de tapioca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "578",
+    "content": "Maria-mole",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "579",
+    "content": "Cocada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "580",
+    "content": "Quebra-queixo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "581",
+    "content": "Doce de amendoim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "582",
+    "content": "Pé de moleque",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "583",
+    "content": "Paçoca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "584",
+    "content": "Torrão de amendoim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "585",
+    "content": "Paçoquinha de amendoim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "586",
+    "content": "Amendoim caramelizado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "587",
+    "content": "Amendoim amanteigado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "588",
+    "content": "Amendoim achocolatado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "589",
+    "content": "Amendoim apimentado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "590",
+    "content": "Amendoim cozido",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "591",
+    "content": "Brigadeiro",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "592",
+    "content": "Bomba de qualquer tipo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "593",
+    "content": "Mil folhas",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "594",
+    "content": "Queijadinha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "595",
+    "content": "Doce à base de ovos",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "596",
+    "content": "Caçarola italiana",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "597",
+    "content": "Quindim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "598",
+    "content": "Fios de ovos",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "599",
+    "content": "Doce à base de leite",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "600",
+    "content": "Pavê de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "601",
+    "content": "Ambrosia",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "602",
+    "content": "Leite geleificado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "603",
+    "content": "Chandele de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "604",
+    "content": "Mumu",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "605",
+    "content": "Canudinho recheado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "606",
+    "content": "Sarolho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "607",
+    "content": "Beiju",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "608",
+    "content": "Schimier de fruta (exceto de cana)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "609",
+    "content": "Beijo de moça",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "610",
+    "content": "Picolé ensacado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "611",
+    "content": "Geladinho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "612",
+    "content": "Churro",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "613",
+    "content": "Pamonha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "614",
+    "content": "Algodão-doce",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "615",
+    "content": "Io-Iô crem (chocolate em creme)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "616",
+    "content": "Ovo de páscoa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "617",
+    "content": "Kinder ovo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "618",
+    "content": "Torrone",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "619",
+    "content": "Arroz-doce",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "620",
+    "content": "Polpa de coco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "621",
+    "content": "Diet shake",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "622",
+    "content": "Concentrado alimentar diet shake",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "623",
+    "content": "Açúcar",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "624",
+    "content": "Açúcar light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "625",
+    "content": "Barra de cereais",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "626",
+    "content": "Barra de cereais salgada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "627",
+    "content": "Barra de cereais doce",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "628",
+    "content": "Sobremesa de qualquer tipo (exceto infantil)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "629",
+    "content": "Rabanada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "630",
+    "content": "Milk shake",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "631",
+    "content": "Geleia diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "632",
+    "content": "Doce de frutas diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "633",
+    "content": "Pastéis de santa clara",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "634",
+    "content": "Suspiro",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "635",
+    "content": "Doce de frutas cristalizado de qualquer sabor diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "636",
+    "content": "Sorvete de qualquer sabor industrializado light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "637",
+    "content": "Sorvete de qualquer sabor industrializado diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "638",
+    "content": "Bala light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "639",
+    "content": "Chiclete diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "640",
+    "content": "Bala diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "641",
+    "content": "Barra de chocolate light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "642",
+    "content": "Barra de chocolate diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "643",
+    "content": "Achocolatado em pó light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "644",
+    "content": "Achocolatado em pó diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "645",
+    "content": "Toddynho diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "646",
+    "content": "Bombom de qualquer marca light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "647",
+    "content": "Bombom de qualquer marca diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "648",
+    "content": "Bombom caramelizado de qualquer marca diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "649",
+    "content": "Geleia de frutas de qualquer marca ou sabor light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "650",
+    "content": "Geleia light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "651",
+    "content": "Geleia de frutas light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "652",
+    "content": "Doce de frutas em barra ou pasta light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "653",
+    "content": "Doce de frutas em pasta light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "654",
+    "content": "Pudim de qualquer sabor light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "655",
+    "content": "Pudim danette light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "656",
+    "content": "Pudim de qualquer sabor diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "657",
+    "content": "Doce de leite light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "658",
+    "content": "Doce de leite diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "659",
+    "content": "Barra de cereais diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "660",
+    "content": "Barra de cereais doce diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "661",
+    "content": "Milk shake diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "662",
+    "content": "Cocada diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "663",
+    "content": "Doce de amendoim diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "664",
+    "content": "Paçoca diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "665",
+    "content": "Amendoim amanteigado diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "666",
+    "content": "Doce à base de leite diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "667",
+    "content": "Gelatina de qualquer sabor light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "668",
+    "content": "Adoçante light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "669",
+    "content": "Adoçante em pó light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "670",
+    "content": "Adoçante liquido light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "671",
+    "content": "Mostarda molho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "672",
+    "content": "Hortelã",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "673",
+    "content": "Alcaparra em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "674",
+    "content": "Coentro",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "675",
+    "content": "Molho de soja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "676",
+    "content": "Shoyo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "677",
+    "content": "Leite de coco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "678",
+    "content": "Maionese (molho)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "679",
+    "content": "Massa de tomate",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "680",
+    "content": "Molho de tomate",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "681",
+    "content": "Ketchup",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "682",
+    "content": "Catchup",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "683",
+    "content": "Pimenta em pó",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "684",
+    "content": "Tucupi em caldo sem pimenta",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "685",
+    "content": "Creme de queijo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "686",
+    "content": "Caldo de peixe",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "687",
+    "content": "Caldo de tomate",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "688",
+    "content": "Gergelim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "689",
+    "content": "Tomate seco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "690",
+    "content": "Maionese (molho) light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "691",
+    "content": "Molho de soja light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "692",
+    "content": "Leite de coco light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "693",
+    "content": "Vinagrete",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "694",
+    "content": "Filé-mignon",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "695",
+    "content": "Filé-mignon",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "696",
+    "content": "Filé-mignon",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "697",
+    "content": "Filé-mignon",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "698",
+    "content": "Filé-mignon",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "699",
+    "content": "Filé-mignon",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "700",
+    "content": "Filé-mignon",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "701",
+    "content": "Filé-mignon",
+    "description": "Molho branco"
+  },
+  {
+    "id": "702",
+    "content": "Filé-mignon",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "703",
+    "content": "Filé-mignon",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "704",
+    "content": "Contrafilé",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "705",
+    "content": "Contrafilé",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "706",
+    "content": "Contrafilé",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "707",
+    "content": "Contrafilé",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "708",
+    "content": "Contrafilé",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "709",
+    "content": "Contrafilé",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "710",
+    "content": "Contrafilé",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "711",
+    "content": "Bisteca bovina",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "712",
+    "content": "Bisteca bovina",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "713",
+    "content": "Bisteca bovina",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "714",
+    "content": "Bisteca bovina",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "715",
+    "content": "Bisteca bovina",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "716",
+    "content": "Bisteca bovina",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "717",
+    "content": "Bisteca bovina",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "718",
+    "content": "Bisteca bovina",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "719",
+    "content": "Alcatra",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "720",
+    "content": "Alcatra",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "721",
+    "content": "Alcatra",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "722",
+    "content": "Alcatra",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "723",
+    "content": "Alcatra",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "724",
+    "content": "Alcatra",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "725",
+    "content": "Alcatra",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "726",
+    "content": "Alcatra",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "727",
+    "content": "Alcatra",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "728",
+    "content": "Alcatra",
+    "description": "Ensopado"
+  },
+  {
+    "id": "729",
+    "content": "Maminha",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "730",
+    "content": "Maminha",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "731",
+    "content": "Maminha",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "732",
+    "content": "Maminha",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "733",
+    "content": "Picanha",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "734",
+    "content": "Picanha",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "735",
+    "content": "Picanha",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "736",
+    "content": "Picanha",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "737",
+    "content": "Picanha",
+    "description": "Ensopado"
+  },
+  {
+    "id": "738",
+    "content": "Patinho",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "739",
+    "content": "Patinho",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "740",
+    "content": "Patinho",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "741",
+    "content": "Patinho",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "742",
+    "content": "Patinho",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "743",
+    "content": "Patinho",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "744",
+    "content": "Patinho",
+    "description": "Ensopado"
+  },
+  {
+    "id": "745",
+    "content": "Cabeça de lombo (carne bovina)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "746",
+    "content": "Cabeça de lombo (carne bovina)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "747",
+    "content": "Cabeça de lombo (carne bovina)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "748",
+    "content": "Cabeça de lombo (carne bovina)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "749",
+    "content": "Cabeça de lombo (carne bovina)",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "750",
+    "content": "Cabeça de lombo (carne bovina)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "751",
+    "content": "Posta branca",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "752",
+    "content": "Posta branca",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "753",
+    "content": "Posta branca",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "754",
+    "content": "Tatu (lagarto redondo)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "755",
+    "content": "Tatu (lagarto redondo)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "756",
+    "content": "Tatu (lagarto redondo)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "757",
+    "content": "Tatu (lagarto redondo)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "758",
+    "content": "Paulista",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "759",
+    "content": "Paulista",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "760",
+    "content": "Lombo paulista (carne bovina)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "761",
+    "content": "Lombo paulista (carne bovina)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "762",
+    "content": "Lombo paulista (carne bovina)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "763",
+    "content": "Lombo paulista (carne bovina)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "764",
+    "content": "Posta vermelha",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "765",
+    "content": "Acém",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "766",
+    "content": "Acém",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "767",
+    "content": "Acém",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "768",
+    "content": "Acém",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "769",
+    "content": "Acém",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "770",
+    "content": "Acém",
+    "description": "Ensopado"
+  },
+  {
+    "id": "771",
+    "content": "Agulha (acém)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "772",
+    "content": "Agulha (acém)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "773",
+    "content": "Agulha (acém)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "774",
+    "content": "Paleta",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "775",
+    "content": "Paleta",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "776",
+    "content": "Paleta",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "777",
+    "content": "Paleta",
+    "description": "Ensopado"
+  },
+  {
+    "id": "778",
+    "content": "Pá com osso",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "779",
+    "content": "Pá com osso",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "780",
+    "content": "Pá com osso",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "781",
+    "content": "Músculo bovino",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "782",
+    "content": "Músculo bovino",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "783",
+    "content": "Músculo bovino",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "784",
+    "content": "Músculo bovino",
+    "description": "Ensopado"
+  },
+  {
+    "id": "785",
+    "content": "Músculo bovino",
+    "description": "Sopa"
+  },
+  {
+    "id": "786",
+    "content": "Chambaril",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "787",
+    "content": "Chambaril",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "788",
+    "content": "Chambaril",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "789",
+    "content": "Carne marica bovina",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "790",
+    "content": "Carne marica bovina",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "791",
+    "content": "Carne marica bovina",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "792",
+    "content": "Vazio (carne bovina)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "793",
+    "content": "Vazio (carne bovina)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "794",
+    "content": "Vazio (carne bovina)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "795",
+    "content": "Peito bovino",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "796",
+    "content": "Peito bovino",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "797",
+    "content": "Fraldinha (capa de filé)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "798",
+    "content": "Fraldinha (capa de filé)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "799",
+    "content": "Fraldinha (capa de filé)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "800",
+    "content": "Fraldinha (capa de filé)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "801",
+    "content": "Aba de filé",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "802",
+    "content": "Aba de filé",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "803",
+    "content": "Aba de filé",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "804",
+    "content": "Costela bovina",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "805",
+    "content": "Costela bovina",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "806",
+    "content": "Costela bovina",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "807",
+    "content": "Costela bovina",
+    "description": "Ensopado"
+  },
+  {
+    "id": "808",
+    "content": "Jacaré (carne bovina de segunda c/ osso)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "809",
+    "content": "Jacaré (carne bovina de segunda c/ osso)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "810",
+    "content": "Jacaré (carne bovina de segunda c/ osso)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "811",
+    "content": "Filé de segunda",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "812",
+    "content": "Filé de segunda",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "813",
+    "content": "Filé de segunda",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "814",
+    "content": "Filé de segunda",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "815",
+    "content": "Filé de segunda",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "816",
+    "content": "Víscera bovina",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "817",
+    "content": "Víscera bovina",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "818",
+    "content": "Panelada (vísceras bovinas não especificadas)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "819",
+    "content": "Panelada (vísceras bovinas não especificadas)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "820",
+    "content": "Coração bovino",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "821",
+    "content": "Coração bovino",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "822",
+    "content": "Coração bovino",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "823",
+    "content": "Coração bovino",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "824",
+    "content": "Rim de boi",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "825",
+    "content": "Bofe bovino",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "826",
+    "content": "Bofe bovino",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "827",
+    "content": "Bofe bovino",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "828",
+    "content": "Miolo de boi",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "829",
+    "content": "Tripa bovina",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "830",
+    "content": "Tripa bovina",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "831",
+    "content": "Tripa bovina",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "832",
+    "content": "Tripa bovina",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "833",
+    "content": "Dobradinha fresca",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "834",
+    "content": "Dobradinha fresca",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "835",
+    "content": "Dobradinha fresca",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "836",
+    "content": "Dobradinha fresca",
+    "description": "Ensopado"
+  },
+  {
+    "id": "837",
+    "content": "Dobradinha fresca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "838",
+    "content": "Fato bovino",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "839",
+    "content": "Fato bovino",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "840",
+    "content": "Fato caprino",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "841",
+    "content": "Fígado bovino",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "842",
+    "content": "Fígado bovino",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "843",
+    "content": "Fígado bovino",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "844",
+    "content": "Fígado bovino",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "845",
+    "content": "Fígado bovino",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "846",
+    "content": "Fígado bovino",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "847",
+    "content": "Fígado bovino",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "848",
+    "content": "Fígado bovino",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "849",
+    "content": "Fígado bovino",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "850",
+    "content": "Fígado bovino",
+    "description": "Ensopado"
+  },
+  {
+    "id": "851",
+    "content": "Cupim",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "852",
+    "content": "Cupim",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "853",
+    "content": "Cupim",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "854",
+    "content": "Língua bovina",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "855",
+    "content": "Língua bovina",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "856",
+    "content": "Língua bovina",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "857",
+    "content": "Língua bovina",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "858",
+    "content": "Língua bovina",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "859",
+    "content": "Língua bovina",
+    "description": "Ensopado"
+  },
+  {
+    "id": "860",
+    "content": "Rabada de boi",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "861",
+    "content": "Mocotó bovino",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "862",
+    "content": "Mocotó bovino",
+    "description": "Ensopado"
+  },
+  {
+    "id": "863",
+    "content": "Mocotó bovino",
+    "description": "Sopa"
+  },
+  {
+    "id": "864",
+    "content": "Mocotó bovino",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "865",
+    "content": "Braço bovino",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "866",
+    "content": "Mão bovina",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "867",
+    "content": "Carré",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "868",
+    "content": "Carré",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "869",
+    "content": "Carré",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "870",
+    "content": "Carré",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "871",
+    "content": "Bisteca suína",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "872",
+    "content": "Bisteca suína",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "873",
+    "content": "Bisteca suína",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "874",
+    "content": "Bisteca suína",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "875",
+    "content": "Bisteca suína",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "876",
+    "content": "Bisteca suína",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "877",
+    "content": "Bisteca suína",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "878",
+    "content": "Pernil suíno",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "879",
+    "content": "Pernil suíno",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "880",
+    "content": "Pernil suíno",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "881",
+    "content": "Pernil suíno",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "882",
+    "content": "Quarto suíno",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "883",
+    "content": "Costela suína",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "884",
+    "content": "Costela suína",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "885",
+    "content": "Costela suína",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "886",
+    "content": "Costela suína",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "887",
+    "content": "Costela suína",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "888",
+    "content": "Costela suína",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "889",
+    "content": "Costela suína",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "890",
+    "content": "Costela suína",
+    "description": "Ensopado"
+  },
+  {
+    "id": "891",
+    "content": "Costela suína",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "892",
+    "content": "Lombo suíno",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "893",
+    "content": "Lombo suíno",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "894",
+    "content": "Lombo suíno",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "895",
+    "content": "Lombo suíno",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "896",
+    "content": "Toucinho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "897",
+    "content": "Míudo suíno",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "898",
+    "content": "Arrasto suíno",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "899",
+    "content": "Sarapatel suíno fresco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "900",
+    "content": "Carne suína",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "901",
+    "content": "Carne suína",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "902",
+    "content": "Carne suína",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "903",
+    "content": "Carne suína",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "904",
+    "content": "Carne suína",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "905",
+    "content": "Carne suína",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "906",
+    "content": "Carne suína",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "907",
+    "content": "Carne suína",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "908",
+    "content": "Carne suína",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "909",
+    "content": "Carne suína",
+    "description": "Ensopado"
+  },
+  {
+    "id": "910",
+    "content": "Carne suína",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "911",
+    "content": "Carne moída",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "912",
+    "content": "Carne moída",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "913",
+    "content": "Carne moída",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "914",
+    "content": "Carne moída",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "915",
+    "content": "Carne moída",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "916",
+    "content": "Carne moída",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "917",
+    "content": "Carne moída",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "918",
+    "content": "Carne moída",
+    "description": "Molho branco"
+  },
+  {
+    "id": "919",
+    "content": "Carne moída",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "920",
+    "content": "Carne moída",
+    "description": "Ensopado"
+  },
+  {
+    "id": "921",
+    "content": "Carne moída",
+    "description": "Sopa"
+  },
+  {
+    "id": "922",
+    "content": "Carne moída",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "923",
+    "content": "Guisado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "924",
+    "content": "Tripa suína",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "925",
+    "content": "Tripa suína",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "926",
+    "content": "Figado suíno",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "927",
+    "content": "Figado suíno",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "928",
+    "content": "Figado suíno",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "929",
+    "content": "Língua suína",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "930",
+    "content": "Língua suína",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "931",
+    "content": "Língua suína",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "932",
+    "content": "Língua suína",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "933",
+    "content": "Língua suína",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "934",
+    "content": "Orelha suína fresca",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "935",
+    "content": "Sarrabulho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "936",
+    "content": "Mocotó suíno",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "937",
+    "content": "Carne de cabrito",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "938",
+    "content": "Carne de cabrito",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "939",
+    "content": "Carne de cabrito",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "940",
+    "content": "Carne de bode",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "941",
+    "content": "Carne de bode",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "942",
+    "content": "Carne de bode",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "943",
+    "content": "Carne de bode",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "944",
+    "content": "Carne caprina",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "945",
+    "content": "Carne caprina",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "946",
+    "content": "Carne caprina",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "947",
+    "content": "Carne caprina",
+    "description": "Ensopado"
+  },
+  {
+    "id": "948",
+    "content": "Carne de caprino",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "949",
+    "content": "Carne de caprino",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "950",
+    "content": "Carne de caprino",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "951",
+    "content": "Carne de carneiro",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "952",
+    "content": "Carne de carneiro",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "953",
+    "content": "Carne de carneiro",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "954",
+    "content": "Carne de carneiro",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "955",
+    "content": "Carne de carneiro",
+    "description": "Ensopado"
+  },
+  {
+    "id": "956",
+    "content": "Carne de ovelha",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "957",
+    "content": "Carne de ovelha",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "958",
+    "content": "Carne de ovelha",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "959",
+    "content": "Carne de ovelha",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "960",
+    "content": "Mocotó de caprino",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "961",
+    "content": "Pernil",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "962",
+    "content": "Pernil",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "963",
+    "content": "Pernil",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "964",
+    "content": "Pernil",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "965",
+    "content": "Lagarto bovino",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "966",
+    "content": "Lagarto bovino",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "967",
+    "content": "Lagarto bovino",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "968",
+    "content": "Lagarto bovino",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "969",
+    "content": "Lagarto bovino",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "970",
+    "content": "Alcatra suína",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "971",
+    "content": "Alcatra suína",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "972",
+    "content": "Alcatra suína",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "973",
+    "content": "Brachola",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "974",
+    "content": "Bife role cru",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "975",
+    "content": "Buchada de bode",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "976",
+    "content": "Suã suína",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "977",
+    "content": "Suã suína",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "978",
+    "content": "Carne de outros animais",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "979",
+    "content": "Carne de outros animais",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "980",
+    "content": "Carne de outros animais",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "981",
+    "content": "Carne de outros animais",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "982",
+    "content": "Carne de outros animais",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "983",
+    "content": "Carne de outros animais",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "984",
+    "content": "Carne de outros animais",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "985",
+    "content": "Carne de outros animais",
+    "description": "Ensopado"
+  },
+  {
+    "id": "986",
+    "content": "Carne de outros animais",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "987",
+    "content": "Carne da paca",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "988",
+    "content": "Carne da paca",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "989",
+    "content": "Carne da paca",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "990",
+    "content": "Carne de jacaré",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "991",
+    "content": "Carne de jacaré",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "992",
+    "content": "Carne de capivara",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "993",
+    "content": "Carne de capivara",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "994",
+    "content": "Carne de capivara",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "995",
+    "content": "Carne de cotia",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "996",
+    "content": "Carne de cotia",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "997",
+    "content": "Carne de jabuti",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "998",
+    "content": "Carne de primeira",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "999",
+    "content": "Carne de primeira",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1000",
+    "content": "Carne de primeira",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1001",
+    "content": "Carne de primeira",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1002",
+    "content": "Carne de primeira",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1003",
+    "content": "Carne de primeira",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1004",
+    "content": "Carne de primeira",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1005",
+    "content": "Carne de primeira",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1006",
+    "content": "Carne de primeira",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "1007",
+    "content": "Chuleta",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1008",
+    "content": "Chuleta",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1009",
+    "content": "Chuleta",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1010",
+    "content": "Chuleta",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1011",
+    "content": "Filé não especificado",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1012",
+    "content": "Filé não especificado",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1013",
+    "content": "Filé não especificado",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1014",
+    "content": "Filé não especificado",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1015",
+    "content": "Filé não especificado",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1016",
+    "content": "Filé não especificado",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1017",
+    "content": "Filé não especificado",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1018",
+    "content": "Filé não especificado",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1019",
+    "content": "Filé não especificado",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "1020",
+    "content": "Filé não especificado",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1021",
+    "content": "Filé não especificado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1022",
+    "content": "Miúdo de bode",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1023",
+    "content": "Pé suíno fresco",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1024",
+    "content": "Pé suíno fresco",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1025",
+    "content": "Pé suíno fresco",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1026",
+    "content": "Carne bovina",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1027",
+    "content": "Carne bovina",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1028",
+    "content": "Carne bovina",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1029",
+    "content": "Carne bovina",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1030",
+    "content": "Carne bovina",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1031",
+    "content": "Carne bovina",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1032",
+    "content": "Carne bovina",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1033",
+    "content": "Carne bovina",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1034",
+    "content": "Carne bovina",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1035",
+    "content": "Carne bovina",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "1036",
+    "content": "Carne bovina",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "1037",
+    "content": "Carne bovina",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "1038",
+    "content": "Carne bovina",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1039",
+    "content": "Carne bovina",
+    "description": "Sopa"
+  },
+  {
+    "id": "1040",
+    "content": "Carne bovina",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1041",
+    "content": "Lombo não especificado",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1042",
+    "content": "Lombo não especificado",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1043",
+    "content": "Lombo não especificado",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1044",
+    "content": "Lombo não especificado",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1045",
+    "content": "Lombo não especificado",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1046",
+    "content": "Músculo não especificado",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1047",
+    "content": "Músculo não especificado",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1048",
+    "content": "Ossada não especificada",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1049",
+    "content": "Ossada não especificada",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1050",
+    "content": "Ossada não especificada",
+    "description": "Sopa"
+  },
+  {
+    "id": "1051",
+    "content": "Ossada não especificada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1052",
+    "content": "Carne de segunda",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1053",
+    "content": "Carne de segunda",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1054",
+    "content": "Carne de segunda",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1055",
+    "content": "Carne de segunda",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1056",
+    "content": "Carne de segunda",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1057",
+    "content": "Carne de segunda",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1058",
+    "content": "Carne de segunda",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1059",
+    "content": "Carne de segunda",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1060",
+    "content": "Carne de segunda",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "1061",
+    "content": "Carne de segunda",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1062",
+    "content": "Contrafilé orgânico",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1063",
+    "content": "Bisteca orgânica",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1064",
+    "content": "Bisteca orgânica",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1065",
+    "content": "Cabeça de lombo (carne bovina) orgânica",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1066",
+    "content": "Cabeça de lombo (carne bovina) orgânica",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1067",
+    "content": "Cabeça de lombo (carne bovina) orgânica",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1068",
+    "content": "Tatu (lagarto redondo) orgânico",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1069",
+    "content": "Peixe de mar (inteiro, em posta, em filé, etc.)",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1070",
+    "content": "Peixe de mar (inteiro, em posta, em filé, etc.)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1071",
+    "content": "Peixe de mar (inteiro, em posta, em filé, etc.)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1072",
+    "content": "Peixe de mar (inteiro, em posta, em filé, etc.)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1073",
+    "content": "Peixe de mar (inteiro, em posta, em filé, etc.)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1074",
+    "content": "Peixe de mar (inteiro, em posta, em filé, etc.)",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1075",
+    "content": "Peixe de mar (inteiro, em posta, em filé, etc.)",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1076",
+    "content": "Peixe de mar (inteiro, em posta, em filé, etc.)",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1077",
+    "content": "Peixe de mar (inteiro, em posta, em filé, etc.)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1078",
+    "content": "Peixe de mar salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1079",
+    "content": "Peixe de mar salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1080",
+    "content": "Peixe de mar salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1081",
+    "content": "Peixe de mar salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1082",
+    "content": "Peixe de mar salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1083",
+    "content": "Peixe de mar salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1084",
+    "content": "Peixe de mar salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1085",
+    "content": "Camarão",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1086",
+    "content": "Camarão",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1087",
+    "content": "Camarão",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1088",
+    "content": "Camarão",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1089",
+    "content": "Camarão",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1090",
+    "content": "Camarão",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1091",
+    "content": "Camarão",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1092",
+    "content": "Camarão",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1093",
+    "content": "Camarão",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1094",
+    "content": "Camarão",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "1095",
+    "content": "Camarão",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1096",
+    "content": "Camarão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1097",
+    "content": "Siri",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1098",
+    "content": "Siri",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1099",
+    "content": "Siri",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1100",
+    "content": "Bau (siri)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1101",
+    "content": "Goiá",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1102",
+    "content": "Caranguejo",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1103",
+    "content": "Caranguejo",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1104",
+    "content": "Caranguejo",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "1105",
+    "content": "Guaiamu",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1106",
+    "content": "Marisco",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1107",
+    "content": "Marisco",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1108",
+    "content": "Marisco",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1109",
+    "content": "Marisco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1110",
+    "content": "Ostra",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1111",
+    "content": "Lula",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1112",
+    "content": "Sururu",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1113",
+    "content": "Sururu",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1114",
+    "content": "Bacalhau",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1115",
+    "content": "Bacalhau",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1116",
+    "content": "Bacalhau",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1117",
+    "content": "Bacalhau",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1118",
+    "content": "Bacalhau",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1119",
+    "content": "Bacalhau",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1120",
+    "content": "Bacalhau",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1121",
+    "content": "Bacalhau",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1122",
+    "content": "Ovas de peixe (qualquer espécie)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1123",
+    "content": "Ovas de peixe (qualquer espécie)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1124",
+    "content": "Peixe de água doce (inteiro, em posta, em filé, etc.)",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1125",
+    "content": "Peixe de água doce (inteiro, em posta, em filé, etc.)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1126",
+    "content": "Peixe de água doce (inteiro, em posta, em filé, etc.)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1127",
+    "content": "Peixe de água doce (inteiro, em posta, em filé, etc.)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1128",
+    "content": "Peixe de água doce (inteiro, em posta, em filé, etc.)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1129",
+    "content": "Peixe de água doce (inteiro, em posta, em filé, etc.)",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1130",
+    "content": "Peixe de água doce (inteiro, em posta, em filé, etc.)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1131",
+    "content": "Peixe de água doce (inteiro, em posta, em filé, etc.)",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1132",
+    "content": "Peixe de água doce (inteiro, em posta, em filé, etc.)",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1133",
+    "content": "Peixe de água doce (inteiro, em posta, em filé, etc.)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1134",
+    "content": "Peixe de água doce (inteiro, em posta, em filé, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1135",
+    "content": "Peixe de água doce salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1136",
+    "content": "Peixe de água doce salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1137",
+    "content": "Peixe de água doce salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1138",
+    "content": "Peixe de água doce salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1139",
+    "content": "Peixe de água doce salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1140",
+    "content": "Peixe de água doce salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1141",
+    "content": "Peixe de água doce salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1142",
+    "content": "Tracajá",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1143",
+    "content": "Peixe não especificado (inteiro, em posta, em filé, etc.)",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1144",
+    "content": "Peixe não especificado (inteiro, em posta, em filé, etc.)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1145",
+    "content": "Peixe não especificado (inteiro, em posta, em filé, etc.)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1146",
+    "content": "Peixe não especificado (inteiro, em posta, em filé, etc.)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1147",
+    "content": "Peixe não especificado (inteiro, em posta, em filé, etc.)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1148",
+    "content": "Peixe não especificado (inteiro, em posta, em filé, etc.)",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1149",
+    "content": "Peixe não especificado (inteiro, em posta, em filé, etc.)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1150",
+    "content": "Peixe não especificado (inteiro, em posta, em filé, etc.)",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1151",
+    "content": "Peixe não especificado (inteiro, em posta, em filé, etc.)",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1152",
+    "content": "Peixe não especificado (inteiro, em posta, em filé, etc.)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1153",
+    "content": "Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1154",
+    "content": "Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1155",
+    "content": "Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1156",
+    "content": "Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1157",
+    "content": "Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1158",
+    "content": "Azeitona",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1159",
+    "content": "Ervilha em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1160",
+    "content": "Petit-pois",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1161",
+    "content": "Milho verde em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1162",
+    "content": "Palmito em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1163",
+    "content": "Cogumelo em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1164",
+    "content": "Champignon em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1165",
+    "content": "Aspargo em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1166",
+    "content": "Repolho em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1167",
+    "content": "Chucrute",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1168",
+    "content": "Legume não especificado em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1169",
+    "content": "Creme de cebola (sopa desidratada)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1170",
+    "content": "Creme de legumes (sopa desidratada)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1171",
+    "content": "Yakissoba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1172",
+    "content": "Milho verde com ervilha em conserva",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1173",
+    "content": "Milho verde com ervilha em conserva",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1174",
+    "content": "Milho verde com ervilha em conserva",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1175",
+    "content": "Milho verde com ervilha em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1176",
+    "content": "Feijoada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1177",
+    "content": "Feijão branco com dobradinha em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1178",
+    "content": "Cozido",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1179",
+    "content": "Pasta de carne em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1180",
+    "content": "Pasta de presunto em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1181",
+    "content": "Pasta de galinha em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1182",
+    "content": "Carne bovina em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1183",
+    "content": "Almôndega",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1184",
+    "content": "Kitute bovino",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1185",
+    "content": "Almôndega ao molho em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1186",
+    "content": "Kitute suíno",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1187",
+    "content": "Presuntada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1188",
+    "content": "Fiambre",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1189",
+    "content": "Fiambre",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1190",
+    "content": "Fiambre",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1191",
+    "content": "Fiambre",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1192",
+    "content": "Salsicha em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1193",
+    "content": "Sardinha em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1194",
+    "content": "Atum em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1195",
+    "content": "Pepino em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1196",
+    "content": "Pasta de peixe em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1197",
+    "content": "Picles",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1198",
+    "content": "Nabo em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1199",
+    "content": "Strogonoff",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1200",
+    "content": "Salmão em conserva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1201",
+    "content": "Creme de cebola (sopa desidratada) light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1202",
+    "content": "Creme de legumes (sopa desidratada) light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1203",
+    "content": "Yakissoba (sopa de legumes desidratada) light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1204",
+    "content": "Atum em conserva light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1205",
+    "content": "Frango inteiro",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1206",
+    "content": "Frango inteiro",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1207",
+    "content": "Frango inteiro",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1208",
+    "content": "Frango inteiro",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1209",
+    "content": "Frango inteiro",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1210",
+    "content": "Frango inteiro",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1211",
+    "content": "Frango inteiro",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1212",
+    "content": "Frango inteiro",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1213",
+    "content": "Frango inteiro",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1214",
+    "content": "Parte de galinha ou frango não especificada",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1215",
+    "content": "Parte de galinha ou frango não especificada",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1216",
+    "content": "Parte de galinha ou frango não especificada",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1217",
+    "content": "Parte de galinha ou frango não especificada",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1218",
+    "content": "Parte de galinha ou frango não especificada",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1219",
+    "content": "Parte de galinha ou frango não especificada",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1220",
+    "content": "Parte de galinha ou frango não especificada",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1221",
+    "content": "Parte de galinha ou frango não especificada",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1222",
+    "content": "Parte de galinha ou frango não especificada",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1223",
+    "content": "Parte de galinha ou frango não especificada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1224",
+    "content": "Frango em pedaços",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1225",
+    "content": "Frango em pedaços",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1226",
+    "content": "Frango em pedaços",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1227",
+    "content": "Frango em pedaços",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1228",
+    "content": "Frango em pedaços",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1229",
+    "content": "Frango em pedaços",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1230",
+    "content": "Frango em pedaços",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1231",
+    "content": "Frango em pedaços",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1232",
+    "content": "Frango em pedaços",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1233",
+    "content": "Frango em pedaços",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "1234",
+    "content": "Frango em pedaços",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "1235",
+    "content": "Frango em pedaços",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1236",
+    "content": "Frango em pedaços",
+    "description": "Sopa"
+  },
+  {
+    "id": "1237",
+    "content": "Frango em pedaços",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1238",
+    "content": "Galinha em pedaços",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1239",
+    "content": "Galinha em pedaços",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1240",
+    "content": "Galinha em pedaços",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1241",
+    "content": "Galinha em pedaços",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1242",
+    "content": "Galinha em pedaços",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1243",
+    "content": "Galinha em pedaços",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1244",
+    "content": "Galinha em pedaços",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1245",
+    "content": "Galinha em pedaços",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1246",
+    "content": "Galinha em pedaços",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1247",
+    "content": "Carne de galinha",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1248",
+    "content": "Carne de galinha",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1249",
+    "content": "Carne de galinha",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1250",
+    "content": "Carne de galinha",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1251",
+    "content": "Carne de galinha",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1252",
+    "content": "Carne de galinha",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1253",
+    "content": "Carne de galinha",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1254",
+    "content": "Carne de galinha",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1255",
+    "content": "Carne de galinha",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1256",
+    "content": "Carne de galinha",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1257",
+    "content": "Carne de galinha",
+    "description": "Sopa"
+  },
+  {
+    "id": "1258",
+    "content": "Carne de galinha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1259",
+    "content": "Peito de galinha ou frango",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1260",
+    "content": "Peito de galinha ou frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1261",
+    "content": "Peito de galinha ou frango",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1262",
+    "content": "Peito de galinha ou frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1263",
+    "content": "Peito de galinha ou frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1264",
+    "content": "Peito de galinha ou frango",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1265",
+    "content": "Peito de galinha ou frango",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1266",
+    "content": "Peito de galinha ou frango",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1267",
+    "content": "Peito de galinha ou frango",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1268",
+    "content": "Peito de galinha ou frango",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1269",
+    "content": "Peito de galinha ou frango",
+    "description": "Sopa"
+  },
+  {
+    "id": "1270",
+    "content": "Peito de galinha ou frango",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1271",
+    "content": "Filé de frango",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1272",
+    "content": "Filé de frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1273",
+    "content": "Filé de frango",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1274",
+    "content": "Filé de frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1275",
+    "content": "Filé de frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1276",
+    "content": "Filé de frango",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1277",
+    "content": "Filé de frango",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1278",
+    "content": "Filé de frango",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1279",
+    "content": "Filé de frango",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1280",
+    "content": "Filé de frango",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "1281",
+    "content": "Filé de frango",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1282",
+    "content": "Filé de frango",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1283",
+    "content": "Carcaça de galinha ou frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1284",
+    "content": "Carcaça de galinha ou frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1285",
+    "content": "Carcaça de galinha ou frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1286",
+    "content": "Carcaça de galinha ou frango",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1287",
+    "content": "Carcaça de galinha ou frango",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1288",
+    "content": "Asa de galinha ou frango",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1289",
+    "content": "Asa de galinha ou frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1290",
+    "content": "Asa de galinha ou frango",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1291",
+    "content": "Asa de galinha ou frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1292",
+    "content": "Asa de galinha ou frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1293",
+    "content": "Asa de galinha ou frango",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1294",
+    "content": "Asa de galinha ou frango",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1295",
+    "content": "Asa de galinha ou frango",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1296",
+    "content": "Asa de galinha ou frango",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1297",
+    "content": "Drumete de galinha ou frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1298",
+    "content": "Drumete de galinha ou frango",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1299",
+    "content": "Drumete de galinha ou frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1300",
+    "content": "Drumete de galinha ou frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1301",
+    "content": "Drumete de galinha ou frango",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1302",
+    "content": "Drumete de galinha ou frango",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1303",
+    "content": "Pescoço de galinha ou frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1304",
+    "content": "Pescoço de galinha ou frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1305",
+    "content": "Pescoço de galinha ou frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1306",
+    "content": "Pescoço de galinha ou frango",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1307",
+    "content": "Pescoço de galinha ou frango",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1308",
+    "content": "Pé de galinha ou frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1309",
+    "content": "Pé de galinha ou frango",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1310",
+    "content": "Pé de galinha ou frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1311",
+    "content": "Pé de galinha ou frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1312",
+    "content": "Pé de galinha ou frango",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1313",
+    "content": "Pé de galinha ou frango",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1314",
+    "content": "Pé de galinha ou frango",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1315",
+    "content": "Miúdo de galinha ou frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1316",
+    "content": "Miúdo de galinha ou frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1317",
+    "content": "Miúdo de galinha ou frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1318",
+    "content": "Miúdo de galinha ou frango",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1319",
+    "content": "Miúdo de galinha ou frango",
+    "description": "Sopa"
+  },
+  {
+    "id": "1320",
+    "content": "Moela de galinha ou frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1321",
+    "content": "Moela de galinha ou frango",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1322",
+    "content": "Moela de galinha ou frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1323",
+    "content": "Moela de galinha ou frango",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1324",
+    "content": "Moela de galinha ou frango",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1325",
+    "content": "Moela de galinha ou frango",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1326",
+    "content": "Moela de galinha ou frango",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1327",
+    "content": "Moela de galinha ou frango",
+    "description": "Sopa"
+  },
+  {
+    "id": "1328",
+    "content": "Coração de frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1329",
+    "content": "Coração de frango",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1330",
+    "content": "Coração de frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1331",
+    "content": "Coração de frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1332",
+    "content": "Coração de frango",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1333",
+    "content": "Fígado de galinha ou frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1334",
+    "content": "Fígado de galinha ou frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1335",
+    "content": "Fígado de galinha ou frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1336",
+    "content": "Canja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1337",
+    "content": "Peru em pedaço não especificado",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1338",
+    "content": "Peru em pedaço não especificado",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1339",
+    "content": "Peru em pedaço não especificado",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1340",
+    "content": "Peru em pedaço não especificado",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1341",
+    "content": "Peito de peru",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1342",
+    "content": "Peito de peru",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1343",
+    "content": "Peito de peru",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1344",
+    "content": "Peito de peru",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1345",
+    "content": "Peito de peru",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1346",
+    "content": "Peito de peru",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1347",
+    "content": "Peito de peru",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1348",
+    "content": "Asa de peru",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1349",
+    "content": "Asa de peru",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1350",
+    "content": "Chester",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1351",
+    "content": "Chester",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1352",
+    "content": "Chester",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1353",
+    "content": "Tender",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1354",
+    "content": "Nambu",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1355",
+    "content": "Nuggets de frango",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1356",
+    "content": "Nuggets de frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1357",
+    "content": "Nuggets de frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1358",
+    "content": "Nuggets de frango",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1359",
+    "content": "Nuggets de frango",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1360",
+    "content": "Steak de frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1361",
+    "content": "Steak de frango",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1362",
+    "content": "Steak de frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1363",
+    "content": "Steak de frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1364",
+    "content": "Steak de frango",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1365",
+    "content": "Steak de frango",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1366",
+    "content": "Codorna",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1367",
+    "content": "Pé e asa de galinha ou frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1368",
+    "content": "Pé e asa de galinha ou frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1369",
+    "content": "Pé e asa de galinha ou frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1370",
+    "content": "Ovo de galinha",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1371",
+    "content": "Ovo de galinha",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1372",
+    "content": "Ovo de galinha",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1373",
+    "content": "Ovo de galinha",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1374",
+    "content": "Ovo de galinha",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1375",
+    "content": "Ovo de galinha",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1376",
+    "content": "Ovo de galinha",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "1377",
+    "content": "Ovo de galinha",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "1378",
+    "content": "Ovo de galinha",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "1379",
+    "content": "Ovo de galinha",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1380",
+    "content": "Ovo de galinha",
+    "description": "Mingau"
+  },
+  {
+    "id": "1381",
+    "content": "Ovo de galinha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1382",
+    "content": "Ovo de codorna",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1383",
+    "content": "Ovo de codorna",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1384",
+    "content": "Ovo de codorna",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1385",
+    "content": "Ovo de codorna",
+    "description": "Ao vinagrete"
+  },
+  {
+    "id": "1386",
+    "content": "Ovo de codorna",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1387",
+    "content": "Galinha-d'angola abatida, congelada ou viva",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1388",
+    "content": "Galinha-d'angola abatida, congelada ou viva",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1389",
+    "content": "Capote",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1390",
+    "content": "Capote",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1391",
+    "content": "Capote",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1392",
+    "content": "Mutum",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1393",
+    "content": "Pato em pedaços",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1394",
+    "content": "Pato em pedaços",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1395",
+    "content": "Peito de pato",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1396",
+    "content": "Carne de pato",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1397",
+    "content": "Carne de pato",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1398",
+    "content": "Carne de pato",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1399",
+    "content": "Peito de peru light",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1400",
+    "content": "Peito de peru light",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1401",
+    "content": "Peito de peru light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1402",
+    "content": "Frango inteiro orgânico",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1403",
+    "content": "Frango inteiro orgânico",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1404",
+    "content": "Filé de frango orgânico",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1405",
+    "content": "Filé de frango orgânico",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1406",
+    "content": "Filé de frango orgânico",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1407",
+    "content": "Filé de frango orgânico",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1408",
+    "content": "Leite de vaca integral",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1409",
+    "content": "Leite de vaca fresco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1410",
+    "content": "Leite de cabra",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1411",
+    "content": "Leite em pó integral",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1412",
+    "content": "Leite em pó desnatado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1413",
+    "content": "Leite em pó",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1414",
+    "content": "Leite condensado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1415",
+    "content": "Leite beijinho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1416",
+    "content": "Creme de leite",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1417",
+    "content": "Chantilly",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1418",
+    "content": "Iogurte de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1419",
+    "content": "Iogurte desnatado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1420",
+    "content": "Iogurte natural",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1421",
+    "content": "Yakult de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1422",
+    "content": "Bebida láctea",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1423",
+    "content": "Leite fermentado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1424",
+    "content": "Coalhada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1425",
+    "content": "Manteiga com ou sem sal",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1426",
+    "content": "Manteiga de garrafa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1427",
+    "content": "Margarina com ou sem sal",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1428",
+    "content": "Queijo prato",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1429",
+    "content": "Queijo colonial",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1430",
+    "content": "Queijo de colônia",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1431",
+    "content": "Queijo muçarela",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1432",
+    "content": "Muçarela",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1433",
+    "content": "Muçarela de búfala",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1434",
+    "content": "Queijo de búfala",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1435",
+    "content": "Queijo de reino",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1436",
+    "content": "Queijo de minas",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1437",
+    "content": "Queijo de manteiga",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1438",
+    "content": "Quechimia",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1439",
+    "content": "Queijo de coalho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1440",
+    "content": "Queijo canastra",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1441",
+    "content": "Queijo ricota",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1442",
+    "content": "Leite de soja com sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1443",
+    "content": "Ades original",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1444",
+    "content": "Queijo ralado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1445",
+    "content": "Queijo provolone",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1446",
+    "content": "Queijo polenguinho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1447",
+    "content": "Requeijão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1448",
+    "content": "Queijo cremoso",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1449",
+    "content": "Queijo não especificado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1450",
+    "content": "Leite com sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1451",
+    "content": "Leite achocolatado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1452",
+    "content": "Leite aRomãtizado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1453",
+    "content": "Bebida achocolatada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1454",
+    "content": "Nata",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1455",
+    "content": "Queijo gorgonzola",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1456",
+    "content": "Tofu",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1457",
+    "content": "Leite de soja em pó",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1458",
+    "content": "Leite de vaca desnatado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1459",
+    "content": "Leite de vaca semidesnatado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1460",
+    "content": "Leite não especificado pasteurizado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1461",
+    "content": "Iogurte de qualquer sabor light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1462",
+    "content": "Iogurte de qualquer sabor diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1463",
+    "content": "Margarina light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1464",
+    "content": "Leite de vaca integral orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1465",
+    "content": "Leite de vaca fresco orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1466",
+    "content": "Leite semidesnatado de vaca orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1467",
+    "content": "Creme de leite orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1468",
+    "content": "Iogurte de qualquer sabor orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1469",
+    "content": "Iogurte de qualquer sabor desnatado orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1470",
+    "content": "Iogurte natural de qualquer sabor orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1471",
+    "content": "Muçarela light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1472",
+    "content": "Queijo muçarela light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1473",
+    "content": "Leite de soja com sabor light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1474",
+    "content": "Ades light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1475",
+    "content": "Creme de leite light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1476",
+    "content": "Queijo prato light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1477",
+    "content": "Queijo de minas light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1478",
+    "content": "Queijo de coalho light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1479",
+    "content": "Queijo ricota light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1480",
+    "content": "Queijo ralado light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1481",
+    "content": "Queijo polenguinho light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1482",
+    "content": "Requeijão light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1483",
+    "content": "Queijo não especificado light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1484",
+    "content": "Leite achocolatado light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1485",
+    "content": "Bebida achocolatada light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1486",
+    "content": "Leite com sabor diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1487",
+    "content": "Leite achocolatado diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1488",
+    "content": "Bebida achocolatada diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1489",
+    "content": "Leite de soja em pó light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1490",
+    "content": "Leite em pó com sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1491",
+    "content": "Manteiga com ou sem sal light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1492",
+    "content": "Queijo de minas frescal orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1493",
+    "content": "Queijo de coalho frescal orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1494",
+    "content": "Pão de hambúrguer",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1495",
+    "content": "Pão de sal",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1496",
+    "content": "Pão doce",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1497",
+    "content": "Chineque",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1498",
+    "content": "Chineque com farofa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1499",
+    "content": "Pão de mel",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1500",
+    "content": "Panetone",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1501",
+    "content": "Bisnaguinha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1502",
+    "content": "Croissant",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1503",
+    "content": "Pão de forma industrializado de qualquer marca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1504",
+    "content": "Pão de queijo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1505",
+    "content": "Pão de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1506",
+    "content": "Pão integral",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1507",
+    "content": "Pão não especificado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1508",
+    "content": "Torrada de qualquer pão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1509",
+    "content": "Rosca doce",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1510",
+    "content": "Rosquinha doce",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1511",
+    "content": "Rosca salgada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1512",
+    "content": "Rosquinha salgada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1513",
+    "content": "Biscoito salgado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1514",
+    "content": "Presuntinho biscoito",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1515",
+    "content": "Biscoito de polvilho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1516",
+    "content": "Bolacha salgada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1517",
+    "content": "Chips (salgadinhos)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1518",
+    "content": "Baconzitos",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1519",
+    "content": "Biscoito salgado integral",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1520",
+    "content": "Biscoito doce",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1521",
+    "content": "Cavaco chinês",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1522",
+    "content": "Sequilho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1523",
+    "content": "Tareço",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1524",
+    "content": "Solda",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1525",
+    "content": "Brevidade",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1526",
+    "content": "Bolacha doce",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1527",
+    "content": "Maria maluca (bolacha doce)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1528",
+    "content": "Quebra-quebra",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1529",
+    "content": "Rocambole",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1530",
+    "content": "Cuca de qualquer tipo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1531",
+    "content": "Bolo de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1532",
+    "content": "Amidomil (bolinho)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1533",
+    "content": "Angusor de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1534",
+    "content": "Grustoli (bolinho doce)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1535",
+    "content": "Bolo de aipim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1536",
+    "content": "Bolo de tapioca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1537",
+    "content": "Bolo de macaxeira",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1538",
+    "content": "Bolo de goma",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1539",
+    "content": "Bolo de batata-doce",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1540",
+    "content": "Bolo de arroz",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1541",
+    "content": "Bolo de cará",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1542",
+    "content": "Tortas doces de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1543",
+    "content": "Tortas salgadas de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1544",
+    "content": "Sonho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1545",
+    "content": "Filhos (bolinho de farinha de trigo e ovos)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1546",
+    "content": "Bolo de chocolate",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1547",
+    "content": "Brioche",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1548",
+    "content": "Bolo de laranja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1549",
+    "content": "Bolo de coco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1550",
+    "content": "Bolo de cenoura",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1551",
+    "content": "Bolo de trigo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1552",
+    "content": "Broa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1553",
+    "content": "Biscoito recheado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1554",
+    "content": "Waffer (biscoito)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1555",
+    "content": "Alfajores (biscoito)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1556",
+    "content": "Bolacha recheada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1557",
+    "content": "Rosca recheada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1558",
+    "content": "Rosquinha recheada de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1559",
+    "content": "Biscoito não especificado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1560",
+    "content": "Crepe",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1561",
+    "content": "Pão diet (de forma industrializado)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1562",
+    "content": "Pão light (de forma industrializado)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1563",
+    "content": "Pão de queijo light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1564",
+    "content": "Pão integral light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1565",
+    "content": "Tortas doces de qualquer sabor light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1566",
+    "content": "Tortas doces de qualquer sabor diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1567",
+    "content": "Filhos (bolinho de farinha de trigo e ovos) light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1568",
+    "content": "Filhos (bolinho de farinha de trigo e ovos) diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1569",
+    "content": "Bolo de chocolate light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1570",
+    "content": "Bolo de chocolate diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1571",
+    "content": "Bolo de laranja light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1572",
+    "content": "Bolo de coco diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1573",
+    "content": "Bolo de cenoura diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1574",
+    "content": "Biscoito recheado light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1575",
+    "content": "Biscoito waffer light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1576",
+    "content": "Waffer (biscoito) light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1577",
+    "content": "Alfajores (biscoito) light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1578",
+    "content": "Bolacha recheada light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1579",
+    "content": "Biscoito recheado diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1580",
+    "content": "Rosquinha recheada de qualquer sabor diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1581",
+    "content": "Bolacha recheada diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1582",
+    "content": "Pão doce diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1583",
+    "content": "Pão de mel diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1584",
+    "content": "Panetone diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1585",
+    "content": "Biscoito salgado light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1586",
+    "content": "Bolacha salgada light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1587",
+    "content": "Chips (salgadinhos) light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1588",
+    "content": "Biscoito doce light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1589",
+    "content": "Bolacha doce light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1590",
+    "content": "Biscoito doce diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1591",
+    "content": "Bolacha doce diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1592",
+    "content": "Bolo de banana",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1593",
+    "content": "Carne-seca",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1594",
+    "content": "Carne-seca",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1595",
+    "content": "Carne-seca",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1596",
+    "content": "Carne-seca",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1597",
+    "content": "Carne-seca",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1598",
+    "content": "Carne-seca",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1599",
+    "content": "Carne-seca",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1600",
+    "content": "Carne de charque",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1601",
+    "content": "Carne de charque",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1602",
+    "content": "Carne de charque",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1603",
+    "content": "Carne de charque",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1604",
+    "content": "Carne de charque",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1605",
+    "content": "Carne de charque",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1606",
+    "content": "Carne de charque",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1607",
+    "content": "Carne de charque",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1608",
+    "content": "Jabá",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1609",
+    "content": "Jabá",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1610",
+    "content": "Jabá",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1611",
+    "content": "Jabá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1612",
+    "content": "Carne de sol",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1613",
+    "content": "Carne de sol",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1614",
+    "content": "Carne de sol",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1615",
+    "content": "Carne de sol",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1616",
+    "content": "Carne de sol",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1617",
+    "content": "Carne de sol",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1618",
+    "content": "Carne do sertão",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1619",
+    "content": "Carne do sertão",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1620",
+    "content": "Carne do sertão",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1621",
+    "content": "Hambúrguer de carne bovina",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1622",
+    "content": "Hambúrguer de carne bovina",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1623",
+    "content": "Hambúrguer de carne bovina",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1624",
+    "content": "Hambúrguer de carne bovina",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1625",
+    "content": "Hambúrguer de carne bovina",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1626",
+    "content": "Hambúrguer de carne bovina",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1627",
+    "content": "Hambúrguer de carne bovina",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1628",
+    "content": "Copa de porco defumada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1629",
+    "content": "Bacon",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1630",
+    "content": "Hambúrguer de frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1631",
+    "content": "Hambúrguer de frango",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1632",
+    "content": "Hambúrguer de frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1633",
+    "content": "Hambúrguer de frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1634",
+    "content": "Hambúrguer de frango",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1635",
+    "content": "Hambúrguer de frango",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1636",
+    "content": "Salsicha no varejo",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1637",
+    "content": "Salsicha no varejo",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1638",
+    "content": "Salsicha no varejo",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1639",
+    "content": "Salsicha no varejo",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1640",
+    "content": "Salsicha no varejo",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1641",
+    "content": "Salsicha no varejo",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1642",
+    "content": "Salsicha no varejo",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1643",
+    "content": "Salsicha no varejo",
+    "description": "Molho branco"
+  },
+  {
+    "id": "1644",
+    "content": "Salsicha no varejo",
+    "description": "Ao alho e óleo"
+  },
+  {
+    "id": "1645",
+    "content": "Salsicha no varejo",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "1646",
+    "content": "Salsicha no varejo",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1647",
+    "content": "Salsicha no varejo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1648",
+    "content": "Linguiça (suína, bovina, mista, etc.)",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1649",
+    "content": "Linguiça (suína, bovina, mista, etc.)",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1650",
+    "content": "Linguiça (suína, bovina, mista, etc.)",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1651",
+    "content": "Linguiça (suína, bovina, mista, etc.)",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1652",
+    "content": "Linguiça (suína, bovina, mista, etc.)",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1653",
+    "content": "Linguiça (suína, bovina, mista, etc.)",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1654",
+    "content": "Linguiça (suína, bovina, mista, etc.)",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1655",
+    "content": "Linguiça (suína, bovina, mista, etc.)",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1656",
+    "content": "Linguiça (suína, bovina, mista, etc.)",
+    "description": "Com manteiga/óleo"
+  },
+  {
+    "id": "1657",
+    "content": "Linguiça (suína, bovina, mista, etc.)",
+    "description": "Ensopado"
+  },
+  {
+    "id": "1658",
+    "content": "Linguiça (suína, bovina, mista, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1659",
+    "content": "Linguiça de frango",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1660",
+    "content": "Linguiça de frango",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1661",
+    "content": "Linguiça de frango",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1662",
+    "content": "Linguiça de frango",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1663",
+    "content": "Linguiça de frango",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1664",
+    "content": "Chouriço",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1665",
+    "content": "Morcela",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1666",
+    "content": "Morcilha",
+    "description": "Cru(a)"
+  },
+  {
+    "id": "1667",
+    "content": "Morcilha",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1668",
+    "content": "Paio",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1669",
+    "content": "Mortadela",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1670",
+    "content": "Salame",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1671",
+    "content": "Salaminho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1672",
+    "content": "Blanquet de peru",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1673",
+    "content": "Presunto",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1674",
+    "content": "Hambúrguer de peru",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1675",
+    "content": "Hambúrguer de peru",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1676",
+    "content": "Hambúrguer de peru",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1677",
+    "content": "Hambúrguer não especificado",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1678",
+    "content": "Hambúrguer não especificado",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1679",
+    "content": "Hambúrguer não especificado",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1680",
+    "content": "Hambúrguer não especificado",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1681",
+    "content": "Hambúrguer não especificado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1682",
+    "content": "Apresuntado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1683",
+    "content": "Pururuca de porco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1684",
+    "content": "Pele de porco preparada (pururuca)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1685",
+    "content": "Patê (fígado, calabresa, frango, presunto, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1686",
+    "content": "Carne de aves defumada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1687",
+    "content": "Carne salgada não especificada",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1688",
+    "content": "Carne salgada não especificada",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1689",
+    "content": "Carne salgada não especificada",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1690",
+    "content": "Carne salgada não especificada",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1691",
+    "content": "Carne salgada não especificada",
+    "description": "Refogado(a)"
+  },
+  {
+    "id": "1692",
+    "content": "Carne salgada não especificada",
+    "description": "Molho vermelho"
+  },
+  {
+    "id": "1693",
+    "content": "Carne salgada não especificada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1694",
+    "content": "Mini chicken empanado",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1695",
+    "content": "Mini chicken empanado",
+    "description": "Grelhado(a)/brasa/churrasco"
+  },
+  {
+    "id": "1696",
+    "content": "Mini chicken empanado",
+    "description": "Assado(a)"
+  },
+  {
+    "id": "1697",
+    "content": "Mini chicken empanado",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1698",
+    "content": "Mini chicken empanado",
+    "description": "Empanado(a)/à milanesa"
+  },
+  {
+    "id": "1699",
+    "content": "Mortadela light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1700",
+    "content": "Salsicha no varejo light",
+    "description": "Frito(a)"
+  },
+  {
+    "id": "1701",
+    "content": "Salame light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1702",
+    "content": "Blanquet de peru light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1703",
+    "content": "Hambúrguer não especificado light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1704",
+    "content": "Refrigerante de cola tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1705",
+    "content": "Coca-cola tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1706",
+    "content": "Fanta laranja tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1707",
+    "content": "Sukita tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1708",
+    "content": "Refrigerante de guaraná tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1709",
+    "content": "Guaraná tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1710",
+    "content": "Sprit refrigerante tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1711",
+    "content": "Fanta uva tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1712",
+    "content": "Refrigerante de cola light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1713",
+    "content": "Coca-cola light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1714",
+    "content": "Refrigerante de cola diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1715",
+    "content": "Minuano tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1716",
+    "content": "Mate tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1717",
+    "content": "Bidu tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1718",
+    "content": "Fanta laranja light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1719",
+    "content": "Refrigerante de guaraná light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1720",
+    "content": "Guaraná light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1721",
+    "content": "Tubaína tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1722",
+    "content": "Tubaína light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1723",
+    "content": "Caldo de cana",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1724",
+    "content": "Garapá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1725",
+    "content": "Água de coco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1726",
+    "content": "Q-suco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1727",
+    "content": "Q-refresko",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1728",
+    "content": "Nescafé",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1729",
+    "content": "Erva-mate",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1730",
+    "content": "Chimarrão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1731",
+    "content": "Tereré",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1732",
+    "content": "Levedo de cerveja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1733",
+    "content": "Refrigerante não especificado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1734",
+    "content": "Cevada em pó",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1735",
+    "content": "Chocomilk",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1736",
+    "content": "Água tônica tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1737",
+    "content": "Chá diet (preto, camomila, erva-cidreira, capim-limão, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1738",
+    "content": "Paraguai refrigerante tradicional",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1739",
+    "content": "Gatorade",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1740",
+    "content": "Bebida energética",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1741",
+    "content": "Chá (preto, camomila, erva-cidreira, capim-limão, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1742",
+    "content": "Café solúvel capuccino",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1743",
+    "content": "Refrigerante de guaraná diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1744",
+    "content": "Guaraná diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1745",
+    "content": "Refrigerante de limão diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1746",
+    "content": "Fanta uva light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1747",
+    "content": "Mate light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1748",
+    "content": "Água tônica light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1749",
+    "content": "Paraguai refrigerante light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1750",
+    "content": "Q-suco light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1751",
+    "content": "Q-refresko light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1752",
+    "content": "Q-suco diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1753",
+    "content": "Café capuccino solúvel light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1754",
+    "content": "Café capuccino solúvel diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1755",
+    "content": "Água tônica diet",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1756",
+    "content": "Refrigerante de quinino dietético",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1757",
+    "content": "Chá mate orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1758",
+    "content": "Chimarrão orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1759",
+    "content": "Suco de clorofila",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1760",
+    "content": "Café com farinha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1761",
+    "content": "Cerveja (com ou sem álcool)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1762",
+    "content": "Chopp",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1763",
+    "content": "Aguardente",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1764",
+    "content": "Cachaça",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1765",
+    "content": "Batida de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1766",
+    "content": "Rum",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1767",
+    "content": "Vodka",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1768",
+    "content": "Uísque",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1769",
+    "content": "Whisky",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1770",
+    "content": "Champanhe",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1771",
+    "content": "Sidra champanhe",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1772",
+    "content": "Martini",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1773",
+    "content": "Conhaque",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1774",
+    "content": "Drink dreher",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1775",
+    "content": "Licor de qualquer sabor",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1776",
+    "content": "Cajuína",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1777",
+    "content": "Vinho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1778",
+    "content": "Catuaba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1779",
+    "content": "Coquetel de frutas",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1780",
+    "content": "Caipirinha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1781",
+    "content": "Bebida alcoólica",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1782",
+    "content": "Vinho orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1783",
+    "content": "Cerveja (com ou sem álcool) light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1784",
+    "content": "Caxiri (aguardente de mandioca)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1785",
+    "content": "Azeite de oliva",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1786",
+    "content": "Óleo de soja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1787",
+    "content": "Banha suína",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1788",
+    "content": "Banha bovina",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1789",
+    "content": "Óleo não especificado",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1790",
+    "content": "Óleo de dendê",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1791",
+    "content": "Salgadinho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1792",
+    "content": "Pastel (queijo, carne, palmito, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1793",
+    "content": "Croquete",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1794",
+    "content": "Coxinha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1795",
+    "content": "Empada (queijo, carne, camarão, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1796",
+    "content": "Rissole  (queijo, carne, camarão, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1797",
+    "content": "Acarajé",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1798",
+    "content": "Torresmo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1799",
+    "content": "Quibe",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1800",
+    "content": "Abará (Bahia)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1801",
+    "content": "Paçoca de carne de sol",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1802",
+    "content": "Angu frito",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1803",
+    "content": "Angu de milho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1804",
+    "content": "Polenta",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1805",
+    "content": "Esfirra",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1806",
+    "content": "Esfirra de carne",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1807",
+    "content": "Esfirra de queijo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1808",
+    "content": "Esfirra de ricota",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1809",
+    "content": "Esfirra de frango",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1810",
+    "content": "Enroladinho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1811",
+    "content": "Bolinho de aipim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1812",
+    "content": "Bolinho de bacalhau",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1813",
+    "content": "Cachorro-quente",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1814",
+    "content": "Hambúrguer (sanduíche)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1815",
+    "content": "Cheeseburger",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1816",
+    "content": "Eggsburger",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1817",
+    "content": "Bauru",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1818",
+    "content": "Americano",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1819",
+    "content": "Misto-quente ou frio",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1820",
+    "content": "Sanduíche de queijo prato",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1821",
+    "content": "Sanduíche de salame",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1822",
+    "content": "Sanduíche de presunto",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1823",
+    "content": "Sanduíche de queijo prato com presunto",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1824",
+    "content": "Sanduíche de mortadela",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1825",
+    "content": "Sanduíche de queijo minas",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1826",
+    "content": "Cheese egg",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1827",
+    "content": "Cheese tudo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1828",
+    "content": "Sanduíche natural",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1829",
+    "content": "Suco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1830",
+    "content": "Suco de abacaxi",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1831",
+    "content": "Suco de acerola",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1832",
+    "content": "Suco de beterraba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1833",
+    "content": "Suco de cupuaçu",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1834",
+    "content": "Suco de goiaba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1835",
+    "content": "Suco de laranja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1836",
+    "content": "Suco de laranja com banana",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1837",
+    "content": "Suco de laranja e beterraba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1838",
+    "content": "Suco de laranja e cenoura",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1839",
+    "content": "Suco de laranja cenoura e beterraba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1840",
+    "content": "Suco de mamão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1841",
+    "content": "Suco de manga",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1842",
+    "content": "Suco de maracujá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1843",
+    "content": "Suco de melão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1844",
+    "content": "Suco de morango",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1845",
+    "content": "Suco de pêssego",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1846",
+    "content": "Suco de pêssego em calda",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1847",
+    "content": "Vitamina",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1848",
+    "content": "Vitamina de banana",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1849",
+    "content": "Vitamina de banana com aveia",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1850",
+    "content": "Vitamina de mamão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1851",
+    "content": "Vitamina de abacate",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1852",
+    "content": "Vitamina de morango",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1853",
+    "content": "Vitamina mista",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1854",
+    "content": "Vitamina de maçã",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1855",
+    "content": "Refresco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1856",
+    "content": "Refresco de caju",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1857",
+    "content": "Refresco de groselha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1858",
+    "content": "Refresco de laranja",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1859",
+    "content": "Refresco de maracujá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1860",
+    "content": "Refresco de limão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1861",
+    "content": "Salada ou verdura cozida, exceto de fruta",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1862",
+    "content": "Salada de maionese",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1863",
+    "content": "Pizza",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1864",
+    "content": "Lasanha pronta light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1865",
+    "content": "Nhoque",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1866",
+    "content": "Caneloni",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1867",
+    "content": "Capeleti",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1868",
+    "content": "Ravioli",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1869",
+    "content": "Calzone",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1870",
+    "content": "Panqueca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1871",
+    "content": "Pizza calabreza",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1872",
+    "content": "Pizza muçarela",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1873",
+    "content": "Pizza presunto",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1874",
+    "content": "Pizza portuguesa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1875",
+    "content": "Macarronada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1876",
+    "content": "Galeto",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1877",
+    "content": "Costela",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1878",
+    "content": "Pipoca doce ou salgada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1879",
+    "content": "Café",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1880",
+    "content": "Café com leite",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1881",
+    "content": "Café tipo expresso",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1882",
+    "content": "Café tipo capuccino",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1883",
+    "content": "Milho cozido",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1884",
+    "content": "Batata palito",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1885",
+    "content": "Batata palha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1886",
+    "content": "Mungunzá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1887",
+    "content": "Canjica",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1888",
+    "content": "Curau",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1889",
+    "content": "Farofa",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1890",
+    "content": "Mingau (fubá,  aveia, farinha, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1891",
+    "content": "Tacacá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1892",
+    "content": "Bolinho de coco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1893",
+    "content": "Risoto",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1894",
+    "content": "Vatapá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1895",
+    "content": "Farofa pronta",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1896",
+    "content": "Caldo de carne",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1897",
+    "content": "Caldo-de-feijão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1898",
+    "content": "Caldo de mocotó",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1899",
+    "content": "Baião de dois",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1900",
+    "content": "Churrasco",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1901",
+    "content": "Sushi",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1902",
+    "content": "Salada de frutas",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1903",
+    "content": "Sopa (legumes, carne, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1904",
+    "content": "Salpicão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1905",
+    "content": "Charuto de repolho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1906",
+    "content": "Arroz à grega",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1907",
+    "content": "Arrumadinho",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1908",
+    "content": "Bobó de camarão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1909",
+    "content": "Caruru (quiabo, amendoim, castanha de caju, camarão seco, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1910",
+    "content": "Cuscuz paulista",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1911",
+    "content": "Empadão (queijo, frango, camarão, palmito, etc.)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1912",
+    "content": "Farofa de banana",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1913",
+    "content": "Feijão-tropeiro",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1914",
+    "content": "Galinha com arroz",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1915",
+    "content": "Galinhada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1916",
+    "content": "Moqueca baiana",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1917",
+    "content": "Omelete",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1918",
+    "content": "Pirão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1919",
+    "content": "Quibebe",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1920",
+    "content": "Quiche",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1921",
+    "content": "Suflê",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1922",
+    "content": "Tutu",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1923",
+    "content": "Moqueca capixaba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1924",
+    "content": "Maniçoba",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1925",
+    "content": "Caldo verde",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1926",
+    "content": "Arroz de cuxá",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1927",
+    "content": "Angu à baiana",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1928",
+    "content": "Chocolate",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1929",
+    "content": "Gemada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1930",
+    "content": "Açaí com granola",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1931",
+    "content": "Suco orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1932",
+    "content": "Suco de abacaxi orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1933",
+    "content": "Suco de acerola orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1934",
+    "content": "Suco de goiaba orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1935",
+    "content": "Suco de laranja orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1936",
+    "content": "Suco de laranja cenoura e beterraba orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1937",
+    "content": "Suco de manga orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1938",
+    "content": "Suco de maracujá orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1939",
+    "content": "Suco de morango orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1940",
+    "content": "Suco de pêssego orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1941",
+    "content": "Suco de pêssego em calda orgânico",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1942",
+    "content": "Pizza pronta light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1943",
+    "content": "Lasanha pronta light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1944",
+    "content": "Macarrão pronto light",
+    "description": "Cozido(a)"
+  },
+  {
+    "id": "1945",
+    "content": "Pizza portuguesa light",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1946",
+    "content": "Farofa pronta light em pacote",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1947",
+    "content": "Vaca atolada",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1948",
+    "content": "Salada ou verdura crua, exceto de fruta",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1949",
+    "content": "Outros legumes cozidos",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1950",
+    "content": "Café da manha",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1951",
+    "content": "Prato de comida brasileira",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1952",
+    "content": "Prato de comida do nordeste",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1953",
+    "content": "Prato de comida do norte",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1954",
+    "content": "Prato de comida do sudeste",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1955",
+    "content": "Prato de comida do sul",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1956",
+    "content": "Prato de comida do centro-oeste",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1957",
+    "content": "Arroz com feijão",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1958",
+    "content": "Pão com manteiga",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1959",
+    "content": "Pão com margarina",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1960",
+    "content": "Pão com ovo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1961",
+    "content": "Carne com batata, inhame, batata-baroa ou aipim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1962",
+    "content": "Carne com legumes (exceto batata, inhame e aipim)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1963",
+    "content": "Frango com batata, inhame batata-baroa ou aipim",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1964",
+    "content": "Frango com legumes (exceto batata, inhame e aipim)",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1965",
+    "content": "Abobora com quiabo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1966",
+    "content": "Arroz carreteiro",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1967",
+    "content": "Maria izabel",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1968",
+    "content": "Arroz de leite",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1969",
+    "content": "Arroz com mandioca",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1970",
+    "content": "Arroz com ovo",
+    "description": "Não se aplica"
+  },
+  {
+    "id": "1971",
+    "content": "Palma",
+    "description": "Não se aplica"
+  }
+]

@@ -2,7 +2,21 @@ import React from 'react';
 import { Button, Dropdown, Form } from 'semantic-ui-react';
 
 import './FoodForm.css';
+import foodList from '../data/foodList.json';
 
+// TODO: Find out why it is lagging, and fix it.
+const options = foodList.map(food => {
+  const option = {
+    key: food.id,
+    content: food.name,
+    description: food.prepMethod,
+    value: `${food.name} ${food.prepMethod}`
+  };
+
+  return option;
+});
+
+// FoodForm component
 const FoodForm = () => {
   return (
     <div className="food-form">
@@ -10,7 +24,14 @@ const FoodForm = () => {
         <Form.Group>
           <div className="form-content">
             <div className="form-select">
-              <Form.Select label="Alimento" placeholder="Nome do alimento" />
+              <Form.Select
+                deburr
+                fluid
+                label="Alimento"
+                options={options.slice(0, 10)}
+                placeholder="Nome do alimento"
+                search
+              />
             </div>
             <Form.Input
               action={<Dropdown button basic />}
