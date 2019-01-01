@@ -1,0 +1,17 @@
+.form-content {
+  align-items: center;
+  display: flex;
+  text-align: left;
+  width: 100%;
+}
+.form-content > * {
+  padding: 0 0.5rem;
+}
+
+.form-select {
+  flex-grow: 1;
+}
+
+.form-button label {
+  visibility: hidden;
+}
