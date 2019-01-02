@@ -11,6 +11,9 @@ class FoodDropdown extends Component {
     const searchQuery = e.target.value;
     this.setState({ searchQuery, selected: false, value: searchQuery });
     this.updateFoodItems(searchQuery);
+
+    // De-select food in parent component
+    this.props.handleSelect(null);
   };
 
   handleClick = e => {
