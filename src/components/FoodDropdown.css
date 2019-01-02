@@ -2,4 +2,5 @@
   position: absolute;
   margin: 0;
   width: 30em;
+  z-index: 1000;
 }
