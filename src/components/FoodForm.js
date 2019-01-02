@@ -38,11 +38,11 @@ class FoodForm extends React.Component {
     return (
       <div className="food-form">
         <Form>
-          <Form.Group>
-            <div className="form-content">
-              <div className="form-dropdown">
-                <FoodDropdown handleSelect={this.handleFoodChange} />
-              </div>
+          <Form.Group className="form-content">
+            <div className="form-dropdown">
+              <FoodDropdown handleSelect={this.handleFoodChange} />
+            </div>
+            <div className="form-quantity">
               <Form.Field>
                 <label>Quantidade</label>
                 <Input
@@ -52,20 +52,20 @@ class FoodForm extends React.Component {
                   placeholder="Qtd."
                 />
               </Form.Field>
-              <div className="form-button">
-                <Form.Field>
-                  <label>Adicionar</label>
-                  <Popup
-                    content="Preencha o nome do alimento e a quantidade consumida."
-                    label="Adicionar"
-                    on="click"
-                    onOpen={this.handleSubmit}
-                    open={this.state.popupIsOpen}
-                    position="top right"
-                    trigger={<Button content="Adicionar" />}
-                  />
-                </Form.Field>
-              </div>
+            </div>
+            <div className="form-button">
+              <Form.Field>
+                <label>Adicionar</label>
+                <Popup
+                  content="Preencha o nome do alimento e a quantidade consumida."
+                  label="Adicionar"
+                  on="click"
+                  onOpen={this.handleSubmit}
+                  open={this.state.popupIsOpen}
+                  position="top right"
+                  trigger={<Button content="Adicionar" />}
+                />
+              </Form.Field>
             </div>
           </Form.Group>
         </Form>

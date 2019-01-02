@@ -2,6 +2,7 @@ import React from 'react';
 import { Grid, Segment } from 'semantic-ui-react';
 
 import FoodForm from './FoodForm';
+import './App.css';
 
 const App = () => {
   return (
@@ -11,10 +12,11 @@ const App = () => {
         style={{ height: '100%' }}
         verticalAlign="middle"
       >
-        <Grid.Column style={{ maxWidth: '60rem' }}>
+        <Grid.Column className="app-container" style={{ height: '100%' }}>
           <Segment>
             <FoodForm />
           </Segment>
+          <Segment className="food-output">test</Segment>
         </Grid.Column>
       </Grid>
     </div>

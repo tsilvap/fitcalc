@@ -1,0 +1,12 @@
+body {
+  padding: 2rem 1rem 0rem 1rem;
+}
+
+.column.app-container {
+  display: flex !important;
+  max-width: 60rem;
+}
+
+.ui.segment.food-output {
+  flex: 1;
+}
