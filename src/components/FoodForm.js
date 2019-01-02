@@ -2,26 +2,10 @@ import React from 'react';
 import { connect } from 'react-redux';
 import { Button, Form, Input, Popup } from 'semantic-ui-react';
 
+import FoodDropdown from './FoodDropdown';
 import './FoodForm.css';
 import foodList from '../data/foodList.json';
 import { addFood } from '../actions';
-
-const options = foodList.map(food => {
-  const option = {
-    key: food.id,
-    content: food.name,
-    description: food.prepMethod,
-    value: food.id,
-    text: (
-      <div>
-        {food.name}
-        <span className="description">{food.prepMethod}</span>
-      </div>
-    )
-  };
-
-  return option;
-});
 
 class FoodForm extends React.Component {
   state = { popupIsOpen: false };
@@ -56,16 +40,8 @@ class FoodForm extends React.Component {
         <Form>
           <Form.Group>
             <div className="form-content">
-              <div className="form-select">
-                <Form.Select
-                  deburr
-                  fluid
-                  label="Alimento"
-                  onChange={(e, { value }) => this.handleFoodChange(value)}
-                  options={options.slice(0, 10)}
-                  placeholder="Nome do alimento"
-                  search
-                />
+              <div className="form-dropdown">
+                <FoodDropdown handleSelect={this.handleFoodChange} />
               </div>
               <Form.Field>
                 <label>Quantidade</label>
