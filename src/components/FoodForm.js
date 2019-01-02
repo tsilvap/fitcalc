@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Dropdown, Form } from 'semantic-ui-react';
+import { Button, Input, Form } from 'semantic-ui-react';
 
 import './FoodForm.css';
 import foodList from '../data/foodList.json';
@@ -38,11 +38,14 @@ const FoodForm = () => {
                 search
               />
             </div>
-            <Form.Input
-              action={<Dropdown button basic />}
-              label="Quantidade"
-              placeholder="Qtd."
-            />
+            <Form.Field>
+              <label>Quantidade</label>
+              <Input
+                label="gramas (g)"
+                labelPosition="right"
+                placeholder="Qtd."
+              />
+            </Form.Field>
             <div className="form-button">
               <Form.Field
                 control={Button}
