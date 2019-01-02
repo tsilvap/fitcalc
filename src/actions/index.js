@@ -1,8 +1,8 @@
 // Add food to FoodsConsumed.
-export const addFood = (food, quantity, unit) => {
+export const addFood = (food, quantity) => {
   return {
     type: 'ADD_FOOD',
-    payload: { food, quantity, unit }
+    payload: { food, quantity }
   };
 };
 
