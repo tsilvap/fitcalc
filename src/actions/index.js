@@ -7,9 +7,9 @@ export const addFood = (food, quantity) => {
 };
 
 // Remove food from FoodsConsumed.
-export const removeFood = food => {
+export const removeFood = foodId => {
   return {
     type: 'REMOVE_FOOD',
-    payload: food
+    payload: foodId
   };
 };

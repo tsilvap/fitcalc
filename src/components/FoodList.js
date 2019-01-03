@@ -2,14 +2,20 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { Icon, Segment } from 'semantic-ui-react';
 
+import { removeFood } from '../actions';
 import './FoodList.css';
 
 class FoodList extends Component {
   renderList = foodsConsumed => {
     const foodItems = foodsConsumed.map(({ food, quantity }) => {
       return (
-        <Segment textAlign="left">
-          <Icon name="close" style={{ margin: '0 1em 0 0' }} />
+        <Segment key={food.id} textAlign="left">
+          <Icon
+            link
+            onClick={() => this.props.removeFood(food.id)}
+            name="close"
+            style={{ margin: '0 1em 0 0' }}
+          />
           <strong>{food.name}</strong>
           <span className="prep-method">{food.prepMethod}</span>
         </Segment>
@@ -30,4 +36,9 @@ const mapStateToProps = state => {
   return { foodsConsumed: state.foodsConsumed };
 };
 
-export default connect(mapStateToProps)(FoodList);
+const mapDispatchToProps = { removeFood };
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(FoodList);

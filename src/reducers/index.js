@@ -9,7 +9,7 @@ const foodsConsumedReducer = (foods = [], action) => {
     case 'REMOVE_FOOD':
       return foods.filter(foodConsumed => {
         // Does this work? Testing object equality
-        return foodConsumed.food !== action.payload;
+        return foodConsumed.food.id !== action.payload;
       });
 
     default:
