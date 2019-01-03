@@ -2,6 +2,7 @@ import React from 'react';
 import { Grid, Segment } from 'semantic-ui-react';
 
 import FoodForm from './FoodForm';
+import FoodList from './FoodList';
 import './App.css';
 
 const App = () => {
@@ -16,7 +17,9 @@ const App = () => {
           <Segment>
             <FoodForm />
           </Segment>
-          <Segment className="food-output">test</Segment>
+          <Segment className="food-output">
+            <FoodList />
+          </Segment>
         </Grid.Column>
       </Grid>
     </div>
