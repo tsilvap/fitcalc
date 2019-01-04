@@ -9,4 +9,5 @@ body {
 
 .ui.segment.food-output {
   flex: 1;
+  overflow-y: scroll;
 }

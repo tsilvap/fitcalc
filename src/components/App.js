@@ -18,7 +18,12 @@ const App = () => {
             <FoodForm />
           </Segment>
           <Segment className="food-output">
-            <FoodList />
+            <Grid divided style={{ height: '100%' }}>
+              <Grid.Column width={10}>
+                <FoodList />
+              </Grid.Column>
+              <Grid.Column width={6} />
+            </Grid>
           </Segment>
         </Grid.Column>
       </Grid>
