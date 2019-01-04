@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { Icon, Segment } from 'semantic-ui-react';
+import { Divider, Grid, Icon, Segment } from 'semantic-ui-react';
 
 import { removeFood } from '../actions';
 import './FoodList.css';
@@ -9,15 +9,23 @@ class FoodList extends Component {
   renderList = foodsConsumed => {
     const foodItems = foodsConsumed.map(({ food, quantity }) => {
       return (
-        <Segment key={food.id} textAlign="left">
+        <Segment
+          key={food.id}
+          textAlign="left"
+          style={{ display: 'flex', alignItems: 'center' }}
+        >
+          <div style={{ flexGrow: 1 }}>
+            <strong>{food.name}</strong>
+            <span className="prep-method">{food.prepMethod}</span>
+            <Divider />
+            Calorias et. al.
+          </div>
           <Icon
             link
             onClick={() => this.props.removeFood(food.id)}
-            name="close"
-            style={{ margin: '0 1em 0 0' }}
+            name="trash"
+            style={{ margin: '0 1em 0 1.5em' }}
           />
-          <strong>{food.name}</strong>
-          <span className="prep-method">{food.prepMethod}</span>
         </Segment>
       );
     });
