@@ -3,19 +3,8 @@ import { connect } from 'react-redux';
 import { Icon, Segment } from 'semantic-ui-react';
 
 import { removeFood } from '../actions';
+import { calculateAmount } from '../helpers';
 import './FoodList.css';
-
-/**
- * Calculate amount of calories, protein, etc. in `grams` grams of a
- * food.
- */
-function calculateAmount(grams, amountPerHundredGrams) {
-  if (isNaN(amountPerHundredGrams)) {
-    amountPerHundredGrams = 0;
-  }
-
-  return Math.round((grams * amountPerHundredGrams) / 10) / 10;
-}
 
 class FoodList extends Component {
   renderList = foodsConsumed => {
@@ -34,7 +23,7 @@ class FoodList extends Component {
               Calorias: {calculateAmount(quantity, food.calories)}kcal,
               Proteínas: {calculateAmount(quantity, food.protein)}g, Lipídios:{' '}
               {calculateAmount(quantity, food.lipid)}
-              g, Carboidratos: {calculateAmount(food.carb)}g
+              g, Carboidratos: {calculateAmount(quantity, food.carb)}g
             </small>
           </div>
           <Icon

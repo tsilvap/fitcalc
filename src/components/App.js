@@ -3,6 +3,7 @@ import { Grid, Segment } from 'semantic-ui-react';
 
 import FoodForm from './FoodForm';
 import FoodList from './FoodList';
+import FoodTotals from './FoodTotals';
 import './App.css';
 
 const App = () => {
@@ -22,7 +23,9 @@ const App = () => {
               <Grid.Column width={10}>
                 <FoodList />
               </Grid.Column>
-              <Grid.Column width={6} />
+              <Grid.Column width={6}>
+                <FoodTotals />
+              </Grid.Column>
             </Grid>
           </Segment>
         </Grid.Column>
