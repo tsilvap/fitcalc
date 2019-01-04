@@ -5,6 +5,18 @@ import { Divider, Grid, Icon, Segment } from 'semantic-ui-react';
 import { removeFood } from '../actions';
 import './FoodList.css';
 
+/**
+ * Calculate amount of calories, protein, etc. in `grams` grams of a
+ * food.
+ */
+function calculateAmount(grams, amountPerHundredGrams) {
+  if (isNaN(amountPerHundredGrams)) {
+    amountPerHundredGrams = 0;
+  }
+
+  return Math.round((grams * amountPerHundredGrams) / 10) / 10;
+}
+
 class FoodList extends Component {
   renderList = foodsConsumed => {
     const foodItems = foodsConsumed.map(({ food, quantity }) => {
@@ -17,8 +29,13 @@ class FoodList extends Component {
           <div style={{ flexGrow: 1 }}>
             <strong>{food.name}</strong>
             <span className="prep-method">{food.prepMethod}</span>
-            <Divider />
-            Calorias et. al.
+            <br />
+            <small>
+              Calorias: {calculateAmount(quantity, food.calories)}kcal,
+              Proteínas: {calculateAmount(quantity, food.protein)}g, Lipídios:{' '}
+              {calculateAmount(quantity, food.lipid)}
+              g, Carboidratos: {calculateAmount(food.carb)}g
+            </small>
           </div>
           <Icon
             link
