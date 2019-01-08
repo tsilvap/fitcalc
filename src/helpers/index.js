@@ -1,5 +1,4 @@
 // Calculate amount of calories, protein, etc. in `grams` of food.
 export function calculateAmount(grams, amountPerHundredGrams) {
-  // Round to one decimal place.
-  return Math.round((grams * amountPerHundredGrams) / 10) / 10;
+  return Number(((grams * amountPerHundredGrams) / 100).toFixed(1));
 }

@@ -42,9 +42,9 @@ class FoodTotals extends Component {
       <div className="food-totals" style={{ textAlign: 'left' }}>
         <h1>Total</h1>
         <Divider />
-        <h2>Calorias:</h2> {totals.calories} kcal
-        <h2>Proteínas:</h2> {totals.protein} g<h2>Lipídios:</h2> {totals.lipid}{' '}
-        g<h2>Carboidratos:</h2> {totals.carb} g
+        <h2>Calorias:</h2> {totals.calories.toFixed(1)} kcal
+        <h2>Proteínas:</h2> {totals.protein.toFixed(1)} g<h2>Lipídios:</h2> {totals.lipid.toFixed(1)}{' '}
+        g<h2>Carboidratos:</h2> {totals.carb.toFixed(1)} g
       </div>
     );
   }
