@@ -8,7 +8,7 @@ import foodList from '../data/foodList.json';
 import { addFood } from '../actions';
 
 class FoodForm extends React.Component {
-  state = { popupIsOpen: false };
+  state = { foodInput: '', popupIsOpen: false, quantityInput: '' };
 
   foodSelected = { foodId: null, quantity: null };
 
@@ -16,7 +16,12 @@ class FoodForm extends React.Component {
     this.foodSelected.foodId = foodId;
   };
 
+  handleFoodInputChange = input => {
+    this.setState({foodInput: input});
+  };
+
   handleQuantityChange = quantity => {
+    this.setState({quantityInput: quantity});
     this.foodSelected.quantity = quantity;
   };
 
@@ -31,6 +36,9 @@ class FoodForm extends React.Component {
         foodList.filter(food => food.id === this.foodSelected.foodId)[0],
         this.foodSelected.quantity
       );
+      this.setState({ foodInput: '', quantityInput: '' });
+      this.foodSelected.foodId = null;
+      this.foodSelected.quantity = null;
     }
   };
 
@@ -40,7 +48,11 @@ class FoodForm extends React.Component {
         <Form>
           <Form.Group className="form-content">
             <div className="form-dropdown">
-              <FoodDropdown handleSelect={this.handleFoodChange} />
+              <FoodDropdown
+                handleSelect={this.handleFoodChange}
+                handleChange={this.handleFoodInputChange}
+                input={this.state.foodInput}
+              />
             </div>
             <div className="form-quantity">
               <Form.Field>
@@ -50,6 +62,7 @@ class FoodForm extends React.Component {
                   labelPosition="right"
                   onChange={e => this.handleQuantityChange(e.target.value)}
                   placeholder="Qtd."
+                  value={this.state.quantityInput}
                 />
               </Form.Field>
             </div>

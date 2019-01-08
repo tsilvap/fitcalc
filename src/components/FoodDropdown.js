@@ -5,11 +5,12 @@ import foodList from '../data/foodList.json';
 import './FoodDropdown.css';
 
 class FoodDropdown extends Component {
-  state = { foodItems: [], searchQuery: '', selected: false, value: '' };
+  state = { foodItems: [], searchQuery: '', selected: false };
 
   handleChange = e => {
     const searchQuery = e.target.value;
-    this.setState({ searchQuery, selected: false, value: searchQuery });
+    this.setState({ searchQuery, selected: false });
+    this.props.handleChange(searchQuery);
     this.updateFoodItems(searchQuery);
 
     // De-select food in parent component
@@ -23,7 +24,8 @@ class FoodDropdown extends Component {
     // Set value of the input field
     const foodName = e.currentTarget.firstChild.innerHTML;
     const prepMethod = e.currentTarget.lastChild.textContent;
-    this.setState({ selected: true, value: `${foodName}, ${prepMethod}` });
+    this.setState({ selected: true });
+    this.props.handleChange(`${foodName}, ${prepMethod}`);
 
     // Call parent event handler
     this.props.handleSelect(foodId);
@@ -63,9 +65,10 @@ class FoodDropdown extends Component {
           <Input
             icon="search"
             iconPosition="left"
+            input={this.props.input}
             onChange={this.handleChange}
             placeholder="Nome do alimento"
-            value={this.state.value}
+            value={this.props.input}
           />
         </Form.Field>
         <Segment
