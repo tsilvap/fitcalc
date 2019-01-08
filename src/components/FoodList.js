@@ -17,7 +17,7 @@ class FoodList extends Component {
         >
           <div style={{ flexGrow: 1 }}>
             <strong>{food.name}</strong>
-            <span className="prep-method">{food.prepMethod}</span>
+            <span className="prep-method">{food.prepMethod !== 'Não se aplica' ? food.prepMethod : ''}</span>
             <br />
             <small>
               Calorias: {calculateAmount(quantity, food.calories)}kcal,

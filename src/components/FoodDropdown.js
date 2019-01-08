@@ -25,7 +25,7 @@ class FoodDropdown extends Component {
     const foodName = e.currentTarget.firstChild.innerHTML;
     const prepMethod = e.currentTarget.lastChild.textContent;
     this.setState({ selected: true });
-    this.props.handleChange(`${foodName}, ${prepMethod}`);
+    this.props.handleChange(`${foodName}${prepMethod.toLowerCase()}`);
 
     // Call parent event handler
     this.props.handleSelect(foodId);
@@ -39,14 +39,14 @@ class FoodDropdown extends Component {
 
     const foodItems = foodList
       .filter(food => {
-        const foodTerm = `${food.name}, ${food.prepMethod}`;
+        const foodTerm = `${food.name}${food.prepMethod.toLowerCase()}`;
         return foodTerm.toLowerCase().startsWith(query.toLowerCase());
       })
       .map(food => {
         return (
           <List.Item key={food.id} onClick={this.handleClick} value={food.id}>
-            <List.Header>{food.name}</List.Header>
-            {food.prepMethod}
+            <strong>{food.name} </strong>
+            {food.prepMethod !== 'Não se aplica' ? food.prepMethod.toLowerCase() : ''}
           </List.Item>
         );
       });
